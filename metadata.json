@@ -1,0 +1,70 @@
+{
+    "project_title": "ResiVal: Intelligent Residential Property Valuation",
+    "group": "Group 3",
+    "course": "Machine Learning Fundamentals",
+    "model_name": "Regularized Polynomial Regression (Degree 2 + Ridge L2)",
+    "metrics": {
+        "test_r2": 0.971,
+        "test_rmse": 39189.77,
+        "test_mae": 28194.33
+    },
+    "feature_ranges": {
+        "area": {
+            "min": 650,
+            "max": 3822,
+            "default": 1850
+        },
+        "bedrooms": {
+            "min": 1,
+            "max": 5,
+            "default": 3
+        },
+        "bathrooms": {
+            "min": 1,
+            "max": 4,
+            "default": 2
+        },
+        "age": {
+            "min": 0,
+            "max": 41,
+            "default": 10
+        },
+        "parking": {
+            "min": 0,
+            "max": 3,
+            "default": 1
+        },
+        "stories": {
+            "min": 1,
+            "max": 3,
+            "default": 2
+        }
+    },
+    "categorical_options": {
+        "location": [
+            "Downtown",
+            "Green Valley",
+            "Metro Corridor",
+            "Suburban Heights",
+            "Waterfront Bay",
+            "West Hills"
+        ],
+        "main_road": [
+            "Yes",
+            "No"
+        ],
+        "furnishing_status": [
+            "Furnished",
+            "Semi-Furnished",
+            "Unfurnished"
+        ]
+    },
+    "location_averages": {
+        "Downtown": 757669.54,
+        "Green Valley": 463589.54,
+        "Metro Corridor": 526909.9,
+        "Suburban Heights": 607295.79,
+        "Waterfront Bay": 810114.88,
+        "West Hills": 668781.79
+    }
+}

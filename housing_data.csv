@@ -1,0 +1,2501 @@
+area,bedrooms,bathrooms,location,age,parking,stories,main_road,furnishing_status,price
+2205,4,3,Suburban Heights,38,3,1,Yes,Furnished,696827.21
+1710,3,2,Downtown,20,1,1,Yes,Semi-Furnished,726738.15
+2342,3,1,Suburban Heights,39,2,1,Yes,Furnished,661154.85
+3324,5,3,Downtown,36,1,2,No,Unfurnished,1116938.73
+1646,2,2,Green Valley,17,3,2,Yes,Semi-Furnished,432521.49
+1646,2,1,Suburban Heights,11,1,2,Yes,Semi-Furnished,523710.77
+3400,5,4,Green Valley,16,2,2,Yes,Semi-Furnished,791837.12
+2457,5,4,Downtown,36,0,1,No,Semi-Furnished,915468.96
+1498,1,1,West Hills,37,2,1,Yes,Semi-Furnished,467600.11
+2246,3,2,Waterfront Bay,14,1,1,No,Unfurnished,881325.58
+1502,3,3,Suburban Heights,6,1,1,Yes,Unfurnished,503568.1
+1500,3,2,Metro Corridor,13,2,1,Yes,Semi-Furnished,459960.73
+1991,3,2,Green Valley,0,3,1,Yes,Semi-Furnished,523205.84
+841,1,1,Waterfront Bay,37,1,2,Yes,Unfurnished,345333.54
+906,1,1,Green Valley,2,2,2,Yes,Semi-Furnished,271691.76
+1443,2,1,West Hills,36,0,2,Yes,Furnished,467034.03
+1205,2,1,Green Valley,30,2,2,No,Furnished,388072.84
+2050,2,2,Suburban Heights,12,2,2,Yes,Unfurnished,600938.9
+1257,2,1,Green Valley,17,1,2,Yes,Furnished,341141.43
+1027,1,1,Metro Corridor,16,2,2,Yes,Unfurnished,343112.86
+3249,5,3,Downtown,16,2,1,Yes,Furnished,1247447.56
+1651,4,2,Waterfront Bay,10,1,2,Yes,Semi-Furnished,773051.93
+1857,3,2,Waterfront Bay,19,2,2,Yes,Semi-Furnished,858273.34
+1022,1,1,West Hills,9,0,1,Yes,Furnished,412628.12
+1454,3,3,Metro Corridor,28,2,1,Yes,Semi-Furnished,444666.73
+1890,3,1,Metro Corridor,33,2,1,Yes,Semi-Furnished,485624.93
+1140,2,1,West Hills,16,0,2,Yes,Semi-Furnished,421885.0
+2101,4,3,Suburban Heights,41,2,2,Yes,Semi-Furnished,642994.9
+1421,3,3,Downtown,12,1,1,No,Furnished,700435.93
+1608,2,1,Waterfront Bay,38,1,1,No,Semi-Furnished,592477.08
+1421,2,1,West Hills,26,1,3,Yes,Furnished,471628.84
+3792,5,4,Downtown,25,1,1,No,Semi-Furnished,1283779.81
+1798,3,2,Waterfront Bay,27,2,1,No,Unfurnished,710788.52
+1184,1,1,Suburban Heights,12,1,1,Yes,Semi-Furnished,375031.32
+2512,4,3,Downtown,11,1,2,Yes,Semi-Furnished,992864.48
+1109,2,3,Waterfront Bay,27,2,2,Yes,Semi-Furnished,619233.24
+1965,4,4,Downtown,1,0,1,No,Furnished,896338.3
+825,2,1,Green Valley,36,1,3,Yes,Semi-Furnished,271298.54
+1062,1,2,Downtown,33,1,2,Yes,Unfurnished,393538.0
+1956,3,2,Metro Corridor,22,2,1,Yes,Furnished,539416.01
+2429,3,2,Downtown,28,1,2,No,Unfurnished,754938.32
+1936,2,1,Metro Corridor,34,1,1,Yes,Semi-Furnished,425350.87
+1726,3,2,West Hills,10,1,2,No,Furnished,579219.96
+1602,2,1,Metro Corridor,32,2,1,No,Semi-Furnished,350116.71
+1000,3,3,Metro Corridor,10,0,2,Yes,Semi-Furnished,421338.51
+1355,2,2,West Hills,8,3,1,Yes,Furnished,601246.98
+1503,1,1,Green Valley,13,2,2,Yes,Unfurnished,369783.44
+2759,4,3,West Hills,8,2,1,No,Unfurnished,940680.05
+2074,4,3,West Hills,38,1,2,No,Unfurnished,703058.2
+893,3,2,Suburban Heights,2,1,1,No,Unfurnished,370463.03
+2058,2,2,Green Valley,28,2,3,Yes,Unfurnished,459420.06
+1549,1,1,Metro Corridor,18,0,2,Yes,Unfurnished,411739.48
+1379,3,2,Downtown,35,0,1,Yes,Furnished,584858.74
+2309,4,3,West Hills,31,1,3,Yes,Semi-Furnished,801300.24
+2730,4,2,Metro Corridor,6,3,1,No,Furnished,729271.17
+2624,4,2,Metro Corridor,27,2,2,Yes,Semi-Furnished,604860.39
+1292,1,1,Green Valley,17,1,2,Yes,Unfurnished,499922.23
+1597,2,1,Waterfront Bay,4,2,1,Yes,Furnished,697872.02
+2064,3,2,Suburban Heights,22,1,3,Yes,Semi-Furnished,706057.49
+2671,5,3,Suburban Heights,21,2,1,Yes,Semi-Furnished,844107.27
+1492,2,1,Waterfront Bay,25,1,1,Yes,Furnished,538013.76
+1678,3,3,Suburban Heights,41,2,2,No,Furnished,528730.08
+1161,1,1,Suburban Heights,11,1,2,Yes,Semi-Furnished,394685.99
+1120,2,1,Downtown,39,1,1,Yes,Furnished,425923.64
+2502,3,2,Waterfront Bay,18,1,1,Yes,Semi-Furnished,959724.28
+3110,5,3,Downtown,0,1,2,Yes,Semi-Furnished,1209846.39
+1756,2,1,West Hills,2,2,1,Yes,Semi-Furnished,601724.28
+2701,5,4,Suburban Heights,26,1,3,No,Furnished,845993.23
+2089,4,3,Waterfront Bay,17,1,2,Yes,Semi-Furnished,993094.02
+1396,2,2,Suburban Heights,29,1,1,Yes,Furnished,492672.02
+2089,3,2,Downtown,1,1,1,Yes,Unfurnished,828954.6
+3344,4,3,Green Valley,4,0,2,Yes,Semi-Furnished,725526.65
+1782,3,2,Waterfront Bay,28,1,1,No,Unfurnished,673855.49
+3380,5,3,Metro Corridor,32,1,2,Yes,Semi-Furnished,817440.38
+650,3,2,Suburban Heights,41,1,3,Yes,Unfurnished,303460.11
+2511,3,2,Metro Corridor,19,1,2,Yes,Semi-Furnished,627903.21
+1872,4,3,Waterfront Bay,29,3,1,No,Furnished,883301.6
+1604,3,3,Downtown,41,2,1,No,Semi-Furnished,641193.66
+1875,3,2,Metro Corridor,4,1,2,Yes,Furnished,563116.1
+816,2,2,Waterfront Bay,20,2,2,Yes,Unfurnished,473296.41
+1655,3,2,West Hills,14,2,2,No,Semi-Furnished,584977.41
+2085,3,2,Suburban Heights,19,1,1,No,Unfurnished,597875.93
+3265,5,4,West Hills,7,2,2,Yes,Unfurnished,1120894.14
+1469,3,2,Green Valley,30,0,1,Yes,Furnished,378350.39
+1308,3,3,Green Valley,11,2,2,No,Semi-Furnished,405958.49
+1479,2,3,Suburban Heights,20,1,2,Yes,Furnished,481586.0
+2607,3,2,Suburban Heights,29,1,2,Yes,Furnished,775487.13
+2062,3,2,Green Valley,26,1,1,No,Furnished,447409.45
+1462,2,1,Metro Corridor,25,3,2,Yes,Unfurnished,437883.08
+2220,3,2,Downtown,32,2,1,No,Semi-Furnished,783419.07
+1879,4,2,West Hills,25,1,2,Yes,Semi-Furnished,640398.3
+2663,4,2,Downtown,25,0,1,No,Furnished,872363.75
+1365,2,1,Green Valley,35,1,1,Yes,Semi-Furnished,295174.34
+1585,2,2,Downtown,39,1,1,No,Semi-Furnished,526852.55
+1545,3,2,Suburban Heights,0,0,2,Yes,Semi-Furnished,497735.58
+1006,1,1,West Hills,14,1,2,Yes,Furnished,389196.43
+2035,3,3,Green Valley,0,2,2,Yes,Semi-Furnished,566191.22
+2007,3,2,Metro Corridor,10,2,2,No,Semi-Furnished,571340.93
+1811,4,2,Waterfront Bay,1,1,2,Yes,Furnished,852351.2
+1646,2,1,West Hills,0,1,1,Yes,Unfurnished,510034.96
+1026,1,1,Green Valley,30,3,2,Yes,Furnished,312651.44
+1528,3,2,West Hills,15,2,2,Yes,Semi-Furnished,579370.13
+1576,2,2,West Hills,21,2,1,Yes,Furnished,554655.02
+1311,1,1,Metro Corridor,41,3,1,No,Furnished,324602.27
+1695,2,2,Suburban Heights,17,2,1,Yes,Unfurnished,515763.45
+2125,3,2,West Hills,16,0,1,Yes,Unfurnished,652093.48
+3844,5,3,Waterfront Bay,29,1,1,No,Semi-Furnished,1357417.7
+1938,2,1,Suburban Heights,9,3,1,Yes,Unfurnished,563460.71
+2004,4,2,Metro Corridor,34,1,2,Yes,Unfurnished,501973.44
+1754,3,2,Downtown,20,0,1,Yes,Semi-Furnished,639483.67
+839,2,1,Suburban Heights,15,1,1,Yes,Unfurnished,302460.28
+1788,2,3,Waterfront Bay,5,2,3,Yes,Semi-Furnished,891191.95
+1852,3,2,Downtown,2,3,2,Yes,Semi-Furnished,818787.18
+4800,5,3,Metro Corridor,40,1,1,No,Unfurnished,992295.82
+1674,3,2,West Hills,20,1,2,Yes,Furnished,618813.21
+2039,4,3,Downtown,12,2,1,Yes,Unfurnished,884291.07
+1783,2,2,Suburban Heights,17,1,1,No,Furnished,557289.6
+1132,2,1,Suburban Heights,23,0,1,Yes,Unfurnished,351190.54
+2855,5,3,Downtown,26,3,3,No,Semi-Furnished,1034623.2
+2442,5,4,Metro Corridor,3,1,2,Yes,Semi-Furnished,730357.2
+2480,4,2,Suburban Heights,21,1,2,Yes,Furnished,723432.57
+1256,2,1,Metro Corridor,23,2,3,Yes,Unfurnished,352853.96
+3168,5,3,Downtown,39,0,3,Yes,Furnished,1100923.64
+1032,2,1,Waterfront Bay,9,3,2,Yes,Semi-Furnished,611717.18
+2286,4,3,Downtown,1,1,2,Yes,Semi-Furnished,971303.17
+4342,5,3,Downtown,39,1,1,Yes,Furnished,1372501.08
+1216,3,2,Metro Corridor,5,0,1,Yes,Unfurnished,384957.11
+1441,3,2,Downtown,17,1,2,Yes,Furnished,629138.76
+1881,3,2,Downtown,16,2,2,Yes,Semi-Furnished,756024.98
+1478,2,1,Green Valley,37,2,3,Yes,Semi-Furnished,378850.86
+972,2,2,West Hills,22,3,1,Yes,Furnished,460729.35
+1858,3,3,Downtown,29,1,2,Yes,Furnished,701363.56
+1182,2,2,Green Valley,20,2,2,Yes,Semi-Furnished,352311.75
+2185,4,3,Downtown,9,1,1,Yes,Unfurnished,922558.53
+1251,3,1,Metro Corridor,12,2,2,Yes,Furnished,406772.02
+3360,5,4,Downtown,11,2,2,Yes,Furnished,1337695.35
+1321,2,2,West Hills,8,1,2,No,Unfurnished,519492.06
+1589,3,2,Suburban Heights,3,1,2,Yes,Furnished,606099.45
+2503,3,2,Waterfront Bay,38,1,1,Yes,Semi-Furnished,941103.64
+1105,2,1,West Hills,23,1,2,No,Semi-Furnished,405790.33
+1980,4,3,West Hills,33,3,2,No,Furnished,723030.26
+3049,5,4,Metro Corridor,38,1,2,No,Semi-Furnished,758371.91
+950,1,1,Metro Corridor,40,0,2,Yes,Unfurnished,238414.15
+1946,3,2,Suburban Heights,4,0,1,Yes,Semi-Furnished,624688.17
+2006,2,2,Suburban Heights,14,2,1,No,Semi-Furnished,528635.39
+2471,3,2,West Hills,3,1,1,No,Semi-Furnished,751257.75
+1102,1,1,West Hills,38,1,1,Yes,Semi-Furnished,357606.0
+1066,1,1,Suburban Heights,7,1,2,Yes,Furnished,404037.96
+2227,3,2,Suburban Heights,23,2,2,No,Semi-Furnished,625555.94
+2036,4,3,West Hills,27,1,1,Yes,Semi-Furnished,729150.62
+1998,3,3,Green Valley,26,2,1,Yes,Furnished,519264.15
+2076,4,2,West Hills,0,1,1,Yes,Unfurnished,732581.25
+1377,2,2,Waterfront Bay,33,1,1,Yes,Unfurnished,618044.4
+1984,4,3,West Hills,16,0,2,Yes,Unfurnished,761624.61
+2032,3,2,Metro Corridor,36,0,2,Yes,Furnished,518961.75
+1358,3,2,Metro Corridor,37,1,2,No,Unfurnished,379650.88
+3813,5,4,Metro Corridor,25,1,1,Yes,Semi-Furnished,880876.22
+2185,4,4,Metro Corridor,23,2,3,Yes,Unfurnished,671128.9
+1122,2,1,Suburban Heights,38,0,1,No,Unfurnished,321934.58
+2351,4,2,Suburban Heights,20,0,2,Yes,Unfurnished,646086.39
+1224,1,1,Metro Corridor,29,2,2,Yes,Unfurnished,341963.71
+2477,3,1,Waterfront Bay,12,1,2,Yes,Furnished,899697.11
+2873,5,3,Suburban Heights,36,2,1,Yes,Semi-Furnished,807292.65
+1302,1,1,Metro Corridor,2,2,1,Yes,Furnished,389652.16
+2658,4,3,Metro Corridor,31,1,2,Yes,Semi-Furnished,644668.07
+2132,2,2,Green Valley,34,2,1,No,Unfurnished,423149.25
+2511,4,3,Green Valley,18,1,1,No,Furnished,570646.09
+3861,5,3,Waterfront Bay,13,1,2,Yes,Semi-Furnished,1494348.44
+1639,3,2,Green Valley,21,1,2,Yes,Semi-Furnished,391021.51
+1337,2,1,Downtown,16,1,2,Yes,Furnished,576841.98
+1266,2,2,West Hills,3,1,1,Yes,Furnished,509921.73
+1304,2,1,Waterfront Bay,39,1,2,Yes,Furnished,494435.29
+1753,3,2,Waterfront Bay,18,1,1,No,Furnished,738118.21
+2072,3,2,Green Valley,36,0,2,Yes,Semi-Furnished,467063.35
+2019,3,2,Waterfront Bay,1,0,1,Yes,Semi-Furnished,832166.82
+2517,3,3,West Hills,14,0,2,Yes,Furnished,862222.66
+1817,3,1,Downtown,1,0,2,Yes,Unfurnished,698473.42
+3233,4,2,Downtown,10,1,1,No,Semi-Furnished,1182524.54
+1626,3,2,Suburban Heights,22,1,1,No,Semi-Furnished,756868.61
+4800,5,4,West Hills,9,1,1,Yes,Furnished,1451024.02
+2322,4,3,Waterfront Bay,2,2,1,Yes,Semi-Furnished,1084832.94
+1283,2,1,Waterfront Bay,4,2,2,No,Semi-Furnished,611337.18
+1178,2,1,West Hills,2,1,1,No,Semi-Furnished,451990.18
+2192,4,3,Downtown,37,2,2,No,Semi-Furnished,775966.08
+1653,3,3,Suburban Heights,12,1,2,Yes,Furnished,598961.44
+2405,4,2,Green Valley,41,0,1,Yes,Unfurnished,471515.57
+2184,4,3,Suburban Heights,18,2,2,Yes,Semi-Furnished,707071.59
+1756,2,2,Suburban Heights,39,0,1,Yes,Semi-Furnished,482963.01
+1288,2,1,West Hills,34,3,1,No,Unfurnished,423332.79
+986,2,2,Metro Corridor,23,1,1,Yes,Semi-Furnished,342123.22
+1512,2,1,Metro Corridor,23,1,2,Yes,Semi-Furnished,425696.18
+2546,4,3,Green Valley,16,1,1,Yes,Semi-Furnished,589395.68
+1969,3,2,Downtown,39,1,2,No,Furnished,711519.99
+1098,2,1,Green Valley,9,0,1,Yes,Unfurnished,239007.66
+1937,3,1,Green Valley,1,1,3,Yes,Semi-Furnished,490364.94
+2109,4,3,Metro Corridor,22,2,2,Yes,Semi-Furnished,633527.39
+1269,3,3,Suburban Heights,5,1,1,Yes,Unfurnished,471486.97
+1922,2,1,Metro Corridor,1,1,2,Yes,Semi-Furnished,529398.54
+1850,3,2,Waterfront Bay,20,1,2,Yes,Semi-Furnished,780608.89
+1144,3,3,Metro Corridor,34,2,1,No,Unfurnished,342955.27
+2086,3,2,Downtown,28,1,1,Yes,Furnished,805837.39
+2262,4,3,Metro Corridor,6,1,1,Yes,Furnished,648819.73
+2788,5,4,West Hills,28,3,2,No,Furnished,1015205.69
+2755,5,4,Downtown,36,1,2,No,Unfurnished,941608.0
+1042,2,3,Metro Corridor,22,1,1,Yes,Furnished,363171.6
+1242,3,3,West Hills,32,2,1,Yes,Semi-Furnished,545277.25
+2221,4,3,West Hills,7,2,2,Yes,Furnished,857889.49
+2220,3,2,Waterfront Bay,11,1,2,Yes,Semi-Furnished,917434.14
+2221,3,2,Metro Corridor,9,0,2,No,Semi-Furnished,571203.96
+4800,5,4,Suburban Heights,14,2,3,Yes,Unfurnished,1282783.82
+2271,3,2,Suburban Heights,23,1,1,Yes,Semi-Furnished,676950.36
+2847,5,3,Suburban Heights,25,3,1,Yes,Semi-Furnished,854133.24
+2648,4,3,West Hills,41,0,1,Yes,Unfurnished,771990.64
+2346,3,2,West Hills,38,1,2,Yes,Semi-Furnished,706729.83
+1593,3,2,Suburban Heights,2,0,1,Yes,Unfurnished,516779.56
+2449,3,2,Suburban Heights,1,2,1,Yes,Semi-Furnished,729616.67
+1327,2,2,Suburban Heights,5,2,2,Yes,Semi-Furnished,516815.95
+1644,3,2,Green Valley,20,2,1,Yes,Unfurnished,408535.05
+1488,2,1,West Hills,8,3,1,Yes,Semi-Furnished,552003.62
+1868,3,2,Suburban Heights,9,0,2,Yes,Furnished,613384.39
+4563,5,4,Suburban Heights,35,0,1,Yes,Furnished,1166461.29
+856,1,1,Suburban Heights,2,2,1,No,Unfurnished,326415.55
+2379,3,2,Metro Corridor,40,2,2,Yes,Unfurnished,578604.68
+948,2,1,Downtown,23,2,1,Yes,Semi-Furnished,438026.14
+1497,3,4,West Hills,21,2,1,Yes,Unfurnished,616110.42
+2794,4,2,Waterfront Bay,13,1,3,Yes,Semi-Furnished,1105228.71
+1855,3,2,Waterfront Bay,41,1,1,Yes,Semi-Furnished,749345.24
+1174,3,2,Downtown,26,3,2,Yes,Semi-Furnished,600924.13
+1358,2,2,Metro Corridor,32,1,1,Yes,Semi-Furnished,353226.0
+2372,3,3,Green Valley,21,1,2,Yes,Semi-Furnished,547743.31
+1349,3,3,Downtown,28,2,1,Yes,Furnished,674804.87
+1971,4,3,Suburban Heights,18,1,1,Yes,Furnished,683020.7
+1841,3,2,Downtown,18,2,1,No,Unfurnished,655846.74
+1393,2,1,Metro Corridor,5,0,2,Yes,Unfurnished,385339.79
+4262,5,4,West Hills,18,2,2,Yes,Semi-Furnished,1348431.74
+2329,3,3,Waterfront Bay,12,2,1,Yes,Unfurnished,1015970.6
+804,1,1,Downtown,25,1,3,Yes,Semi-Furnished,385848.49
+1948,3,3,Metro Corridor,21,1,1,Yes,Unfurnished,535973.48
+1387,3,2,West Hills,20,1,2,Yes,Furnished,589197.78
+2542,4,3,Downtown,35,1,1,No,Semi-Furnished,919020.72
+1316,2,1,West Hills,1,1,2,Yes,Semi-Furnished,512739.81
+1726,3,2,Metro Corridor,29,1,2,Yes,Furnished,293862.33
+2212,3,2,West Hills,26,1,2,Yes,Semi-Furnished,701748.03
+2556,4,3,Suburban Heights,6,0,1,Yes,Unfurnished,747073.61
+1118,1,1,West Hills,19,0,1,Yes,Semi-Furnished,364741.62
+1581,2,1,West Hills,30,2,2,No,Unfurnished,493463.14
+1495,2,1,West Hills,22,0,1,Yes,Semi-Furnished,474502.17
+1392,1,1,Green Valley,12,2,1,No,Semi-Furnished,338057.48
+3663,5,4,Downtown,16,2,1,Yes,Semi-Furnished,1330811.57
+2125,3,2,West Hills,3,2,1,No,Furnished,709659.24
+1091,3,2,Downtown,13,2,1,No,Semi-Furnished,546329.4
+2610,5,3,Waterfront Bay,19,0,2,Yes,Semi-Furnished,1063899.34
+4225,5,3,West Hills,12,2,2,No,Unfurnished,1239941.28
+2732,4,2,Green Valley,2,1,2,Yes,Semi-Furnished,608692.13
+984,1,1,Downtown,25,2,1,Yes,Semi-Furnished,414769.99
+1489,2,1,Green Valley,25,2,2,Yes,Furnished,401316.03
+3001,5,3,Waterfront Bay,17,0,2,Yes,Unfurnished,1176586.94
+1362,2,1,Suburban Heights,31,1,2,No,Semi-Furnished,416352.49
+2159,3,1,Downtown,13,1,1,Yes,Unfurnished,751855.05
+2464,4,4,West Hills,2,2,3,Yes,Semi-Furnished,896053.63
+1247,2,2,West Hills,0,1,2,Yes,Semi-Furnished,555660.81
+1765,2,1,Suburban Heights,25,1,3,No,Semi-Furnished,486957.28
+650,2,2,Suburban Heights,23,1,1,No,Semi-Furnished,258363.68
+1200,1,1,West Hills,34,1,1,Yes,Semi-Furnished,399399.89
+1634,3,3,West Hills,13,3,1,Yes,Semi-Furnished,677561.66
+1097,2,1,Suburban Heights,2,2,2,Yes,Semi-Furnished,431295.77
+3473,5,4,Metro Corridor,12,1,1,Yes,Unfurnished,868263.75
+1020,2,1,West Hills,13,0,2,Yes,Furnished,395736.39
+1516,2,1,Waterfront Bay,20,0,2,Yes,Semi-Furnished,674076.58
+1905,3,2,Waterfront Bay,25,1,2,Yes,Furnished,818797.09
+3217,5,4,Metro Corridor,2,2,2,Yes,Furnished,897305.63
+1018,1,2,Downtown,39,1,2,Yes,Semi-Furnished,417961.83
+2879,4,2,Metro Corridor,3,1,2,No,Furnished,692434.73
+1815,2,2,Suburban Heights,35,2,1,No,Semi-Furnished,490222.95
+1220,2,1,Suburban Heights,0,2,2,Yes,Furnished,444591.04
+2175,3,2,Waterfront Bay,39,1,2,No,Semi-Furnished,768930.84
+1957,3,1,Green Valley,32,0,1,Yes,Furnished,389978.84
+1422,2,1,Green Valley,6,1,3,Yes,Furnished,384866.34
+1859,3,2,Green Valley,10,2,1,Yes,Unfurnished,457468.03
+1549,3,2,Downtown,26,3,1,No,Semi-Furnished,589573.05
+1892,3,2,Metro Corridor,13,0,1,Yes,Unfurnished,503622.49
+2356,3,2,Suburban Heights,21,0,1,Yes,Furnished,671910.83
+3409,5,4,West Hills,15,2,2,Yes,Unfurnished,1128141.05
+1101,1,1,Waterfront Bay,11,2,3,Yes,Semi-Furnished,637010.51
+4243,5,4,West Hills,9,3,2,No,Furnished,1355398.29
+828,1,1,Green Valley,23,1,3,Yes,Semi-Furnished,267914.97
+1701,2,1,Waterfront Bay,17,1,1,No,Semi-Furnished,658480.58
+2287,3,3,Waterfront Bay,21,0,1,Yes,Semi-Furnished,963714.93
+2023,3,2,Downtown,8,0,2,No,Semi-Furnished,789413.49
+1409,2,2,Waterfront Bay,16,1,2,No,Semi-Furnished,624606.26
+1663,3,3,Suburban Heights,37,1,1,Yes,Semi-Furnished,520425.3
+1484,2,2,Metro Corridor,39,0,3,No,Semi-Furnished,346896.15
+1428,2,1,Waterfront Bay,12,2,2,Yes,Unfurnished,644729.26
+2539,3,2,West Hills,36,1,3,No,Semi-Furnished,790664.07
+2085,3,3,Suburban Heights,5,2,1,Yes,Semi-Furnished,687876.12
+1370,2,1,Waterfront Bay,20,1,2,Yes,Semi-Furnished,643384.87
+2591,4,3,Suburban Heights,35,2,2,Yes,Unfurnished,758548.32
+2044,2,2,Downtown,6,0,2,Yes,Semi-Furnished,802797.83
+2502,4,3,West Hills,35,2,1,No,Furnished,814000.64
+2325,4,3,Downtown,24,0,3,No,Semi-Furnished,837399.34
+1297,2,1,West Hills,10,1,2,Yes,Semi-Furnished,476406.48
+1445,4,3,Downtown,13,2,1,Yes,Semi-Furnished,701219.65
+2437,4,3,Green Valley,28,0,1,Yes,Semi-Furnished,531340.41
+2308,3,2,Metro Corridor,9,1,2,Yes,Semi-Furnished,573234.16
+1792,3,2,Suburban Heights,4,2,2,Yes,Unfurnished,553322.89
+1894,2,2,Suburban Heights,7,2,2,Yes,Semi-Furnished,639499.29
+3014,5,3,Waterfront Bay,4,0,1,Yes,Semi-Furnished,1227932.22
+1427,2,1,Metro Corridor,23,0,2,Yes,Semi-Furnished,381394.23
+2250,4,2,Suburban Heights,39,0,2,Yes,Furnished,647651.19
+1667,2,1,Metro Corridor,25,0,1,No,Unfurnished,352496.99
+1657,2,1,Downtown,5,3,2,Yes,Semi-Furnished,717884.89
+2805,4,3,Downtown,15,1,1,Yes,Semi-Furnished,966147.15
+2515,5,3,Suburban Heights,35,1,1,Yes,Unfurnished,673625.18
+2503,4,3,Downtown,11,3,2,Yes,Furnished,1023738.45
+3047,5,3,West Hills,10,1,3,Yes,Unfurnished,1031723.43
+1823,3,2,Downtown,2,2,1,Yes,Unfurnished,720678.46
+2375,4,2,Metro Corridor,36,1,1,Yes,Unfurnished,530770.6
+1597,3,2,Metro Corridor,5,1,1,No,Furnished,483282.01
+2058,3,2,Waterfront Bay,18,1,1,Yes,Semi-Furnished,823971.65
+1716,1,1,Suburban Heights,17,0,1,Yes,Furnished,492850.91
+1879,3,2,Suburban Heights,15,1,2,Yes,Semi-Furnished,630982.21
+2294,4,2,West Hills,22,1,1,Yes,Semi-Furnished,708705.89
+1303,2,2,Suburban Heights,36,0,3,No,Furnished,419422.35
+4175,5,4,Downtown,8,1,1,No,Semi-Furnished,1433704.02
+1209,2,1,Waterfront Bay,2,1,2,Yes,Semi-Furnished,622716.05
+1112,3,2,Suburban Heights,7,1,2,Yes,Unfurnished,431234.3
+2873,5,3,Green Valley,37,1,2,No,Semi-Furnished,618187.36
+2481,4,3,Metro Corridor,3,2,1,Yes,Semi-Furnished,709469.67
+2320,4,3,Downtown,11,0,2,Yes,Semi-Furnished,920611.23
+2324,3,1,West Hills,30,1,2,Yes,Unfurnished,737121.2
+1799,2,1,Green Valley,24,2,2,Yes,Semi-Furnished,399167.77
+1262,1,1,Downtown,15,0,2,No,Semi-Furnished,465967.91
+1863,4,3,West Hills,41,2,1,Yes,Furnished,679916.76
+1379,2,2,Suburban Heights,13,2,2,Yes,Semi-Furnished,493566.9
+2670,4,2,West Hills,12,0,3,Yes,Unfurnished,880652.96
+1704,2,1,West Hills,40,0,2,No,Unfurnished,471004.86
+1299,3,2,Green Valley,6,3,2,Yes,Furnished,408620.4
+1589,3,2,Waterfront Bay,11,1,2,No,Semi-Furnished,758714.53
+2132,5,3,Metro Corridor,36,2,2,Yes,Furnished,634772.92
+1443,2,2,Waterfront Bay,3,1,2,No,Unfurnished,716917.85
+1301,2,1,Suburban Heights,1,1,2,Yes,Semi-Furnished,477681.43
+1993,2,2,Green Valley,34,0,1,Yes,Unfurnished,398691.18
+1994,4,2,Metro Corridor,2,1,2,Yes,Semi-Furnished,578201.63
+1476,2,1,Waterfront Bay,3,1,2,No,Unfurnished,669111.27
+1497,2,1,West Hills,37,2,1,Yes,Unfurnished,447238.33
+1983,2,2,Downtown,11,2,1,Yes,Furnished,743169.11
+1013,1,1,Waterfront Bay,18,2,2,Yes,Unfurnished,489936.09
+1029,1,1,West Hills,9,1,2,Yes,Unfurnished,357260.38
+1356,2,1,West Hills,0,2,1,No,Semi-Furnished,518430.05
+1660,2,1,Suburban Heights,16,2,2,Yes,Unfurnished,517648.06
+2047,3,2,West Hills,15,3,2,No,Semi-Furnished,718128.78
+3262,5,4,Suburban Heights,8,1,2,Yes,Unfurnished,1009010.21
+2547,3,2,Downtown,8,2,1,No,Furnished,960274.0
+1695,3,3,Suburban Heights,8,1,3,Yes,Semi-Furnished,599926.85
+1794,3,2,Green Valley,11,1,2,Yes,Furnished,485422.37
+1210,2,2,Metro Corridor,40,3,1,Yes,Unfurnished,372955.12
+1794,2,1,Suburban Heights,14,0,1,No,Unfurnished,467753.64
+1610,2,1,Downtown,1,0,1,Yes,Semi-Furnished,593761.51
+2057,4,2,West Hills,10,2,2,Yes,Semi-Furnished,731064.95
+1298,2,1,West Hills,10,0,1,No,Semi-Furnished,420143.44
+2225,3,2,Waterfront Bay,7,2,2,No,Semi-Furnished,898821.53
+3337,5,4,Suburban Heights,31,2,1,No,Semi-Furnished,961077.79
+1731,2,1,Green Valley,5,0,2,Yes,Semi-Furnished,402634.75
+2123,4,2,West Hills,19,1,1,Yes,Furnished,751009.56
+2382,4,3,Suburban Heights,38,2,2,No,Furnished,744997.2
+1539,2,1,West Hills,34,1,3,Yes,Semi-Furnished,521488.5
+1977,3,3,Downtown,7,3,1,Yes,Semi-Furnished,886280.79
+1817,2,1,Downtown,33,2,1,Yes,Unfurnished,600383.47
+1880,3,2,Green Valley,18,1,2,No,Semi-Furnished,447292.11
+1327,3,3,Waterfront Bay,6,0,1,Yes,Furnished,705030.83
+1825,2,1,Waterfront Bay,30,3,2,No,Semi-Furnished,694823.16
+2206,4,2,Suburban Heights,17,1,1,Yes,Semi-Furnished,655603.09
+3230,4,2,Metro Corridor,39,0,1,No,Semi-Furnished,719175.37
+2653,4,3,Metro Corridor,13,2,3,Yes,Semi-Furnished,726350.24
+4278,5,4,Downtown,38,2,2,Yes,Semi-Furnished,1389673.02
+1330,2,2,West Hills,35,2,2,Yes,Semi-Furnished,490913.22
+2562,3,3,Suburban Heights,16,1,1,No,Furnished,720867.5
+1945,3,1,Suburban Heights,36,2,1,Yes,Semi-Furnished,554171.26
+4341,5,4,West Hills,8,2,2,No,Furnished,1385459.26
+1308,2,1,Downtown,19,2,1,Yes,Furnished,555293.56
+1292,1,1,Green Valley,27,3,2,Yes,Furnished,337839.47
+1422,1,1,West Hills,19,1,1,Yes,Furnished,480113.53
+773,1,1,Suburban Heights,40,2,1,Yes,Unfurnished,239195.79
+1465,3,3,West Hills,35,3,2,Yes,Furnished,578256.53
+1334,1,1,Waterfront Bay,26,0,2,Yes,Furnished,528615.01
+1920,3,2,West Hills,7,0,2,No,Unfurnished,718293.94
+2072,3,3,Downtown,31,2,2,No,Semi-Furnished,759141.74
+3829,5,3,Suburban Heights,0,1,2,Yes,Semi-Furnished,1039881.49
+2644,4,2,West Hills,16,0,2,Yes,Semi-Furnished,886510.31
+1435,2,1,Metro Corridor,8,0,2,Yes,Semi-Furnished,411350.48
+1262,2,1,Waterfront Bay,19,1,1,No,Semi-Furnished,533363.45
+2201,2,1,Suburban Heights,31,1,1,Yes,Furnished,572935.83
+1066,2,1,Suburban Heights,1,1,3,Yes,Unfurnished,419229.08
+3761,5,4,Suburban Heights,31,3,1,Yes,Furnished,1077332.22
+2897,5,3,Waterfront Bay,8,2,1,Yes,Furnished,1277578.13
+1498,5,4,West Hills,29,2,2,Yes,Semi-Furnished,710090.12
+911,1,1,Waterfront Bay,19,0,2,Yes,Semi-Furnished,439770.86
+3107,5,4,Green Valley,37,2,2,Yes,Semi-Furnished,697575.35
+1727,2,1,Suburban Heights,0,2,1,Yes,Unfurnished,539879.98
+2966,5,4,Metro Corridor,4,2,3,Yes,Unfurnished,818538.8
+955,1,1,Waterfront Bay,34,1,2,No,Unfurnished,421737.02
+1422,2,1,Metro Corridor,35,1,2,Yes,Furnished,367424.9
+1811,2,2,Downtown,0,2,1,Yes,Unfurnished,722405.01
+1842,3,2,Metro Corridor,13,2,1,Yes,Semi-Furnished,498564.88
+1510,1,1,Suburban Heights,8,2,1,Yes,Furnished,471646.9
+2319,4,3,Suburban Heights,29,1,1,Yes,Semi-Furnished,680418.25
+1179,2,1,Downtown,23,1,1,Yes,Semi-Furnished,461660.61
+1707,2,2,Downtown,3,2,1,Yes,Furnished,692423.3
+1897,3,2,West Hills,13,0,2,Yes,Semi-Furnished,695548.49
+2221,4,3,West Hills,24,2,2,Yes,Unfurnished,784516.33
+2403,3,2,West Hills,3,3,2,Yes,Furnished,852666.24
+1153,2,1,Waterfront Bay,24,2,1,Yes,Semi-Furnished,551441.37
+978,1,1,Waterfront Bay,9,1,1,Yes,Semi-Furnished,541452.95
+3014,5,4,Metro Corridor,34,1,1,Yes,Semi-Furnished,754587.12
+2065,4,2,Metro Corridor,6,2,1,Yes,Furnished,598165.65
+1340,3,2,Suburban Heights,41,2,1,Yes,Semi-Furnished,422582.2
+3362,5,3,West Hills,12,1,2,Yes,Semi-Furnished,1110791.31
+1893,3,1,Metro Corridor,3,1,2,No,Unfurnished,505919.15
+2897,5,3,Metro Corridor,35,0,2,Yes,Unfurnished,699329.15
+1857,4,2,Downtown,13,2,2,Yes,Unfurnished,760710.08
+4122,5,4,Metro Corridor,17,2,2,Yes,Furnished,1039234.5
+3648,5,3,Suburban Heights,7,3,2,No,Furnished,1081153.16
+1636,2,2,West Hills,31,1,2,Yes,Semi-Furnished,604624.0
+2666,4,3,Suburban Heights,26,2,2,No,Semi-Furnished,764314.39
+2340,4,3,West Hills,41,1,2,No,Unfurnished,764008.1
+3125,5,4,West Hills,36,1,2,Yes,Unfurnished,1009269.53
+1229,2,2,Suburban Heights,22,2,1,Yes,Semi-Furnished,392116.91
+2378,4,3,Suburban Heights,6,1,2,Yes,Furnished,816863.11
+2761,5,3,West Hills,11,1,3,Yes,Unfurnished,969293.46
+894,2,1,Suburban Heights,24,2,2,Yes,Furnished,379741.24
+1126,2,1,Downtown,2,1,1,Yes,Furnished,547510.33
+799,1,1,Downtown,25,0,1,Yes,Unfurnished,325363.45
+1623,2,1,West Hills,3,1,2,Yes,Semi-Furnished,555824.13
+2409,4,3,Metro Corridor,41,1,3,No,Furnished,637368.42
+3297,5,4,Metro Corridor,35,2,1,Yes,Semi-Furnished,836795.48
+1862,4,2,Waterfront Bay,14,1,2,No,Furnished,775340.87
+3468,5,3,Suburban Heights,31,2,2,Yes,Semi-Furnished,1014139.59
+1041,1,1,Waterfront Bay,28,0,1,Yes,Furnished,410338.93
+914,1,1,Green Valley,9,1,2,Yes,Unfurnished,279430.92
+1768,2,1,Waterfront Bay,20,1,1,No,Semi-Furnished,650125.09
+2108,4,2,Suburban Heights,15,2,2,Yes,Semi-Furnished,666206.24
+1784,2,1,West Hills,18,1,2,No,Furnished,577685.04
+790,2,1,Metro Corridor,28,2,2,Yes,Furnished,345255.51
+1744,3,2,Downtown,17,1,2,No,Semi-Furnished,747705.57
+1072,2,2,Waterfront Bay,15,3,1,No,Semi-Furnished,549407.29
+2363,3,2,Suburban Heights,0,2,2,No,Furnished,764074.51
+2093,3,1,West Hills,1,2,2,Yes,Semi-Furnished,735691.78
+1241,1,2,Downtown,14,2,2,Yes,Unfurnished,608560.5
+1472,2,2,West Hills,38,2,2,Yes,Semi-Furnished,559665.88
+1183,1,1,Suburban Heights,27,2,1,Yes,Furnished,389432.0
+1763,3,2,Metro Corridor,0,1,2,Yes,Semi-Furnished,530885.36
+2649,5,4,Waterfront Bay,4,0,2,No,Semi-Furnished,1174754.82
+1218,2,2,Downtown,41,2,1,Yes,Furnished,521514.92
+2211,4,2,Metro Corridor,21,1,3,No,Semi-Furnished,556607.99
+1462,2,2,West Hills,35,1,2,Yes,Semi-Furnished,517946.65
+1316,3,3,Metro Corridor,12,1,2,Yes,Unfurnished,428712.85
+1732,3,2,Metro Corridor,0,1,2,Yes,Semi-Furnished,512015.27
+1195,2,1,Downtown,15,2,2,No,Furnished,557887.57
+1448,3,2,Waterfront Bay,40,0,2,Yes,Semi-Furnished,615101.04
+1119,1,1,Waterfront Bay,21,3,1,No,Furnished,495546.95
+3967,5,3,Green Valley,31,3,2,Yes,Furnished,832401.92
+1833,2,2,Suburban Heights,15,3,2,No,Semi-Furnished,561428.95
+1366,2,2,Downtown,14,1,2,Yes,Unfurnished,576906.73
+1969,2,1,Waterfront Bay,41,1,2,Yes,Unfurnished,751749.49
+1728,3,1,Metro Corridor,11,3,1,Yes,Furnished,485238.67
+1655,2,1,Metro Corridor,0,2,1,No,Unfurnished,439174.83
+2311,4,3,Green Valley,16,2,2,Yes,Furnished,603148.1
+2447,3,2,Suburban Heights,40,1,1,No,Furnished,672259.2
+1462,1,1,West Hills,27,1,2,Yes,Unfurnished,463484.69
+1436,2,1,Waterfront Bay,6,2,1,Yes,Unfurnished,651489.04
+1619,1,1,Downtown,8,1,1,Yes,Furnished,641882.09
+719,1,1,Downtown,21,2,1,Yes,Furnished,340876.26
+986,1,1,Waterfront Bay,25,2,2,Yes,Furnished,511987.48
+3123,5,3,West Hills,11,2,2,No,Semi-Furnished,996596.52
+3491,5,3,Green Valley,6,1,2,No,Unfurnished,744560.78
+1636,3,3,Downtown,14,1,3,Yes,Furnished,748961.6
+2277,4,3,Green Valley,37,3,1,No,Semi-Furnished,510436.97
+2047,3,2,Suburban Heights,20,2,1,Yes,Furnished,662030.97
+4800,5,3,Suburban Heights,13,2,2,Yes,Furnished,1314310.96
+2829,4,3,Suburban Heights,1,2,2,Yes,Unfurnished,894349.39
+1717,3,3,Suburban Heights,7,2,1,Yes,Unfurnished,607174.21
+1233,3,2,Waterfront Bay,5,2,3,Yes,Furnished,678727.12
+950,2,1,West Hills,36,1,3,Yes,Furnished,381690.7
+1961,3,2,Metro Corridor,36,1,1,Yes,Furnished,526983.52
+1336,1,1,Metro Corridor,32,1,1,No,Semi-Furnished,328889.86
+1023,1,1,Suburban Heights,40,0,2,Yes,Furnished,337947.92
+1396,2,1,Metro Corridor,5,1,1,No,Semi-Furnished,385513.37
+1173,2,2,West Hills,25,0,1,No,Semi-Furnished,404086.07
+3550,5,3,Green Valley,38,2,2,Yes,Furnished,730651.06
+2572,5,3,Suburban Heights,40,1,2,Yes,Unfurnished,765689.66
+1802,4,3,Green Valley,36,0,2,Yes,Furnished,460379.69
+3268,5,4,West Hills,13,0,1,No,Unfurnished,993863.03
+1864,3,2,Metro Corridor,36,2,2,No,Semi-Furnished,496654.64
+1281,2,2,Downtown,7,0,2,No,Unfurnished,576235.04
+3325,5,4,Suburban Heights,38,1,1,Yes,Furnished,963561.13
+2242,3,1,Suburban Heights,12,0,1,No,Semi-Furnished,609689.36
+1194,2,1,Downtown,12,2,2,Yes,Furnished,581032.64
+1675,2,1,Waterfront Bay,39,3,3,Yes,Unfurnished,587227.27
+1273,2,1,Green Valley,27,3,3,Yes,Semi-Furnished,388561.88
+1039,2,2,Suburban Heights,17,1,1,No,Semi-Furnished,348528.87
+2618,3,2,Downtown,18,2,2,No,Semi-Furnished,901505.57
+3880,5,4,Suburban Heights,37,1,2,Yes,Unfurnished,1030849.48
+1033,1,1,Downtown,31,1,2,No,Unfurnished,358605.02
+2264,5,3,Suburban Heights,21,1,2,No,Unfurnished,733875.35
+1393,2,1,West Hills,1,0,1,Yes,Unfurnished,500585.33
+1487,1,1,Suburban Heights,12,2,2,Yes,Unfurnished,442388.63
+1426,2,1,Metro Corridor,22,1,1,Yes,Semi-Furnished,366207.34
+1279,1,1,Downtown,24,1,1,Yes,Furnished,559166.55
+1843,3,2,Metro Corridor,27,1,2,Yes,Furnished,520315.43
+1296,2,1,Green Valley,10,1,3,Yes,Semi-Furnished,349586.96
+2014,3,2,Downtown,32,2,1,No,Semi-Furnished,665848.34
+1772,4,3,Metro Corridor,23,2,2,Yes,Semi-Furnished,512855.1
+1643,2,2,Suburban Heights,1,2,1,Yes,Furnished,544923.14
+1257,1,1,Suburban Heights,29,1,2,Yes,Semi-Furnished,380747.79
+1435,2,2,Waterfront Bay,16,0,2,Yes,Furnished,694299.53
+2445,4,2,Suburban Heights,39,1,1,No,Semi-Furnished,663383.0
+2209,2,2,Green Valley,33,3,1,Yes,Semi-Furnished,512559.79
+1222,1,1,Waterfront Bay,37,3,1,Yes,Furnished,540068.43
+1881,3,1,Downtown,21,2,1,No,Unfurnished,619341.17
+2441,4,2,Waterfront Bay,4,1,1,Yes,Semi-Furnished,1024038.19
+927,2,1,Suburban Heights,39,0,2,No,Unfurnished,271050.28
+2246,3,2,Green Valley,15,1,1,Yes,Furnished,522340.42
+1387,2,2,West Hills,12,2,2,Yes,Furnished,568370.45
+2271,4,2,Waterfront Bay,25,2,1,No,Furnished,916011.13
+1332,1,1,Suburban Heights,30,2,2,Yes,Furnished,383073.76
+878,1,1,Suburban Heights,38,2,1,Yes,Furnished,266399.57
+942,2,2,Downtown,22,0,1,Yes,Furnished,520528.84
+1843,3,2,Suburban Heights,11,0,2,Yes,Unfurnished,535953.72
+2005,3,2,Downtown,13,0,1,No,Unfurnished,648354.08
+1259,2,1,Metro Corridor,17,1,2,No,Unfurnished,318475.0
+2334,2,2,Suburban Heights,26,1,2,Yes,Unfurnished,647309.85
+930,1,1,Metro Corridor,27,2,2,Yes,Semi-Furnished,306579.39
+1760,3,3,Green Valley,17,2,1,No,Semi-Furnished,426713.71
+1113,1,1,Green Valley,15,1,1,No,Furnished,278087.94
+1393,2,1,Downtown,15,0,2,Yes,Furnished,535165.51
+1842,3,3,Green Valley,12,0,2,No,Unfurnished,442472.83
+1281,2,1,Metro Corridor,28,2,1,Yes,Unfurnished,336571.61
+1550,2,1,Metro Corridor,8,1,1,Yes,Unfurnished,393341.32
+2704,4,2,Downtown,25,1,1,No,Unfurnished,877661.8
+1435,2,2,Downtown,27,2,2,Yes,Furnished,544086.37
+2525,4,4,Green Valley,40,1,1,Yes,Semi-Furnished,573334.5
+1150,2,2,Waterfront Bay,12,1,2,Yes,Semi-Furnished,592497.65
+2234,3,3,Downtown,35,2,1,Yes,Unfurnished,767017.43
+3218,5,3,Suburban Heights,8,2,2,Yes,Unfurnished,942785.54
+672,1,1,Green Valley,13,2,1,No,Semi-Furnished,205010.33
+1314,1,1,Suburban Heights,11,1,2,Yes,Furnished,391059.25
+2277,4,4,Green Valley,31,1,1,Yes,Furnished,551551.95
+1667,2,2,Suburban Heights,37,2,1,Yes,Semi-Furnished,475385.35
+2097,3,2,Waterfront Bay,2,1,1,Yes,Unfurnished,883943.69
+1419,3,3,Suburban Heights,15,2,1,Yes,Furnished,581902.97
+1871,2,1,West Hills,19,2,1,Yes,Furnished,622245.26
+1698,2,2,Suburban Heights,31,2,2,Yes,Semi-Furnished,558189.59
+2884,4,3,Suburban Heights,22,1,2,No,Unfurnished,794223.83
+2001,3,2,Waterfront Bay,16,1,1,Yes,Semi-Furnished,840837.37
+2069,4,3,Waterfront Bay,15,1,2,No,Semi-Furnished,919406.03
+1533,2,1,West Hills,37,2,2,Yes,Semi-Furnished,577886.98
+1487,2,1,Suburban Heights,7,1,1,No,Furnished,457962.8
+1520,2,2,Downtown,18,0,3,Yes,Furnished,659831.47
+2117,3,2,Downtown,29,0,2,No,Unfurnished,720898.57
+1527,2,2,Suburban Heights,33,1,3,Yes,Unfurnished,503962.39
+2030,3,2,Green Valley,13,0,1,No,Semi-Furnished,457774.88
+4147,5,3,Suburban Heights,21,0,1,Yes,Semi-Furnished,1087398.96
+2561,4,2,Downtown,16,2,2,No,Unfurnished,887786.55
+1586,2,2,Suburban Heights,14,0,2,No,Semi-Furnished,456558.84
+2923,4,3,West Hills,31,0,1,Yes,Furnished,889729.56
+1535,3,2,West Hills,12,2,2,Yes,Semi-Furnished,609884.04
+800,2,2,Waterfront Bay,20,2,2,Yes,Semi-Furnished,503157.11
+1208,2,2,West Hills,39,1,1,No,Semi-Furnished,388520.94
+855,1,1,West Hills,32,0,2,Yes,Unfurnished,365278.91
+1570,3,2,Downtown,26,2,2,Yes,Unfurnished,679594.44
+1821,2,1,Downtown,34,1,1,Yes,Furnished,631433.09
+3535,5,3,Suburban Heights,15,0,3,Yes,Semi-Furnished,999535.91
+2060,3,2,West Hills,27,0,1,Yes,Semi-Furnished,686154.29
+1656,4,3,Green Valley,33,0,1,Yes,Semi-Furnished,402726.37
+2519,3,2,Suburban Heights,0,1,2,Yes,Semi-Furnished,751933.69
+746,2,1,Metro Corridor,40,2,3,Yes,Semi-Furnished,274085.74
+1986,4,2,Downtown,30,2,2,Yes,Unfurnished,753520.07
+2461,4,3,Metro Corridor,35,1,2,Yes,Semi-Furnished,618523.4
+1000,2,1,West Hills,32,1,2,Yes,Unfurnished,390525.53
+2856,4,3,West Hills,32,2,3,Yes,Furnished,970881.8
+2070,4,4,Downtown,38,1,1,Yes,Semi-Furnished,1298358.76
+1531,2,2,Downtown,17,1,2,No,Semi-Furnished,579231.12
+2328,2,2,West Hills,22,2,2,Yes,Unfurnished,765542.95
+4484,5,4,Downtown,22,2,1,Yes,Semi-Furnished,1493822.2
+1944,3,3,Downtown,14,1,2,Yes,Furnished,823019.92
+1996,3,2,Downtown,25,2,2,Yes,Semi-Furnished,834488.51
+1504,2,1,Downtown,29,1,2,Yes,Semi-Furnished,581423.15
+1286,3,1,West Hills,24,1,1,No,Unfurnished,439349.75
+2520,3,3,Suburban Heights,15,0,2,Yes,Semi-Furnished,774376.8
+1283,2,2,Waterfront Bay,38,2,1,Yes,Unfurnished,531345.34
+1860,2,1,Suburban Heights,13,2,1,Yes,Unfurnished,548606.44
+1493,3,2,Metro Corridor,16,2,2,No,Furnished,443631.95
+2189,3,2,Green Valley,11,0,2,Yes,Semi-Furnished,499809.71
+2066,3,2,Suburban Heights,28,0,1,Yes,Semi-Furnished,618969.32
+2738,4,3,Suburban Heights,31,1,1,Yes,Unfurnished,766782.77
+1474,3,1,Waterfront Bay,23,1,2,Yes,Furnished,705223.19
+1623,3,2,Suburban Heights,12,1,3,No,Furnished,557035.86
+1222,2,1,West Hills,19,3,3,Yes,Furnished,562074.4
+1513,2,1,Suburban Heights,14,2,2,Yes,Semi-Furnished,495277.32
+2102,4,3,Waterfront Bay,3,1,1,Yes,Furnished,977086.45
+2447,3,2,West Hills,33,0,1,Yes,Semi-Furnished,726182.4
+1250,2,1,Green Valley,27,0,1,Yes,Unfurnished,282638.03
+2560,5,3,Metro Corridor,1,2,1,No,Semi-Furnished,699262.71
+3109,5,4,Metro Corridor,29,2,1,Yes,Semi-Furnished,772300.05
+2133,3,2,Waterfront Bay,25,2,1,Yes,Unfurnished,848922.62
+3830,5,4,Waterfront Bay,25,1,2,Yes,Semi-Furnished,1478536.05
+1326,1,1,Metro Corridor,19,0,1,No,Furnished,362217.33
+1098,2,1,Downtown,41,3,2,Yes,Semi-Furnished,392424.41
+887,2,2,West Hills,27,3,3,No,Semi-Furnished,477824.8
+3289,4,3,Suburban Heights,19,1,2,Yes,Furnished,963595.71
+2349,3,2,Suburban Heights,10,0,2,Yes,Semi-Furnished,702719.57
+1768,3,3,Suburban Heights,9,1,2,Yes,Unfurnished,606790.73
+2022,3,3,Metro Corridor,22,2,1,Yes,Semi-Furnished,542685.4
+1152,1,1,Downtown,36,2,1,Yes,Semi-Furnished,487907.97
+4800,5,3,Metro Corridor,40,2,1,Yes,Semi-Furnished,1081885.7
+1903,3,1,Metro Corridor,18,0,1,Yes,Unfurnished,461418.55
+1888,3,2,Green Valley,17,0,2,Yes,Unfurnished,443265.13
+2417,3,2,Suburban Heights,26,0,3,Yes,Semi-Furnished,681474.23
+2191,4,3,Suburban Heights,5,2,3,Yes,Semi-Furnished,775843.06
+1977,4,3,Green Valley,9,1,1,No,Semi-Furnished,492481.61
+1317,2,1,Suburban Heights,1,2,3,Yes,Semi-Furnished,502496.02
+2183,3,1,Suburban Heights,23,0,1,No,Furnished,584945.7
+3838,5,3,Suburban Heights,37,3,2,Yes,Semi-Furnished,1113250.03
+3096,5,4,Downtown,27,2,1,Yes,Semi-Furnished,1120397.58
+3419,5,4,Suburban Heights,27,1,1,No,Furnished,963462.07
+1473,3,2,West Hills,38,2,1,Yes,Furnished,579926.26
+1217,1,1,West Hills,1,1,2,Yes,Furnished,511574.62
+1719,3,3,Downtown,4,1,1,Yes,Semi-Furnished,769985.28
+1848,3,2,Metro Corridor,10,1,1,Yes,Semi-Furnished,580222.94
+2800,4,3,Suburban Heights,9,2,3,No,Furnished,895334.17
+918,1,1,Suburban Heights,1,2,3,No,Unfurnished,343606.13
+3333,5,4,Green Valley,14,1,1,Yes,Semi-Furnished,740044.82
+1697,2,1,Waterfront Bay,38,2,2,Yes,Furnished,673997.75
+1524,3,2,Metro Corridor,40,2,1,No,Furnished,404661.99
+1206,2,1,West Hills,36,2,1,Yes,Semi-Furnished,421372.69
+932,2,2,West Hills,6,1,2,Yes,Furnished,477270.16
+2513,4,4,Suburban Heights,19,1,1,Yes,Furnished,802151.72
+1861,2,1,Waterfront Bay,33,2,2,Yes,Semi-Furnished,633983.38
+1079,2,1,Suburban Heights,34,0,2,No,Semi-Furnished,294187.21
+1077,1,1,Suburban Heights,33,1,2,Yes,Unfurnished,338614.28
+1580,3,2,Waterfront Bay,21,2,2,Yes,Unfurnished,785314.39
+3524,4,3,Metro Corridor,30,1,2,Yes,Unfurnished,807474.7
+1629,2,1,Suburban Heights,22,3,1,No,Furnished,485198.9
+991,1,1,Metro Corridor,18,0,1,Yes,Furnished,289299.58
+1638,3,2,Suburban Heights,3,3,2,No,Unfurnished,613187.64
+1621,3,1,Suburban Heights,23,1,2,No,Semi-Furnished,480290.75
+650,1,1,Green Valley,19,0,2,Yes,Semi-Furnished,162811.27
+1769,2,2,Green Valley,38,1,2,Yes,Furnished,449760.49
+1648,2,2,Waterfront Bay,27,2,1,Yes,Furnished,735009.19
+2388,3,3,Metro Corridor,38,2,2,Yes,Furnished,601852.64
+3787,5,3,Suburban Heights,16,1,1,No,Semi-Furnished,997535.88
+2837,4,3,Downtown,18,1,3,Yes,Furnished,1050345.77
+1623,1,1,West Hills,34,2,2,Yes,Semi-Furnished,508409.27
+1161,2,2,Green Valley,31,1,1,Yes,Semi-Furnished,334570.33
+4800,5,3,Green Valley,38,2,2,No,Furnished,903114.79
+1851,2,1,Downtown,34,0,2,Yes,Furnished,612373.86
+1818,2,2,Metro Corridor,29,2,1,Yes,Semi-Furnished,477817.8
+1790,3,2,Metro Corridor,16,2,2,Yes,Furnished,534394.16
+1957,4,3,Suburban Heights,41,3,2,Yes,Furnished,640383.12
+1706,3,2,West Hills,28,2,2,Yes,Furnished,670874.57
+1437,2,1,Suburban Heights,5,1,1,Yes,Semi-Furnished,459529.87
+1452,3,2,Waterfront Bay,16,0,2,Yes,Semi-Furnished,662299.65
+1784,2,1,Metro Corridor,16,2,3,Yes,Furnished,513486.21
+1454,2,1,Waterfront Bay,13,1,3,No,Semi-Furnished,625823.49
+1359,1,1,Suburban Heights,23,2,2,Yes,Unfurnished,398907.36
+1886,2,1,Downtown,36,2,3,Yes,Semi-Furnished,645528.13
+1632,2,2,West Hills,39,1,2,Yes,Furnished,618743.91
+3299,5,4,Suburban Heights,38,1,1,Yes,Semi-Furnished,942454.33
+650,1,1,Suburban Heights,31,1,2,Yes,Semi-Furnished,242667.61
+2797,4,3,West Hills,35,1,1,No,Unfurnished,875308.46
+2976,4,4,Downtown,36,0,1,Yes,Unfurnished,1034165.17
+788,2,1,Metro Corridor,13,1,2,Yes,Semi-Furnished,295324.78
+1576,2,1,Suburban Heights,26,1,2,Yes,Semi-Furnished,441170.61
+1558,3,4,Suburban Heights,18,1,2,Yes,Unfurnished,552494.08
+1029,1,1,Downtown,30,0,2,Yes,Unfurnished,403232.4
+1324,2,1,Downtown,8,1,1,No,Semi-Furnished,541219.27
+1159,1,1,Green Valley,37,0,1,Yes,Furnished,234019.11
+3644,5,4,Suburban Heights,16,2,1,Yes,Furnished,1053943.05
+2628,5,4,West Hills,18,1,2,No,Semi-Furnished,943201.35
+3006,5,3,Downtown,3,1,1,Yes,Semi-Furnished,1160768.9
+2413,4,2,West Hills,10,2,1,Yes,Unfurnished,826951.01
+1150,2,1,Green Valley,21,3,1,Yes,Unfurnished,298410.99
+1465,2,1,Waterfront Bay,3,0,2,Yes,Furnished,664677.6
+2198,3,2,West Hills,16,1,2,Yes,Semi-Furnished,735664.27
+1108,1,1,Green Valley,7,1,2,No,Furnished,306339.35
+2404,4,2,West Hills,33,1,1,No,Semi-Furnished,776278.83
+1642,2,2,Downtown,10,3,1,No,Semi-Furnished,647947.66
+1556,3,2,Suburban Heights,30,2,1,Yes,Furnished,526723.7
+2402,4,2,Downtown,10,2,1,No,Furnished,903541.93
+2159,4,3,Metro Corridor,37,1,1,Yes,Furnished,574581.59
+1564,2,1,West Hills,20,2,1,Yes,Furnished,544889.87
+2874,5,3,Green Valley,29,0,1,Yes,Unfurnished,637667.66
+1173,3,2,Downtown,9,1,1,Yes,Furnished,592616.19
+2313,3,2,Suburban Heights,25,1,1,No,Furnished,630691.51
+2292,3,3,Downtown,26,1,2,Yes,Furnished,895475.87
+1597,1,1,Suburban Heights,7,1,3,No,Unfurnished,453898.23
+2059,4,3,Downtown,38,2,2,Yes,Semi-Furnished,760776.11
+1096,1,1,Suburban Heights,7,0,1,Yes,Furnished,311151.8
+2616,4,3,Metro Corridor,7,0,1,Yes,Semi-Furnished,692377.78
+1679,3,2,Downtown,33,1,2,Yes,Semi-Furnished,641641.57
+1466,2,1,Suburban Heights,15,1,1,No,Semi-Furnished,453645.29
+2750,4,3,Green Valley,40,2,2,Yes,Semi-Furnished,621537.8
+1364,2,1,Green Valley,12,2,2,No,Furnished,363441.61
+1029,2,1,Waterfront Bay,22,2,3,Yes,Unfurnished,508228.43
+970,1,1,Green Valley,11,1,2,Yes,Semi-Furnished,289977.81
+2304,3,1,Waterfront Bay,26,2,2,Yes,Semi-Furnished,944055.07
+1083,1,1,Suburban Heights,21,2,2,No,Furnished,316064.52
+3647,5,4,Metro Corridor,31,1,1,Yes,Unfurnished,861942.14
+786,2,1,Metro Corridor,26,1,1,Yes,Semi-Furnished,288771.42
+3563,5,4,Metro Corridor,1,2,1,Yes,Furnished,917332.55
+1967,4,3,Metro Corridor,32,0,1,Yes,Furnished,543441.66
+1739,2,1,Waterfront Bay,25,1,1,Yes,Semi-Furnished,638576.97
+1453,3,3,Suburban Heights,27,0,1,Yes,Unfurnished,466352.36
+2121,4,3,Suburban Heights,18,0,2,Yes,Unfurnished,614308.72
+1781,3,2,Suburban Heights,4,0,1,Yes,Semi-Furnished,591806.38
+2811,5,3,Downtown,32,1,1,Yes,Semi-Furnished,1011209.57
+1892,2,2,Waterfront Bay,19,2,1,Yes,Furnished,749278.12
+1920,3,2,Metro Corridor,29,1,2,Yes,Semi-Furnished,517936.91
+1563,2,2,Metro Corridor,7,2,1,Yes,Unfurnished,457611.86
+1767,3,1,West Hills,37,1,3,Yes,Semi-Furnished,562618.28
+2044,3,2,Suburban Heights,16,3,2,Yes,Furnished,726410.95
+912,2,2,West Hills,0,3,2,Yes,Furnished,528382.68
+1054,2,1,West Hills,2,2,1,Yes,Furnished,508345.38
+2434,4,2,Green Valley,25,3,2,Yes,Semi-Furnished,573906.03
+1935,3,2,Downtown,30,2,2,Yes,Unfurnished,678056.22
+1679,2,1,Suburban Heights,7,2,1,Yes,Furnished,480355.16
+1821,2,1,Green Valley,7,1,1,No,Semi-Furnished,377785.24
+2077,4,3,Green Valley,34,1,1,Yes,Semi-Furnished,520539.26
+1456,3,2,Suburban Heights,38,2,3,Yes,Unfurnished,474455.39
+1324,2,1,Downtown,27,1,1,Yes,Semi-Furnished,526979.48
+1955,3,2,Metro Corridor,3,2,2,Yes,Furnished,560592.09
+1222,1,1,West Hills,15,2,1,Yes,Furnished,441389.56
+2128,3,3,Metro Corridor,12,1,2,No,Semi-Furnished,565780.22
+915,3,2,Suburban Heights,19,2,2,Yes,Unfurnished,404675.32
+2728,3,2,Waterfront Bay,4,0,1,No,Furnished,984268.75
+2184,3,2,Downtown,36,1,1,Yes,Semi-Furnished,726799.62
+2003,4,3,Suburban Heights,19,1,1,No,Semi-Furnished,620770.82
+2678,3,3,Downtown,23,1,1,Yes,Semi-Furnished,903491.79
+3519,5,3,Downtown,35,1,2,Yes,Furnished,1156378.88
+2712,5,4,Suburban Heights,33,1,1,Yes,Unfurnished,800427.71
+865,1,1,Suburban Heights,33,1,2,Yes,Semi-Furnished,258238.57
+1083,3,2,Waterfront Bay,18,2,1,No,Semi-Furnished,609337.69
+1408,1,1,Downtown,16,2,1,Yes,Semi-Furnished,578126.14
+1827,3,1,Green Valley,4,1,2,Yes,Unfurnished,425798.79
+2224,3,1,Downtown,24,1,2,Yes,Semi-Furnished,792082.2
+1352,3,2,Suburban Heights,17,2,1,Yes,Semi-Furnished,490963.22
+1948,3,2,Waterfront Bay,7,2,2,No,Semi-Furnished,897072.35
+1336,2,2,Metro Corridor,26,1,1,Yes,Semi-Furnished,371368.83
+1415,2,1,Suburban Heights,14,0,2,Yes,Furnished,467805.08
+1030,1,1,Downtown,12,2,1,Yes,Unfurnished,448077.87
+1249,2,1,Downtown,15,2,1,Yes,Unfurnished,518784.09
+1052,2,1,West Hills,21,0,2,No,Semi-Furnished,356470.11
+1223,2,2,West Hills,19,1,1,No,Semi-Furnished,486298.23
+2755,5,3,Suburban Heights,12,1,1,Yes,Furnished,835987.35
+1236,2,1,Downtown,19,2,1,Yes,Unfurnished,484384.21
+4800,5,3,Suburban Heights,1,1,2,No,Semi-Furnished,1240164.57
+2202,3,2,West Hills,34,1,3,Yes,Semi-Furnished,702673.12
+1946,3,2,West Hills,18,0,2,Yes,Unfurnished,640350.82
+1282,3,2,Downtown,36,3,2,Yes,Semi-Furnished,599169.6
+2392,5,4,Suburban Heights,5,2,2,Yes,Unfurnished,840435.95
+1436,2,1,Waterfront Bay,13,2,1,Yes,Semi-Furnished,637176.33
+1898,3,2,West Hills,3,2,1,No,Semi-Furnished,721114.45
+4800,5,3,West Hills,21,1,3,Yes,Semi-Furnished,1420711.05
+1739,3,1,Green Valley,38,3,1,Yes,Semi-Furnished,367048.77
+2863,5,4,Suburban Heights,35,0,1,Yes,Unfurnished,780424.58
+1364,3,2,Suburban Heights,33,2,2,Yes,Semi-Furnished,494507.77
+1782,2,2,Waterfront Bay,26,1,2,Yes,Semi-Furnished,723780.75
+3671,5,3,Waterfront Bay,6,1,1,Yes,Furnished,1416442.42
+1406,2,2,Downtown,2,1,1,Yes,Furnished,595324.08
+3733,5,3,Waterfront Bay,32,2,2,No,Semi-Furnished,1373738.23
+2399,4,4,Downtown,1,2,2,Yes,Semi-Furnished,1018079.14
+1443,2,1,Green Valley,41,1,1,Yes,Unfurnished,307316.77
+2328,4,3,West Hills,15,1,1,Yes,Semi-Furnished,804124.03
+2667,5,3,Downtown,24,3,3,Yes,Semi-Furnished,1110915.59
+2318,3,2,Downtown,14,1,1,No,Unfurnished,781893.95
+964,2,1,Suburban Heights,23,2,2,Yes,Semi-Furnished,371549.57
+1351,3,2,Waterfront Bay,14,2,1,Yes,Unfurnished,601919.09
+1637,3,2,Waterfront Bay,30,1,1,Yes,Semi-Furnished,712059.01
+1755,3,2,Suburban Heights,13,0,1,Yes,Furnished,522635.4
+2317,4,3,Green Valley,13,1,3,Yes,Semi-Furnished,596702.22
+1941,2,1,Suburban Heights,5,1,2,No,Furnished,525960.58
+1059,2,1,Suburban Heights,13,0,1,Yes,Semi-Furnished,329452.33
+2105,2,2,Metro Corridor,16,0,2,Yes,Furnished,563994.14
+2308,4,4,Downtown,17,1,1,No,Semi-Furnished,956298.09
+2261,3,2,Downtown,19,2,2,Yes,Furnished,780306.35
+2785,5,4,Suburban Heights,16,2,1,Yes,Furnished,863760.29
+2523,4,3,West Hills,15,1,2,Yes,Semi-Furnished,925370.17
+2172,3,3,Suburban Heights,39,1,1,No,Furnished,621358.08
+1758,2,1,Downtown,38,1,2,Yes,Furnished,578253.42
+930,1,1,Green Valley,31,1,2,Yes,Semi-Furnished,273272.6
+2147,4,2,Suburban Heights,8,2,1,Yes,Furnished,714116.0
+1964,2,1,Metro Corridor,26,1,1,Yes,Furnished,481799.7
+2015,4,3,Metro Corridor,32,2,1,Yes,Furnished,535729.32
+1084,2,1,Suburban Heights,9,1,2,Yes,Unfurnished,439451.74
+1173,1,1,Metro Corridor,16,2,1,Yes,Semi-Furnished,347190.99
+2755,4,3,West Hills,35,1,2,Yes,Semi-Furnished,874083.87
+1779,4,4,Green Valley,16,2,3,No,Unfurnished,526375.54
+2374,3,2,Waterfront Bay,17,3,1,Yes,Furnished,957730.72
+1828,2,2,Green Valley,22,2,1,Yes,Semi-Furnished,413180.97
+1829,3,2,Downtown,33,2,2,Yes,Unfurnished,664766.43
+2631,4,3,Metro Corridor,7,0,2,Yes,Semi-Furnished,689128.29
+1470,2,1,Suburban Heights,12,2,3,Yes,Unfurnished,491309.96
+1878,3,2,Downtown,22,1,1,Yes,Unfurnished,714387.16
+1502,2,2,Downtown,19,1,1,Yes,Furnished,341925.6
+1519,3,3,Suburban Heights,21,0,2,Yes,Unfurnished,520992.05
+1597,3,2,Suburban Heights,22,3,2,Yes,Unfurnished,532003.21
+1976,3,1,Waterfront Bay,40,2,2,Yes,Semi-Furnished,756805.15
+1492,3,2,Waterfront Bay,34,2,1,Yes,Unfurnished,689454.1
+2987,5,4,Suburban Heights,2,2,1,Yes,Furnished,971031.35
+1264,2,1,Suburban Heights,33,1,1,Yes,Semi-Furnished,390167.69
+1677,2,2,Suburban Heights,32,3,3,No,Furnished,531339.53
+1516,3,3,Metro Corridor,16,3,1,No,Furnished,535319.06
+3225,5,4,West Hills,18,1,2,Yes,Semi-Furnished,1100832.25
+1955,2,1,Downtown,29,0,2,Yes,Semi-Furnished,634136.65
+2731,4,2,Suburban Heights,22,2,1,Yes,Semi-Furnished,805172.02
+998,2,2,Metro Corridor,14,3,1,Yes,Semi-Furnished,383602.95
+2011,3,2,Downtown,13,2,2,No,Semi-Furnished,741566.89
+2580,3,2,Suburban Heights,1,2,1,Yes,Furnished,785838.25
+1868,4,2,Suburban Heights,38,3,1,Yes,Semi-Furnished,564396.34
+2768,5,3,Green Valley,17,2,1,No,Unfurnished,577356.79
+1470,2,1,Suburban Heights,5,2,2,Yes,Semi-Furnished,491443.05
+3177,4,3,West Hills,31,2,3,Yes,Semi-Furnished,1056386.07
+4534,5,3,Waterfront Bay,20,1,2,Yes,Semi-Furnished,1694552.24
+1563,3,3,Metro Corridor,39,2,2,Yes,Semi-Furnished,458999.9
+1512,3,2,Suburban Heights,27,1,2,Yes,Semi-Furnished,494078.9
+3233,5,3,Suburban Heights,26,2,2,No,Unfurnished,933491.04
+3401,5,3,Suburban Heights,1,1,3,Yes,Semi-Furnished,618746.16
+1466,2,1,Green Valley,32,0,1,Yes,Semi-Furnished,325145.89
+1528,2,1,Downtown,15,0,1,No,Semi-Furnished,535677.72
+1615,3,3,Downtown,38,2,3,Yes,Semi-Furnished,723928.49
+1055,2,1,West Hills,21,1,2,Yes,Semi-Furnished,414763.87
+1252,1,1,West Hills,12,1,1,Yes,Semi-Furnished,484495.24
+1209,3,2,Waterfront Bay,1,0,3,Yes,Semi-Furnished,661344.22
+1329,2,2,Waterfront Bay,13,1,1,Yes,Semi-Furnished,616314.39
+1783,4,3,Suburban Heights,37,0,1,No,Semi-Furnished,479547.9
+1985,2,1,Suburban Heights,40,1,2,Yes,Unfurnished,535743.42
+3361,4,2,Metro Corridor,27,1,1,Yes,Semi-Furnished,746092.67
+1212,2,2,Downtown,6,1,2,Yes,Unfurnished,483251.6
+2680,4,2,Metro Corridor,17,1,1,No,Furnished,652628.36
+1659,4,3,Suburban Heights,40,1,1,Yes,Furnished,545015.52
+1772,3,2,Waterfront Bay,35,2,2,No,Semi-Furnished,752107.28
+2368,3,2,Suburban Heights,40,1,2,Yes,Unfurnished,651371.47
+1153,1,1,West Hills,35,1,1,No,Semi-Furnished,323214.63
+2106,4,2,Downtown,3,0,3,No,Furnished,932109.87
+1932,2,2,West Hills,29,1,2,Yes,Furnished,640067.93
+2201,4,3,Metro Corridor,23,0,1,Yes,Semi-Furnished,545175.1
+2029,3,4,Downtown,19,0,1,Yes,Furnished,872337.51
+4800,5,3,Downtown,30,2,2,Yes,Semi-Furnished,947931.22
+1400,3,2,Waterfront Bay,23,2,2,Yes,Semi-Furnished,700157.61
+1462,2,1,Metro Corridor,6,1,1,No,Semi-Furnished,378929.61
+1409,2,2,Waterfront Bay,25,2,1,Yes,Furnished,650619.28
+1447,2,1,Metro Corridor,12,0,1,Yes,Furnished,349771.92
+1401,2,2,Suburban Heights,7,3,1,Yes,Semi-Furnished,508897.77
+2909,5,3,Metro Corridor,4,0,2,Yes,Furnished,835649.3
+3191,5,3,Suburban Heights,12,2,3,Yes,Semi-Furnished,943658.8
+1438,2,1,Suburban Heights,28,0,1,Yes,Unfurnished,393903.37
+1296,2,1,Green Valley,19,2,2,No,Furnished,305139.53
+2183,2,1,West Hills,13,1,3,Yes,Furnished,706121.97
+1449,3,2,Suburban Heights,31,0,3,Yes,Furnished,461868.48
+2328,3,2,West Hills,26,2,3,Yes,Unfurnished,784446.91
+1960,2,2,West Hills,24,0,2,No,Furnished,628245.65
+986,1,1,Suburban Heights,3,2,2,Yes,Unfurnished,342815.68
+3357,4,3,Suburban Heights,20,2,1,Yes,Semi-Furnished,938249.69
+3708,5,3,Waterfront Bay,17,1,2,Yes,Semi-Furnished,1423581.61
+1414,2,1,Green Valley,38,1,2,Yes,Furnished,340974.17
+1548,4,3,West Hills,14,0,1,Yes,Semi-Furnished,384804.37
+2027,3,2,Downtown,37,2,1,No,Semi-Furnished,758847.92
+2066,3,2,Suburban Heights,23,1,1,Yes,Semi-Furnished,589356.42
+2352,4,2,Downtown,7,1,2,Yes,Semi-Furnished,897891.48
+4040,5,3,Waterfront Bay,27,3,2,Yes,Semi-Furnished,1526114.05
+1684,3,2,Suburban Heights,20,1,2,Yes,Semi-Furnished,516263.01
+1313,1,1,Suburban Heights,15,3,1,Yes,Semi-Furnished,408488.73
+1041,2,2,Green Valley,15,2,2,No,Semi-Furnished,324071.78
+1349,3,2,Green Valley,34,1,1,Yes,Semi-Furnished,382170.28
+1784,2,2,Downtown,16,1,2,Yes,Furnished,674948.37
+3706,5,3,Suburban Heights,8,2,1,Yes,Semi-Furnished,1106036.07
+1469,2,1,Metro Corridor,34,1,3,No,Semi-Furnished,358071.84
+1977,2,2,Waterfront Bay,28,0,2,Yes,Furnished,818026.75
+1796,3,2,Metro Corridor,38,0,2,Yes,Semi-Furnished,467117.63
+2908,4,3,Metro Corridor,17,2,2,Yes,Furnished,776760.06
+4800,5,2,West Hills,11,2,2,No,Furnished,1386083.21
+1462,3,3,Suburban Heights,18,1,1,Yes,Unfurnished,789086.58
+1486,2,2,Green Valley,21,0,2,Yes,Semi-Furnished,355719.12
+2745,5,3,Metro Corridor,14,2,3,No,Semi-Furnished,763696.77
+2375,4,2,West Hills,0,3,1,Yes,Unfurnished,875861.9
+3784,5,4,Suburban Heights,1,0,2,Yes,Furnished,1086619.98
+2283,3,2,Metro Corridor,7,0,3,Yes,Unfurnished,557479.11
+1566,2,1,Waterfront Bay,21,2,2,Yes,Furnished,671997.27
+2289,4,2,Waterfront Bay,24,2,2,Yes,Semi-Furnished,1028505.2
+2817,4,3,Suburban Heights,1,2,2,No,Semi-Furnished,862755.79
+2510,3,2,Green Valley,8,3,3,Yes,Unfurnished,619107.66
+2214,3,2,Metro Corridor,8,2,3,No,Semi-Furnished,580429.37
+2770,4,2,West Hills,12,1,3,Yes,Semi-Furnished,905533.13
+2886,4,2,Suburban Heights,5,2,2,Yes,Semi-Furnished,847426.17
+3142,5,4,Waterfront Bay,29,2,1,Yes,Furnished,1244996.16
+2343,3,3,Metro Corridor,14,3,1,Yes,Semi-Furnished,652693.15
+1691,3,1,Suburban Heights,14,1,1,Yes,Furnished,509869.34
+1917,4,3,Metro Corridor,6,1,3,Yes,Semi-Furnished,623028.82
+2929,5,4,Suburban Heights,10,2,2,Yes,Semi-Furnished,935488.21
+1304,2,2,Metro Corridor,39,1,2,Yes,Unfurnished,386478.75
+2095,4,3,Metro Corridor,37,1,2,No,Semi-Furnished,509757.82
+1544,3,1,Suburban Heights,39,2,1,Yes,Unfurnished,428785.11
+1828,3,2,Downtown,1,1,2,Yes,Furnished,766096.72
+3015,5,4,Waterfront Bay,38,2,2,Yes,Furnished,1264793.72
+1951,3,2,Green Valley,9,2,1,Yes,Semi-Furnished,478524.85
+1841,1,1,West Hills,16,1,1,Yes,Semi-Furnished,615464.17
+1049,2,1,West Hills,6,3,2,Yes,Semi-Furnished,478862.17
+2436,4,1,Suburban Heights,39,2,1,Yes,Semi-Furnished,631852.51
+2340,3,3,West Hills,38,1,3,Yes,Furnished,787563.56
+4295,5,3,West Hills,3,1,1,No,Semi-Furnished,1274619.87
+1598,2,2,Downtown,34,3,3,Yes,Furnished,709074.12
+1973,3,2,Green Valley,35,1,1,Yes,Furnished,445599.55
+1997,4,3,Suburban Heights,30,1,1,Yes,Furnished,602123.0
+3398,5,4,Suburban Heights,24,1,2,Yes,Semi-Furnished,988895.98
+1740,2,1,Suburban Heights,40,1,2,No,Semi-Furnished,435187.72
+2021,3,2,Downtown,12,1,2,Yes,Furnished,764925.6
+2305,4,3,West Hills,17,3,1,Yes,Semi-Furnished,839942.45
+1948,3,1,Waterfront Bay,20,2,1,Yes,Semi-Furnished,779315.15
+1512,2,2,Metro Corridor,0,1,2,No,Unfurnished,427811.15
+1954,3,2,Suburban Heights,35,1,1,Yes,Semi-Furnished,566159.33
+2777,4,3,Suburban Heights,7,2,1,No,Furnished,821279.19
+1199,2,1,West Hills,20,0,2,Yes,Unfurnished,420996.49
+1906,3,2,Metro Corridor,20,2,1,Yes,Furnished,523155.67
+1366,2,1,Waterfront Bay,26,2,1,No,Semi-Furnished,585666.4
+2916,3,1,Green Valley,18,2,1,Yes,Semi-Furnished,598938.36
+983,2,1,West Hills,22,1,3,Yes,Furnished,478681.85
+1445,2,2,Downtown,34,1,1,Yes,Semi-Furnished,529642.48
+2102,4,3,Suburban Heights,39,0,3,Yes,Furnished,668059.74
+3381,5,4,Suburban Heights,41,1,1,Yes,Unfurnished,947781.61
+1761,3,2,Metro Corridor,4,1,2,Yes,Furnished,547941.72
+1447,3,2,Waterfront Bay,40,2,1,Yes,Semi-Furnished,637392.55
+3837,5,3,Suburban Heights,7,2,2,Yes,Semi-Furnished,1100314.28
+1013,2,1,Downtown,10,3,2,Yes,Furnished,547317.31
+750,1,1,Waterfront Bay,15,2,2,Yes,Semi-Furnished,440926.46
+2155,5,4,West Hills,38,0,2,Yes,Unfurnished,761946.86
+1479,3,2,West Hills,23,2,2,No,Semi-Furnished,580994.08
+1201,2,2,Downtown,20,0,1,No,Semi-Furnished,471265.22
+2400,3,1,Downtown,22,1,2,No,Semi-Furnished,768921.69
+1993,2,2,Suburban Heights,37,1,2,Yes,Unfurnished,598255.13
+1442,2,3,West Hills,7,2,2,Yes,Furnished,659257.31
+1083,2,1,Metro Corridor,6,2,1,Yes,Semi-Furnished,338611.29
+2563,4,3,Downtown,1,0,3,Yes,Furnished,1018029.43
+2345,4,3,Suburban Heights,29,0,2,Yes,Unfurnished,668977.05
+1737,4,2,Suburban Heights,12,0,2,Yes,Semi-Furnished,564752.92
+3784,5,4,Green Valley,22,0,1,Yes,Unfurnished,802248.57
+1178,1,1,Suburban Heights,28,0,1,Yes,Unfurnished,309727.81
+982,1,1,Waterfront Bay,37,2,2,Yes,Furnished,518783.37
+1370,2,2,Suburban Heights,36,2,2,No,Furnished,400640.26
+1775,2,1,Suburban Heights,19,1,3,Yes,Furnished,549321.42
+1992,3,1,West Hills,32,2,2,Yes,Semi-Furnished,607464.09
+1641,2,1,Downtown,28,1,2,Yes,Semi-Furnished,601853.48
+2081,2,1,Suburban Heights,14,3,2,No,Unfurnished,600303.49
+1095,2,1,West Hills,22,1,2,Yes,Semi-Furnished,448286.96
+3221,5,4,Waterfront Bay,41,2,2,Yes,Semi-Furnished,1241074.71
+1749,1,1,West Hills,2,3,1,Yes,Unfurnished,611335.31
+2826,5,4,Suburban Heights,36,2,1,Yes,Furnished,839537.83
+2073,4,3,Metro Corridor,28,0,2,Yes,Furnished,581266.97
+2170,3,2,Downtown,7,2,2,Yes,Semi-Furnished,844471.26
+2270,4,3,Green Valley,21,0,1,Yes,Semi-Furnished,505808.98
+2162,3,3,Downtown,28,0,1,Yes,Unfurnished,791412.1
+2338,5,3,Downtown,1,0,2,Yes,Semi-Furnished,950817.32
+3076,5,4,Metro Corridor,40,2,1,Yes,Unfurnished,783800.62
+1955,3,2,Metro Corridor,0,2,2,Yes,Semi-Furnished,597642.19
+2400,4,2,Downtown,19,1,2,Yes,Furnished,946968.99
+1744,3,3,Green Valley,20,1,1,Yes,Furnished,702374.9
+3216,4,3,Waterfront Bay,36,3,2,Yes,Furnished,1232567.1
+1379,2,2,West Hills,7,1,2,Yes,Furnished,601514.93
+3715,5,4,Downtown,26,1,2,No,Semi-Furnished,1288772.01
+1779,2,2,Suburban Heights,34,1,1,No,Semi-Furnished,519391.27
+1020,1,1,Suburban Heights,5,2,1,Yes,Semi-Furnished,347380.6
+1903,3,3,West Hills,18,1,2,Yes,Semi-Furnished,723768.03
+1376,2,1,Suburban Heights,17,2,1,Yes,Furnished,460263.41
+2530,4,3,Suburban Heights,0,1,1,No,Semi-Furnished,767761.0
+1392,2,1,Green Valley,24,1,1,Yes,Semi-Furnished,322420.26
+1512,2,2,Downtown,26,1,1,Yes,Unfurnished,532148.04
+849,1,1,Downtown,6,0,1,Yes,Unfurnished,597792.05
+1508,3,3,West Hills,41,1,1,Yes,Unfurnished,522087.99
+685,1,1,Downtown,28,0,3,Yes,Semi-Furnished,330133.32
+959,2,2,Suburban Heights,30,2,2,Yes,Furnished,444878.62
+2450,5,4,Suburban Heights,35,1,1,Yes,Furnished,757585.21
+2475,4,2,Waterfront Bay,18,2,2,No,Unfurnished,979966.54
+2143,2,2,Green Valley,5,3,1,Yes,Semi-Furnished,517164.64
+1228,2,2,Waterfront Bay,24,2,2,Yes,Semi-Furnished,594674.37
+1773,3,2,Waterfront Bay,30,3,1,No,Unfurnished,724565.3
+1805,2,2,Waterfront Bay,8,1,1,Yes,Semi-Furnished,792154.36
+1137,1,1,Downtown,19,0,2,No,Furnished,474282.55
+3298,5,3,Suburban Heights,9,3,1,Yes,Furnished,997947.31
+2568,4,3,West Hills,36,2,2,Yes,Furnished,892250.76
+1655,2,2,West Hills,26,2,1,Yes,Semi-Furnished,571585.46
+1827,2,1,Metro Corridor,12,2,1,Yes,Semi-Furnished,474642.26
+1965,3,2,Downtown,40,2,2,Yes,Unfurnished,700827.83
+798,1,1,Downtown,1,0,2,Yes,Semi-Furnished,372697.2
+1637,3,2,Green Valley,20,2,1,Yes,Furnished,460290.95
+1376,2,2,Downtown,32,0,1,Yes,Furnished,509664.94
+1211,2,2,Green Valley,23,1,1,Yes,Semi-Furnished,336927.69
+1615,4,3,Metro Corridor,41,1,3,Yes,Unfurnished,459121.49
+3711,5,4,Green Valley,33,1,2,No,Furnished,789772.14
+2336,4,2,Suburban Heights,8,0,1,Yes,Unfurnished,675981.13
+1438,2,2,Downtown,1,2,2,No,Semi-Furnished,614757.42
+2273,3,2,West Hills,29,2,1,Yes,Furnished,736257.88
+3164,5,3,West Hills,21,2,1,No,Unfurnished,962233.0
+2617,4,2,Downtown,10,1,1,Yes,Furnished,962708.99
+1851,3,2,Metro Corridor,16,3,2,Yes,Semi-Furnished,508366.52
+1395,2,1,Waterfront Bay,35,0,1,Yes,Furnished,528651.99
+2390,3,2,Suburban Heights,12,2,2,Yes,Unfurnished,725650.66
+2116,2,2,Metro Corridor,6,0,2,Yes,Unfurnished,535701.31
+2586,4,3,Downtown,15,1,1,Yes,Unfurnished,929706.65
+2331,4,2,Waterfront Bay,32,1,1,Yes,Furnished,895499.44
+2751,5,4,Downtown,0,2,1,Yes,Furnished,1179001.31
+1459,2,1,Downtown,10,0,2,Yes,Semi-Furnished,572299.26
+3062,5,3,Downtown,5,1,3,Yes,Furnished,1214804.63
+1956,2,2,Waterfront Bay,19,1,1,Yes,Semi-Furnished,814028.99
+4146,5,4,Waterfront Bay,34,1,1,No,Semi-Furnished,1479332.09
+1372,1,1,Metro Corridor,36,2,1,Yes,Furnished,335216.85
+3620,5,4,Green Valley,40,1,1,Yes,Semi-Furnished,773329.9
+1956,3,2,Suburban Heights,25,1,2,Yes,Unfurnished,558785.72
+1393,2,2,Downtown,11,1,1,Yes,Unfurnished,554423.65
+1489,3,2,Waterfront Bay,29,1,1,Yes,Semi-Furnished,653700.13
+1590,3,2,West Hills,27,1,2,Yes,Semi-Furnished,572556.84
+2142,2,2,West Hills,26,2,1,No,Furnished,613168.56
+2228,4,3,Green Valley,41,0,2,Yes,Furnished,496758.9
+1437,1,1,Downtown,18,0,1,Yes,Semi-Furnished,531207.53
+1790,2,3,Metro Corridor,4,1,3,Yes,Unfurnished,534433.15
+4259,5,3,Suburban Heights,4,1,1,Yes,Furnished,1182795.1
+3608,5,3,Green Valley,40,1,3,Yes,Furnished,758140.5
+2152,3,2,West Hills,26,1,1,Yes,Furnished,674427.01
+1835,3,3,Suburban Heights,27,0,2,Yes,Furnished,611813.58
+1896,4,2,West Hills,25,0,1,Yes,Furnished,689792.99
+2310,2,1,Metro Corridor,26,2,2,Yes,Semi-Furnished,534746.4
+1200,1,1,Waterfront Bay,41,2,1,No,Semi-Furnished,480057.07
+1631,3,1,Downtown,20,2,2,Yes,Furnished,635811.5
+927,3,2,Suburban Heights,0,1,2,Yes,Furnished,407356.88
+2121,3,2,Waterfront Bay,27,2,2,Yes,Semi-Furnished,897760.51
+2342,3,2,Suburban Heights,14,3,2,Yes,Semi-Furnished,702239.27
+1490,4,2,Green Valley,16,2,1,No,Furnished,388609.07
+3393,5,4,West Hills,25,1,1,No,Unfurnished,1017285.12
+1107,2,2,West Hills,19,1,2,Yes,Semi-Furnished,455592.5
+1006,1,1,West Hills,24,1,1,Yes,Semi-Furnished,310394.48
+1977,3,3,Metro Corridor,12,1,1,Yes,Unfurnished,558327.19
+2748,4,3,Green Valley,32,1,1,Yes,Semi-Furnished,610033.51
+3545,5,4,West Hills,24,2,1,Yes,Unfurnished,1142608.88
+1504,3,3,Suburban Heights,7,2,2,No,Unfurnished,578769.08
+2783,5,4,Waterfront Bay,4,1,2,Yes,Furnished,1284242.93
+1780,2,1,Suburban Heights,5,0,3,Yes,Unfurnished,510005.42
+1687,3,2,Suburban Heights,22,1,1,No,Furnished,539545.71
+2574,4,3,Suburban Heights,29,0,3,No,Furnished,779128.88
+2347,4,3,West Hills,13,1,2,Yes,Unfurnished,846569.51
+962,2,2,West Hills,22,1,3,No,Unfurnished,433087.57
+3263,4,2,Waterfront Bay,10,1,2,No,Semi-Furnished,1217767.88
+3140,5,3,Green Valley,30,3,2,No,Furnished,695371.82
+1407,2,2,Suburban Heights,5,1,1,No,Semi-Furnished,459473.74
+2118,2,2,Suburban Heights,10,1,1,Yes,Semi-Furnished,603374.46
+2203,4,3,West Hills,12,0,1,Yes,Furnished,812956.5
+2006,5,4,West Hills,11,1,3,No,Unfurnished,806114.3
+1450,1,1,Waterfront Bay,1,0,3,Yes,Semi-Furnished,667644.46
+1382,2,2,Metro Corridor,34,2,2,Yes,Furnished,386429.64
+1789,3,2,Downtown,35,0,2,Yes,Furnished,652582.08
+2890,5,4,Suburban Heights,16,1,3,No,Semi-Furnished,864906.61
+2247,3,3,Waterfront Bay,27,2,2,Yes,Semi-Furnished,896803.05
+1558,2,2,West Hills,27,0,2,Yes,Furnished,554736.06
+2461,4,3,Waterfront Bay,21,1,1,Yes,Unfurnished,959933.98
+650,1,1,Metro Corridor,37,1,1,Yes,Furnished,206515.87
+2862,3,2,Waterfront Bay,6,2,1,Yes,Semi-Furnished,1084319.56
+901,2,3,Metro Corridor,14,1,1,Yes,Semi-Furnished,342142.77
+1564,3,2,Metro Corridor,31,1,2,Yes,Furnished,470065.35
+1155,2,1,Suburban Heights,10,2,1,No,Semi-Furnished,367763.35
+1077,2,1,Suburban Heights,23,1,2,Yes,Unfurnished,346970.23
+2876,5,4,West Hills,2,1,1,No,Semi-Furnished,1012072.65
+1499,2,2,Downtown,29,0,1,Yes,Semi-Furnished,571816.81
+2076,4,3,Downtown,5,2,2,No,Unfurnished,852552.43
+1774,3,2,Downtown,1,2,2,Yes,Unfurnished,767832.25
+2188,4,2,Suburban Heights,13,3,1,Yes,Furnished,735426.12
+1864,3,2,Downtown,40,3,2,Yes,Semi-Furnished,689262.17
+1082,2,2,Waterfront Bay,17,2,1,Yes,Furnished,553421.52
+2693,3,3,West Hills,30,2,3,Yes,Furnished,897814.11
+1484,2,1,Downtown,12,2,2,Yes,Furnished,639116.85
+970,1,1,Downtown,25,1,1,Yes,Unfurnished,376736.6
+1523,2,1,Green Valley,11,1,2,Yes,Semi-Furnished,380832.82
+3295,5,3,West Hills,17,1,2,No,Furnished,1028483.92
+2540,3,3,Waterfront Bay,8,1,2,Yes,Furnished,1107706.54
+1572,4,4,Downtown,20,2,2,No,Unfurnished,723093.02
+1572,3,2,West Hills,39,1,1,Yes,Semi-Furnished,524731.29
+1589,4,3,Waterfront Bay,23,1,2,Yes,Semi-Furnished,790374.02
+4149,5,4,Green Valley,33,1,2,Yes,Unfurnished,888553.25
+2106,3,2,West Hills,7,2,2,No,Semi-Furnished,718575.83
+2147,3,2,Green Valley,32,2,1,Yes,Furnished,484113.28
+2730,4,3,Metro Corridor,22,1,2,Yes,Semi-Furnished,696325.78
+1989,3,1,Suburban Heights,12,1,2,Yes,Unfurnished,611255.87
+1630,3,2,West Hills,13,1,2,Yes,Unfurnished,609141.52
+1671,2,1,Metro Corridor,13,0,1,Yes,Furnished,443310.35
+1756,3,2,West Hills,15,1,1,Yes,Furnished,662781.68
+1781,3,2,Downtown,37,2,1,No,Furnished,696450.23
+2418,5,3,Suburban Heights,38,1,2,Yes,Semi-Furnished,713713.26
+1846,2,1,Downtown,25,1,2,No,Semi-Furnished,645294.1
+2423,4,3,West Hills,25,0,2,Yes,Furnished,856955.47
+1750,3,2,West Hills,0,1,2,Yes,Unfurnished,665952.92
+1865,2,1,Green Valley,31,0,2,No,Semi-Furnished,352609.49
+812,2,1,West Hills,14,1,1,Yes,Semi-Furnished,328765.35
+2608,4,3,Metro Corridor,20,1,1,Yes,Unfurnished,668949.32
+2076,3,2,Waterfront Bay,17,2,2,No,Semi-Furnished,828351.16
+2695,4,3,Suburban Heights,29,1,2,Yes,Semi-Furnished,763952.01
+650,1,1,Green Valley,12,1,2,Yes,Semi-Furnished,219651.93
+4168,5,3,Metro Corridor,23,1,2,Yes,Unfurnished,963309.31
+1709,3,2,West Hills,29,2,2,Yes,Furnished,652068.91
+2816,5,3,Waterfront Bay,1,0,1,Yes,Unfurnished,1127840.1
+1192,1,1,West Hills,18,2,2,Yes,Furnished,427541.89
+2310,3,3,Metro Corridor,24,2,3,Yes,Furnished,671203.49
+1186,2,1,Waterfront Bay,13,1,2,No,Furnished,576812.45
+1408,1,1,West Hills,5,2,1,Yes,Unfurnished,509539.61
+3887,5,3,Suburban Heights,11,2,2,Yes,Semi-Furnished,1103782.02
+1675,3,3,Downtown,19,1,1,Yes,Furnished,702646.08
+1972,3,1,Metro Corridor,22,2,1,No,Unfurnished,464472.24
+2560,4,3,Downtown,29,1,2,No,Semi-Furnished,925943.32
+2204,4,2,Waterfront Bay,29,1,1,No,Unfurnished,811034.29
+1920,3,2,Metro Corridor,37,2,3,No,Furnished,523963.2
+2092,4,2,West Hills,29,2,1,Yes,Furnished,729845.39
+4728,5,4,Waterfront Bay,40,3,2,Yes,Semi-Furnished,1727425.94
+1766,3,2,Green Valley,29,1,2,Yes,Unfurnished,431943.84
+1959,4,3,Waterfront Bay,35,1,1,Yes,Semi-Furnished,830289.65
+2752,5,3,Green Valley,33,1,2,Yes,Semi-Furnished,639045.56
+2813,4,3,West Hills,15,0,3,Yes,Unfurnished,889742.51
+2906,5,4,Suburban Heights,23,1,2,Yes,Furnished,922515.96
+2334,2,1,Downtown,13,1,2,No,Semi-Furnished,800463.72
+1144,2,2,Suburban Heights,25,1,3,Yes,Semi-Furnished,482260.21
+3475,5,4,Downtown,7,1,1,Yes,Furnished,1337525.45
+1143,1,1,West Hills,13,1,1,Yes,Furnished,454582.24
+2040,3,3,Suburban Heights,30,3,1,Yes,Unfurnished,621989.33
+1337,3,3,Waterfront Bay,1,2,2,Yes,Unfurnished,722640.15
+1762,2,1,Metro Corridor,3,0,2,Yes,Furnished,465019.81
+2062,3,1,Waterfront Bay,0,2,2,Yes,Furnished,922228.05
+2056,4,3,West Hills,19,2,3,Yes,Furnished,845608.89
+2140,3,2,Downtown,13,2,2,Yes,Unfurnished,783971.57
+3447,5,4,West Hills,39,1,1,Yes,Semi-Furnished,1045413.77
+2167,4,3,West Hills,24,1,1,Yes,Unfurnished,742133.5
+1639,3,2,Metro Corridor,24,2,3,Yes,Unfurnished,456807.4
+2658,4,2,Downtown,2,1,1,Yes,Semi-Furnished,964233.11
+2909,4,3,Waterfront Bay,4,2,2,No,Furnished,1262375.74
+1106,2,1,Downtown,37,2,1,Yes,Semi-Furnished,458548.57
+2296,3,2,Downtown,25,3,1,No,Furnished,867397.38
+2393,4,3,Downtown,39,1,2,No,Furnished,839805.36
+1605,2,1,Suburban Heights,37,1,1,No,Furnished,384474.21
+3134,5,3,West Hills,37,1,3,No,Semi-Furnished,969627.12
+1702,2,1,Metro Corridor,3,3,1,Yes,Semi-Furnished,435259.81
+1901,3,2,Suburban Heights,6,1,2,Yes,Semi-Furnished,630904.73
+1687,2,2,Suburban Heights,29,1,2,Yes,Semi-Furnished,532666.18
+1819,2,1,Green Valley,29,1,2,Yes,Furnished,397831.44
+1166,2,1,Suburban Heights,18,1,3,Yes,Unfurnished,416104.39
+1016,2,1,West Hills,38,1,1,Yes,Semi-Furnished,369221.44
+3421,5,3,Green Valley,34,1,1,Yes,Furnished,708292.98
+1288,2,2,Green Valley,39,2,1,No,Semi-Furnished,296745.74
+1216,2,2,Suburban Heights,32,0,2,Yes,Semi-Furnished,384740.44
+764,2,1,West Hills,32,2,3,Yes,Furnished,402882.91
+1400,2,1,Suburban Heights,13,2,1,Yes,Furnished,490122.91
+1065,1,1,West Hills,37,2,2,Yes,Unfurnished,383340.83
+3487,5,4,Green Valley,9,2,1,Yes,Furnished,801240.55
+2707,4,3,Waterfront Bay,27,1,1,Yes,Semi-Furnished,1112537.07
+1372,2,1,Metro Corridor,13,1,2,Yes,Unfurnished,386688.86
+4451,5,3,West Hills,35,2,1,Yes,Semi-Furnished,1305817.1
+2677,4,3,Waterfront Bay,37,1,2,Yes,Furnished,1126179.78
+1587,4,2,Metro Corridor,15,1,2,Yes,Unfurnished,490609.01
+665,1,1,Suburban Heights,20,0,2,Yes,Semi-Furnished,256526.96
+4520,5,4,Downtown,27,2,2,Yes,Semi-Furnished,1514566.97
+1037,2,1,Green Valley,32,1,2,Yes,Semi-Furnished,240659.27
+936,2,1,Suburban Heights,5,1,2,Yes,Unfurnished,324591.24
+2721,5,4,Suburban Heights,40,0,1,Yes,Unfurnished,793210.94
+4797,5,3,Metro Corridor,14,3,2,Yes,Unfurnished,1067629.08
+3145,5,4,Green Valley,2,1,1,Yes,Semi-Furnished,762405.09
+2265,4,3,Metro Corridor,34,2,1,No,Unfurnished,351625.93
+2293,3,2,Suburban Heights,13,1,2,Yes,Unfurnished,649198.86
+2543,4,3,Suburban Heights,1,2,2,No,Unfurnished,792323.23
+2449,4,2,Waterfront Bay,28,1,1,Yes,Unfurnished,954245.94
+2023,4,3,Suburban Heights,3,2,1,Yes,Furnished,716057.24
+1884,2,1,Green Valley,25,1,1,Yes,Semi-Furnished,426818.98
+1763,3,1,West Hills,11,1,1,No,Furnished,554264.5
+1337,2,2,Downtown,1,2,2,No,Semi-Furnished,631652.74
+1616,3,2,Downtown,16,2,1,Yes,Furnished,671422.3
+918,1,1,Green Valley,34,2,2,Yes,Unfurnished,203582.82
+1738,3,1,Metro Corridor,9,2,2,No,Semi-Furnished,450843.82
+1217,3,3,Suburban Heights,21,1,2,Yes,Semi-Furnished,469931.61
+1162,2,2,West Hills,40,2,2,No,Semi-Furnished,430526.16
+1942,2,2,Waterfront Bay,20,0,1,Yes,Furnished,733366.98
+3155,5,3,Metro Corridor,14,2,1,No,Semi-Furnished,776528.3
+2610,4,2,West Hills,34,1,2,No,Semi-Furnished,784963.65
+964,2,2,West Hills,20,1,1,Yes,Unfurnished,374150.01
+1217,2,1,Suburban Heights,20,1,2,Yes,Furnished,405989.7
+2634,4,2,Suburban Heights,20,1,1,Yes,Furnished,772391.43
+1220,3,2,Waterfront Bay,31,0,1,Yes,Semi-Furnished,604276.45
+1652,3,3,Green Valley,4,1,1,Yes,Furnished,476050.42
+2253,4,3,Green Valley,38,0,1,Yes,Furnished,519536.21
+1227,2,2,Metro Corridor,8,1,3,No,Furnished,409302.64
+1885,3,3,Green Valley,17,0,1,No,Semi-Furnished,432704.68
+1060,2,1,West Hills,20,0,2,Yes,Furnished,430517.47
+1421,3,2,Waterfront Bay,7,0,2,Yes,Semi-Furnished,722094.68
+2054,4,3,Metro Corridor,33,1,2,No,Unfurnished,506527.53
+956,2,1,Suburban Heights,9,2,2,No,Unfurnished,381600.63
+2156,3,2,Suburban Heights,40,2,3,No,Semi-Furnished,657595.59
+1793,2,1,Waterfront Bay,23,0,1,Yes,Semi-Furnished,624366.04
+2255,4,3,Suburban Heights,39,2,2,No,Furnished,708941.64
+1977,4,3,West Hills,23,2,1,Yes,Furnished,793708.22
+3120,5,3,Downtown,31,1,1,No,Furnished,1102065.23
+1900,4,3,Downtown,32,2,2,No,Semi-Furnished,764237.43
+1522,3,2,West Hills,37,1,2,No,Semi-Furnished,543091.11
+1898,2,3,Metro Corridor,33,1,1,Yes,Unfurnished,462400.79
+2246,3,3,Suburban Heights,10,1,1,No,Unfurnished,651781.67
+1843,3,2,Downtown,30,0,2,Yes,Furnished,669121.64
+1837,3,3,Suburban Heights,17,2,2,Yes,Semi-Furnished,598188.96
+1365,2,1,Metro Corridor,22,1,1,No,Furnished,360040.24
+1386,3,2,West Hills,21,1,3,Yes,Semi-Furnished,572434.51
+1031,2,1,Downtown,17,1,3,Yes,Furnished,517602.14
+3640,5,3,Green Valley,39,2,2,No,Unfurnished,644410.55
+1099,1,1,Waterfront Bay,40,2,2,No,Unfurnished,432615.6
+1370,1,1,Waterfront Bay,38,2,1,No,Furnished,516539.23
+1356,2,1,Suburban Heights,19,1,3,Yes,Unfurnished,410131.26
+2586,3,1,Suburban Heights,12,1,1,Yes,Semi-Furnished,689293.98
+1606,3,2,Green Valley,0,1,1,Yes,Semi-Furnished,448462.3
+2978,4,2,Downtown,3,0,2,No,Semi-Furnished,1036208.36
+1381,4,3,Waterfront Bay,23,1,1,Yes,Semi-Furnished,703019.4
+2021,4,2,Suburban Heights,35,1,2,No,Unfurnished,594148.96
+1294,2,1,Suburban Heights,35,1,1,Yes,Unfurnished,422401.62
+4264,5,4,Downtown,1,3,2,No,Semi-Furnished,1518966.99
+1124,2,2,Downtown,27,2,2,Yes,Unfurnished,515174.69
+2046,4,3,Waterfront Bay,25,0,1,Yes,Unfurnished,816029.11
+2329,3,2,Suburban Heights,22,0,1,Yes,Semi-Furnished,697315.3
+2133,2,2,Metro Corridor,14,0,2,No,Furnished,519886.35
+1678,2,2,West Hills,35,2,2,Yes,Semi-Furnished,528300.18
+1716,3,2,Suburban Heights,26,2,1,Yes,Unfurnished,547144.07
+1840,3,1,Suburban Heights,5,3,3,Yes,Furnished,601309.7
+1704,3,2,Metro Corridor,34,1,1,No,Semi-Furnished,455657.89
+2658,3,3,Suburban Heights,38,2,2,Yes,Furnished,786606.16
+4377,5,3,Waterfront Bay,37,1,1,Yes,Unfurnished,1850000.0
+1446,3,2,West Hills,34,2,1,Yes,Unfurnished,538435.81
+1045,1,1,West Hills,35,2,1,No,Semi-Furnished,331615.18
+1745,1,1,Suburban Heights,9,2,1,Yes,Semi-Furnished,526455.85
+4800,5,2,Downtown,29,1,1,No,Unfurnished,1403866.58
+1310,2,1,Downtown,40,2,1,No,Furnished,429297.71
+3482,5,4,Metro Corridor,37,1,1,Yes,Unfurnished,833447.2
+3537,5,3,Downtown,28,0,1,Yes,Semi-Furnished,1239322.1
+1448,2,1,West Hills,38,0,2,Yes,Semi-Furnished,431281.53
+2270,3,2,Downtown,3,1,3,No,Semi-Furnished,847078.01
+3468,5,4,Waterfront Bay,4,1,1,Yes,Semi-Furnished,1394402.47
+1553,2,1,Waterfront Bay,3,0,2,Yes,Unfurnished,606433.72
+1666,3,2,Downtown,35,1,2,Yes,Unfurnished,646264.5
+1432,2,2,Downtown,15,1,2,Yes,Unfurnished,621936.93
+1204,2,2,West Hills,24,1,2,Yes,Furnished,504679.75
+1394,2,1,Suburban Heights,13,1,3,Yes,Semi-Furnished,466466.3
+1108,2,2,Metro Corridor,10,0,1,Yes,Semi-Furnished,330894.68
+1832,2,2,Downtown,28,0,2,Yes,Unfurnished,708380.27
+1328,2,2,Metro Corridor,33,0,2,Yes,Semi-Furnished,348636.65
+1985,4,2,Green Valley,21,2,1,Yes,Unfurnished,457969.52
+970,1,1,Downtown,13,1,1,Yes,Unfurnished,342325.67
+2063,3,2,Green Valley,23,2,3,No,Semi-Furnished,457854.51
+2523,4,3,Waterfront Bay,38,1,2,Yes,Unfurnished,1003796.13
+814,2,3,West Hills,25,3,1,Yes,Unfurnished,413741.22
+2099,3,2,Waterfront Bay,35,1,1,Yes,Unfurnished,760648.28
+2954,4,3,Suburban Heights,38,0,3,Yes,Semi-Furnished,798249.53
+1114,1,1,Suburban Heights,15,0,1,Yes,Unfurnished,316904.18
+3529,5,4,Suburban Heights,37,1,2,Yes,Furnished,983299.75
+2137,5,3,West Hills,31,2,1,Yes,Semi-Furnished,813752.46
+1363,2,1,West Hills,5,0,1,No,Furnished,464986.92
+1768,3,2,Suburban Heights,33,1,1,Yes,Furnished,543611.65
+2260,4,4,Green Valley,7,2,1,Yes,Unfurnished,584624.36
+1863,3,2,Green Valley,29,1,1,No,Semi-Furnished,411143.2
+2242,3,2,Green Valley,26,0,2,Yes,Furnished,500022.16
+1251,2,2,Metro Corridor,6,0,2,No,Semi-Furnished,366138.21
+1934,3,2,Waterfront Bay,26,0,1,Yes,Unfurnished,768042.14
+1027,2,1,Suburban Heights,24,3,2,Yes,Unfurnished,385394.44
+1729,2,1,Waterfront Bay,40,2,2,Yes,Furnished,652328.97
+1259,3,3,Green Valley,14,2,1,No,Unfurnished,304352.93
+1347,2,2,Downtown,24,3,1,Yes,Semi-Furnished,567168.56
+2964,4,3,Suburban Heights,21,1,1,Yes,Semi-Furnished,803913.1
+2797,5,3,Downtown,17,1,3,Yes,Semi-Furnished,1048437.1
+2306,3,2,Waterfront Bay,11,1,2,Yes,Unfurnished,887453.92
+1168,1,1,Waterfront Bay,22,2,1,No,Unfurnished,512245.96
+1593,2,1,West Hills,38,2,2,Yes,Furnished,567389.54
+2937,3,2,Downtown,24,1,1,No,Semi-Furnished,974158.33
+1913,3,2,West Hills,9,1,1,Yes,Semi-Furnished,664754.07
+4572,5,4,Metro Corridor,29,3,2,No,Semi-Furnished,1050311.47
+2116,3,2,Metro Corridor,9,0,2,Yes,Semi-Furnished,528658.17
+1952,2,1,Downtown,33,2,1,No,Semi-Furnished,667000.86
+1597,2,1,Green Valley,12,0,2,Yes,Semi-Furnished,393585.42
+1907,3,2,Metro Corridor,28,1,1,No,Furnished,497442.69
+1701,2,1,Downtown,37,1,1,Yes,Semi-Furnished,530164.65
+2400,3,3,West Hills,40,2,3,Yes,Unfurnished,782740.34
+2650,3,3,West Hills,8,1,2,No,Semi-Furnished,870093.78
+1320,2,1,Suburban Heights,12,1,2,Yes,Unfurnished,383534.39
+1061,1,1,Downtown,36,2,2,No,Furnished,459734.6
+867,2,1,West Hills,13,2,3,Yes,Semi-Furnished,387738.29
+2215,3,2,Metro Corridor,36,2,1,Yes,Semi-Furnished,532664.61
+1162,2,2,Waterfront Bay,8,0,1,No,Furnished,493939.59
+764,2,1,West Hills,7,2,2,Yes,Furnished,406457.62
+2112,4,3,Suburban Heights,38,0,2,Yes,Unfurnished,613121.26
+4800,5,4,West Hills,39,1,2,No,Semi-Furnished,1401018.05
+1803,3,2,Suburban Heights,2,0,1,Yes,Semi-Furnished,551142.89
+2528,4,3,Waterfront Bay,39,1,1,Yes,Semi-Furnished,944446.72
+1868,3,2,Metro Corridor,32,2,2,Yes,Unfurnished,496938.55
+1737,2,2,Metro Corridor,31,1,1,No,Semi-Furnished,375733.85
+2611,4,2,Suburban Heights,6,1,1,No,Unfurnished,763517.23
+1609,3,2,Suburban Heights,18,2,1,No,Semi-Furnished,483616.13
+2012,2,1,West Hills,33,2,1,Yes,Semi-Furnished,396550.28
+2056,3,2,Metro Corridor,13,2,2,Yes,Furnished,570008.63
+1384,1,1,West Hills,18,1,2,Yes,Unfurnished,420659.89
+2688,3,1,Suburban Heights,25,2,1,Yes,Semi-Furnished,727830.67
+1685,2,2,Green Valley,16,1,1,Yes,Semi-Furnished,418450.26
+1336,2,2,Metro Corridor,27,3,2,Yes,Furnished,448395.21
+2240,3,1,Downtown,18,1,1,No,Semi-Furnished,752927.7
+1262,2,2,Suburban Heights,26,2,2,No,Furnished,499237.05
+1828,3,2,Suburban Heights,18,0,2,Yes,Semi-Furnished,531171.31
+1801,2,2,Metro Corridor,32,1,2,No,Unfurnished,460401.72
+2791,5,3,Downtown,6,0,2,No,Unfurnished,974760.02
+2186,4,3,Suburban Heights,28,1,1,Yes,Furnished,724223.7
+1790,2,1,Waterfront Bay,4,1,2,Yes,Unfurnished,752365.67
+2507,4,3,Downtown,29,2,1,Yes,Unfurnished,969265.11
+3152,4,2,Suburban Heights,7,0,1,Yes,Semi-Furnished,878736.2
+2260,4,3,West Hills,41,2,1,Yes,Semi-Furnished,696532.33
+1815,2,2,Suburban Heights,11,0,1,Yes,Unfurnished,518928.09
+1069,1,1,West Hills,41,1,1,No,Semi-Furnished,279061.41
+1180,2,3,West Hills,12,2,1,Yes,Semi-Furnished,574988.79
+1600,2,1,West Hills,25,2,2,Yes,Semi-Furnished,572803.34
+1416,2,2,Suburban Heights,17,1,3,Yes,Furnished,515330.71
+1677,2,1,Downtown,41,0,1,Yes,Unfurnished,501683.74
+1849,3,3,Waterfront Bay,19,2,2,Yes,Semi-Furnished,878586.47
+2234,4,3,Metro Corridor,15,1,1,Yes,Semi-Furnished,594712.89
+1757,3,2,Suburban Heights,36,1,3,No,Furnished,548183.95
+2196,3,3,West Hills,2,2,1,Yes,Semi-Furnished,802841.9
+1855,2,1,Suburban Heights,26,1,2,No,Semi-Furnished,480704.69
+820,2,1,Downtown,14,0,1,Yes,Semi-Furnished,398106.93
+1241,1,1,Metro Corridor,33,2,2,Yes,Unfurnished,366259.39
+1706,3,2,Downtown,21,2,1,Yes,Furnished,656163.57
+1114,2,2,Green Valley,39,0,1,No,Furnished,284453.51
+2298,4,3,Waterfront Bay,22,1,1,No,Semi-Furnished,912692.71
+3335,5,4,Suburban Heights,3,0,1,Yes,Semi-Furnished,994145.41
+2943,4,2,Downtown,40,2,2,Yes,Furnished,994057.42
+1660,3,2,Metro Corridor,22,2,2,Yes,Furnished,496671.58
+3282,4,3,Green Valley,8,0,1,No,Unfurnished,665170.99
+1918,2,1,Downtown,23,0,3,Yes,Furnished,729653.71
+1579,2,1,Waterfront Bay,20,0,2,Yes,Unfurnished,612178.54
+1414,3,2,Downtown,40,1,3,Yes,Semi-Furnished,575461.28
+1602,3,2,Metro Corridor,15,2,1,Yes,Semi-Furnished,475339.04
+1548,2,1,Waterfront Bay,24,0,3,No,Furnished,690518.39
+1935,3,2,West Hills,25,1,1,Yes,Unfurnished,647007.3
+1927,3,2,Downtown,8,1,2,Yes,Furnished,768000.48
+1810,2,1,West Hills,14,1,1,Yes,Semi-Furnished,627735.91
+2153,4,3,Suburban Heights,38,1,2,Yes,Furnished,676905.96
+2911,4,3,West Hills,32,1,2,Yes,Unfurnished,886196.81
+2643,5,4,Metro Corridor,0,2,1,No,Unfurnished,741798.42
+998,2,1,Downtown,4,3,3,Yes,Semi-Furnished,542459.58
+650,2,1,West Hills,8,3,3,Yes,Semi-Furnished,309862.25
+2627,4,3,West Hills,5,1,3,Yes,Unfurnished,931171.32
+1046,2,1,Suburban Heights,27,2,3,Yes,Unfurnished,349612.06
+1652,2,1,Downtown,25,3,2,Yes,Semi-Furnished,602828.67
+1132,1,2,Metro Corridor,27,0,3,No,Unfurnished,261343.79
+879,2,1,Green Valley,39,0,2,Yes,Semi-Furnished,229447.23
+2245,4,2,Green Valley,14,0,1,No,Furnished,502867.29
+2449,3,2,Metro Corridor,5,1,2,Yes,Furnished,675807.24
+1435,2,1,Suburban Heights,26,2,3,Yes,Semi-Furnished,450845.72
+650,1,1,Suburban Heights,37,1,2,Yes,Semi-Furnished,354606.4
+1453,1,2,Downtown,3,1,1,No,Furnished,652850.5
+2114,4,2,Suburban Heights,10,1,1,No,Furnished,600226.28
+1000,1,1,Downtown,20,0,2,No,Semi-Furnished,419689.67
+1945,3,1,Waterfront Bay,29,1,3,No,Furnished,743916.83
+1797,2,2,Metro Corridor,17,0,1,Yes,Furnished,545021.0
+2279,3,3,Green Valley,34,0,1,Yes,Unfurnished,498261.83
+1896,3,2,Green Valley,2,2,1,No,Semi-Furnished,454229.31
+1225,2,2,Downtown,11,2,2,No,Furnished,532756.93
+2917,4,3,Green Valley,26,2,1,Yes,Semi-Furnished,656139.47
+1696,2,2,Downtown,29,2,2,Yes,Unfurnished,586776.58
+1788,3,2,Suburban Heights,20,2,3,Yes,Semi-Furnished,619761.24
+1244,3,1,West Hills,37,2,2,Yes,Furnished,438745.02
+1514,2,1,Suburban Heights,20,2,1,Yes,Unfurnished,428722.52
+1269,3,2,Green Valley,37,2,3,Yes,Semi-Furnished,310485.5
+1687,2,1,Suburban Heights,39,1,2,Yes,Semi-Furnished,468175.16
+3585,5,3,Suburban Heights,14,1,1,No,Semi-Furnished,980668.13
+1044,1,1,Downtown,17,2,2,No,Semi-Furnished,442202.69
+948,1,1,Metro Corridor,28,1,2,No,Semi-Furnished,221343.46
+3256,5,3,Suburban Heights,37,1,2,No,Unfurnished,901547.89
+1662,3,3,West Hills,20,1,3,Yes,Semi-Furnished,657855.36
+1383,3,2,West Hills,16,1,1,No,Unfurnished,487757.68
+2740,4,3,West Hills,40,3,1,Yes,Semi-Furnished,911923.93
+1419,1,1,Suburban Heights,17,1,1,No,Semi-Furnished,385038.72
+3753,5,4,Waterfront Bay,36,1,2,Yes,Semi-Furnished,1438799.7
+2371,4,4,West Hills,37,0,2,No,Furnished,775900.08
+1487,2,1,Green Valley,11,2,1,Yes,Furnished,404717.35
+4285,5,3,Metro Corridor,10,1,1,Yes,Unfurnished,1002961.63
+1419,2,1,Downtown,19,2,3,Yes,Semi-Furnished,582736.1
+2432,4,3,Downtown,8,2,3,Yes,Furnished,1022734.38
+2037,3,3,Suburban Heights,0,1,1,Yes,Semi-Furnished,671963.77
+3043,3,2,Metro Corridor,2,1,2,Yes,Furnished,761104.68
+3376,5,3,Waterfront Bay,20,1,2,No,Unfurnished,1240501.4
+1831,3,3,West Hills,22,2,1,Yes,Furnished,664453.84
+1337,3,2,Green Valley,8,2,1,Yes,Semi-Furnished,386107.7
+2173,4,2,Suburban Heights,18,1,1,Yes,Semi-Furnished,656630.09
+1378,2,1,Waterfront Bay,18,0,1,Yes,Semi-Furnished,525702.19
+4045,5,3,Green Valley,22,0,2,Yes,Furnished,842946.99
+1909,2,1,Suburban Heights,26,2,1,Yes,Semi-Furnished,477468.79
+1562,2,1,Suburban Heights,26,0,1,No,Unfurnished,396260.8
+1946,4,3,Suburban Heights,38,0,2,Yes,Unfurnished,587943.69
+1054,2,1,Suburban Heights,35,1,1,No,Semi-Furnished,328238.14
+1225,2,1,West Hills,11,2,2,No,Semi-Furnished,513290.5
+2922,5,4,Suburban Heights,26,2,1,No,Furnished,895252.22
+1390,2,1,Suburban Heights,33,1,2,Yes,Furnished,475955.74
+1189,1,1,West Hills,32,2,3,Yes,Unfurnished,422627.62
+2240,3,2,Waterfront Bay,27,1,1,Yes,Unfurnished,853297.39
+2905,5,3,Waterfront Bay,30,3,2,No,Semi-Furnished,1212794.95
+2410,3,2,West Hills,31,0,1,Yes,Semi-Furnished,718304.38
+2693,5,4,Metro Corridor,19,2,2,No,Semi-Furnished,730759.08
+1335,2,2,Waterfront Bay,39,1,2,Yes,Furnished,638093.48
+1023,2,1,Downtown,34,1,1,Yes,Semi-Furnished,423706.3
+3296,4,3,West Hills,30,2,2,Yes,Unfurnished,1040496.54
+1589,3,2,West Hills,30,1,1,Yes,Semi-Furnished,530809.95
+1635,2,1,Suburban Heights,37,1,3,No,Semi-Furnished,475611.02
+3075,4,3,Downtown,21,1,1,Yes,Furnished,1092432.21
+2258,4,3,Downtown,40,1,2,Yes,Furnished,824982.7
+2169,4,2,Metro Corridor,8,1,1,Yes,Semi-Furnished,605296.37
+4298,5,4,Suburban Heights,8,1,2,Yes,Unfurnished,1151607.44
+1397,1,1,Metro Corridor,14,2,3,Yes,Unfurnished,343960.0
+2620,4,2,West Hills,12,2,2,Yes,Unfurnished,820978.23
+1849,3,1,West Hills,21,0,1,Yes,Semi-Furnished,574242.48
+2013,3,3,Green Valley,15,1,2,Yes,Semi-Furnished,539369.4
+3332,5,4,Downtown,31,2,1,Yes,Unfurnished,1195743.24
+2215,3,2,Suburban Heights,1,0,1,Yes,Semi-Furnished,657358.26
+2242,5,3,Downtown,25,1,1,Yes,Unfurnished,906809.52
+2776,4,2,Suburban Heights,13,2,1,No,Unfurnished,779348.1
+1562,2,2,Downtown,37,2,2,No,Semi-Furnished,619214.01
+1292,1,1,Downtown,33,0,1,No,Semi-Furnished,435354.65
+1190,2,1,Green Valley,7,1,2,No,Semi-Furnished,306021.22
+823,1,1,West Hills,35,1,1,Yes,Furnished,301169.82
+4115,5,3,Metro Corridor,20,3,1,Yes,Semi-Furnished,963975.91
+1162,2,2,Suburban Heights,27,0,2,Yes,Unfurnished,402212.6
+1654,2,2,West Hills,5,3,1,Yes,Unfurnished,591084.51
+1618,3,2,Downtown,19,1,1,Yes,Furnished,634889.28
+2044,4,2,Suburban Heights,30,1,1,No,Semi-Furnished,582379.14
+2505,5,2,Suburban Heights,32,1,2,Yes,Semi-Furnished,732438.3
+2550,4,2,Downtown,6,2,2,Yes,Semi-Furnished,1000052.74
+1431,3,1,Metro Corridor,7,1,1,Yes,Semi-Furnished,419013.89
+1691,3,2,Waterfront Bay,8,1,1,Yes,Semi-Furnished,749264.44
+2024,3,2,Suburban Heights,1,2,2,Yes,Semi-Furnished,688669.93
+1636,3,1,Suburban Heights,16,3,3,No,Furnished,581240.69
+3439,4,3,Green Valley,36,1,1,Yes,Semi-Furnished,668439.61
+2200,3,2,Downtown,41,0,2,No,Semi-Furnished,754907.09
+2425,3,2,Suburban Heights,16,2,1,No,Furnished,690844.2
+2357,4,2,Suburban Heights,37,2,1,Yes,Semi-Furnished,712982.68
+2891,5,3,Downtown,34,0,1,Yes,Semi-Furnished,980160.51
+1943,3,1,West Hills,38,3,2,No,Unfurnished,575931.36
+1076,1,1,Waterfront Bay,29,0,1,Yes,Semi-Furnished,439593.7
+2121,3,2,Downtown,5,2,3,Yes,Semi-Furnished,938464.87
+1393,3,2,Downtown,3,1,2,No,Semi-Furnished,345679.58
+1463,3,2,Metro Corridor,36,1,1,Yes,Furnished,436125.99
+2285,4,3,Downtown,34,1,2,Yes,Semi-Furnished,881635.13
+2967,4,2,Suburban Heights,8,2,1,Yes,Unfurnished,835550.66
+1823,2,2,Downtown,5,3,1,Yes,Semi-Furnished,818943.45
+2045,3,2,Downtown,12,1,1,Yes,Semi-Furnished,713245.64
+3572,5,4,Waterfront Bay,21,1,1,Yes,Furnished,1443731.98
+1990,4,2,Suburban Heights,27,1,1,Yes,Unfurnished,611586.02
+4800,5,3,Waterfront Bay,29,2,1,Yes,Unfurnished,1723147.03
+2266,3,1,Downtown,35,3,1,No,Furnished,805851.76
+893,1,1,Metro Corridor,1,2,1,No,Semi-Furnished,300334.73
+2443,4,2,Suburban Heights,35,1,3,Yes,Furnished,714315.31
+2105,3,3,Downtown,7,3,1,Yes,Semi-Furnished,861749.92
+3028,5,3,Suburban Heights,41,0,1,Yes,Furnished,844432.43
+2366,4,3,Downtown,8,1,3,Yes,Furnished,979901.12
+1710,2,1,West Hills,0,1,2,No,Furnished,595685.22
+1107,3,1,Suburban Heights,12,1,2,Yes,Unfurnished,390327.0
+1663,3,2,Downtown,14,2,1,Yes,Unfurnished,666557.62
+1286,2,2,Downtown,31,2,2,Yes,Furnished,591637.45
+1433,2,1,Suburban Heights,33,0,1,No,Semi-Furnished,371407.98
+2287,4,3,Metro Corridor,30,1,2,No,Furnished,632422.39
+3526,5,3,Downtown,13,1,3,Yes,Furnished,1243333.55
+2117,2,1,Downtown,13,1,2,Yes,Unfurnished,753906.94
+1120,3,2,Suburban Heights,28,1,1,Yes,Furnished,393462.48
+2159,4,2,Suburban Heights,18,0,2,Yes,Semi-Furnished,681513.32
+2917,4,3,Downtown,26,2,2,Yes,Semi-Furnished,1103765.57
+1416,2,1,Waterfront Bay,8,2,2,No,Furnished,604205.94
+1713,3,2,Waterfront Bay,36,3,2,Yes,Semi-Furnished,735359.99
+1818,3,1,Downtown,36,3,2,No,Unfurnished,624109.99
+1320,2,1,Waterfront Bay,27,2,2,No,Unfurnished,593242.84
+2343,4,3,Downtown,23,0,3,Yes,Furnished,898398.66
+1722,3,3,West Hills,27,2,2,Yes,Unfurnished,668162.75
+2138,4,2,Green Valley,35,1,1,No,Unfurnished,430708.38
+1267,2,1,West Hills,17,2,2,Yes,Furnished,536047.37
+1517,2,2,Suburban Heights,24,1,1,Yes,Semi-Furnished,503218.55
+2413,5,4,West Hills,34,2,2,Yes,Furnished,943117.54
+1557,3,1,West Hills,3,1,1,Yes,Semi-Furnished,567457.99
+3607,5,3,Metro Corridor,13,0,2,Yes,Semi-Furnished,874996.85
+1540,2,1,West Hills,38,1,2,Yes,Furnished,499538.92
+1978,3,2,West Hills,25,0,1,Yes,Furnished,650678.43
+2625,3,3,Waterfront Bay,7,3,2,Yes,Semi-Furnished,1120916.17
+1025,2,1,Suburban Heights,23,1,2,Yes,Semi-Furnished,388725.18
+893,1,1,Suburban Heights,15,1,1,Yes,Semi-Furnished,296845.03
+982,3,2,Downtown,19,2,1,Yes,Semi-Furnished,504139.4
+2996,4,3,Waterfront Bay,14,2,3,Yes,Furnished,1266906.34
+1449,1,1,Suburban Heights,6,1,1,Yes,Semi-Furnished,457498.56
+4800,5,3,West Hills,16,1,2,No,Furnished,1368463.29
+1442,1,1,Green Valley,21,1,2,No,Unfurnished,297304.59
+1946,3,2,Waterfront Bay,21,2,3,No,Semi-Furnished,844342.9
+3350,4,2,Downtown,11,2,2,No,Furnished,1190026.09
+4033,5,4,Metro Corridor,17,3,2,Yes,Furnished,1021708.76
+4124,5,4,Green Valley,14,0,3,Yes,Furnished,899235.23
+2931,4,3,Suburban Heights,36,1,2,Yes,Furnished,836226.06
+2723,5,3,Downtown,15,0,2,No,Semi-Furnished,1034761.37
+2291,4,3,Suburban Heights,4,2,1,No,Unfurnished,663878.09
+2468,3,3,Downtown,1,0,1,Yes,Semi-Furnished,928020.34
+1450,2,1,Metro Corridor,27,0,2,Yes,Semi-Furnished,398481.44
+1303,2,2,West Hills,40,1,2,Yes,Semi-Furnished,441439.02
+1805,3,1,Waterfront Bay,26,1,1,Yes,Semi-Furnished,678374.33
+1689,2,2,Metro Corridor,30,2,1,Yes,Furnished,492074.46
+1508,3,2,West Hills,40,1,2,No,Furnished,515211.89
+2388,2,2,Green Valley,35,1,1,Yes,Unfurnished,468791.27
+2649,4,3,Green Valley,0,1,1,No,Unfurnished,601291.05
+1873,3,1,Downtown,28,2,1,Yes,Furnished,594480.11
+3264,5,4,Downtown,0,1,2,Yes,Furnished,1211214.71
+1145,2,2,Suburban Heights,7,1,2,No,Unfurnished,425059.01
+1673,2,2,Green Valley,15,1,1,Yes,Semi-Furnished,403139.28
+1357,1,1,Green Valley,27,1,1,Yes,Unfurnished,287276.03
+856,1,1,Suburban Heights,21,2,2,Yes,Furnished,326826.71
+1749,3,2,Downtown,17,0,2,No,Unfurnished,640964.41
+1722,2,1,Downtown,21,2,2,Yes,Unfurnished,673764.55
+3312,5,4,Metro Corridor,40,1,1,Yes,Furnished,822648.62
+2326,4,3,West Hills,11,2,1,Yes,Semi-Furnished,868397.61
+1200,2,1,Suburban Heights,18,2,2,No,Furnished,411465.5
+3795,5,4,Suburban Heights,24,1,1,No,Semi-Furnished,1027288.31
+2946,5,3,West Hills,4,2,2,Yes,Semi-Furnished,1042510.26
+2282,3,2,Metro Corridor,33,1,1,Yes,Semi-Furnished,563578.67
+1651,1,1,Waterfront Bay,38,1,1,No,Semi-Furnished,525434.99
+1231,2,2,Waterfront Bay,9,1,1,Yes,Furnished,617285.32
+1557,2,2,West Hills,6,1,2,Yes,Semi-Furnished,576511.2
+2794,4,3,Green Valley,36,2,1,Yes,Semi-Furnished,643963.56
+3842,5,3,Suburban Heights,14,1,1,Yes,Unfurnished,989713.26
+3351,5,3,Waterfront Bay,41,2,1,Yes,Furnished,1292105.81
+1486,3,2,Waterfront Bay,23,1,1,Yes,Semi-Furnished,637828.83
+1155,2,1,Waterfront Bay,25,1,1,Yes,Semi-Furnished,459118.85
+1912,3,2,Downtown,25,3,1,No,Semi-Furnished,719827.81
+891,1,1,West Hills,25,2,1,Yes,Semi-Furnished,386471.4
+2057,2,2,Waterfront Bay,9,2,2,Yes,Semi-Furnished,857725.35
+1704,1,1,West Hills,16,2,2,No,Unfurnished,483826.11
+1500,2,1,Downtown,13,2,1,No,Furnished,554831.67
+955,2,2,Downtown,1,1,1,Yes,Unfurnished,489959.46
+2220,4,2,Suburban Heights,12,2,2,Yes,Semi-Furnished,667032.95
+1461,2,2,Suburban Heights,26,1,1,Yes,Semi-Furnished,476678.02
+1132,2,1,Waterfront Bay,8,0,1,Yes,Semi-Furnished,458648.88
+650,1,1,Metro Corridor,6,0,2,Yes,Unfurnished,226263.73
+1788,3,2,Downtown,9,1,3,Yes,Semi-Furnished,781501.3
+3673,5,2,Suburban Heights,8,1,2,Yes,Unfurnished,983618.53
+3513,4,2,Suburban Heights,21,2,1,No,Furnished,893640.4
+1505,2,1,Metro Corridor,22,2,2,Yes,Semi-Furnished,417635.04
+1420,3,2,Suburban Heights,6,1,1,Yes,Semi-Furnished,494621.88
+2180,3,2,Suburban Heights,8,0,2,Yes,Semi-Furnished,685806.1
+1212,2,1,West Hills,26,1,1,Yes,Semi-Furnished,446577.5
+2040,5,3,Waterfront Bay,23,1,1,Yes,Semi-Furnished,932435.36
+2456,4,3,West Hills,28,2,2,No,Semi-Furnished,827380.06
+2953,5,4,Waterfront Bay,16,0,3,Yes,Semi-Furnished,1242700.97
+1737,2,1,Metro Corridor,19,1,2,No,Semi-Furnished,423764.33
+1666,3,3,Waterfront Bay,6,2,2,Yes,Semi-Furnished,786564.91
+1272,2,2,Green Valley,39,2,2,Yes,Semi-Furnished,335959.21
+1298,2,1,Waterfront Bay,6,2,2,Yes,Furnished,620182.3
+1651,2,1,Metro Corridor,27,2,2,Yes,Unfurnished,421056.21
+2094,3,1,Suburban Heights,18,1,2,No,Unfurnished,570955.41
+2605,5,3,Waterfront Bay,19,0,1,No,Furnished,1035123.02
+1311,2,2,Waterfront Bay,38,2,1,Yes,Furnished,620084.44
+3284,5,4,Metro Corridor,39,2,3,No,Furnished,812345.09
+1622,2,2,Waterfront Bay,6,1,3,No,Unfurnished,711433.79
+1792,3,2,Suburban Heights,5,1,1,Yes,Unfurnished,561576.34
+1340,2,2,Downtown,24,2,1,No,Furnished,592588.05
+685,1,1,Green Valley,40,0,3,Yes,Unfurnished,179591.92
+2575,4,4,Waterfront Bay,12,0,2,No,Furnished,1098481.78
+2427,3,2,Waterfront Bay,38,1,2,Yes,Furnished,955244.23
+1615,2,2,Green Valley,39,1,1,Yes,Unfurnished,339990.53
+1857,3,3,Green Valley,21,0,2,Yes,Unfurnished,466974.49
+2222,4,3,Waterfront Bay,16,0,1,Yes,Unfurnished,934468.94
+967,1,1,Metro Corridor,21,2,1,No,Semi-Furnished,302334.87
+1463,3,3,Waterfront Bay,33,1,1,Yes,Semi-Furnished,660467.38
+2484,4,3,Downtown,7,1,3,Yes,Unfurnished,975050.58
+1094,1,1,Metro Corridor,17,1,2,Yes,Semi-Furnished,328067.63
+2033,2,2,Metro Corridor,23,3,2,Yes,Furnished,563569.87
+1050,2,1,Waterfront Bay,41,0,1,Yes,Semi-Furnished,431243.39
+2178,3,2,Downtown,1,1,3,Yes,Unfurnished,852599.75
+1782,3,3,Waterfront Bay,1,2,2,Yes,Unfurnished,841109.37
+947,1,1,Metro Corridor,26,0,2,Yes,Semi-Furnished,299658.74
+2881,3,2,Green Valley,13,1,3,Yes,Semi-Furnished,672225.57
+1347,2,2,Waterfront Bay,38,1,1,Yes,Furnished,518944.69
+1307,2,1,Metro Corridor,11,3,2,No,Semi-Furnished,406188.45
+1959,3,2,Waterfront Bay,31,2,3,Yes,Semi-Furnished,869105.76
+2862,4,3,West Hills,27,3,2,Yes,Furnished,983109.53
+1204,3,2,Downtown,27,0,2,Yes,Unfurnished,559689.51
+1853,2,1,West Hills,24,2,1,Yes,Unfurnished,539695.64
+2146,4,4,Waterfront Bay,3,0,2,Yes,Furnished,1004858.15
+2385,4,3,Green Valley,25,2,2,Yes,Unfurnished,567665.3
+1940,4,4,Waterfront Bay,35,2,1,Yes,Semi-Furnished,925704.55
+1561,2,1,Suburban Heights,2,0,2,Yes,Semi-Furnished,523596.14
+1298,3,2,Metro Corridor,0,2,1,Yes,Unfurnished,408169.58
+1871,3,2,Suburban Heights,16,0,1,No,Furnished,509298.53
+1177,1,1,Waterfront Bay,6,1,2,Yes,Unfurnished,564030.69
+650,2,1,Suburban Heights,4,3,2,Yes,Semi-Furnished,358846.87
+2153,3,3,Metro Corridor,18,0,1,Yes,Unfurnished,555279.44
+2595,4,2,Suburban Heights,38,0,1,Yes,Semi-Furnished,705551.62
+702,2,1,Downtown,33,1,1,Yes,Furnished,309702.74
+1207,1,1,Suburban Heights,34,2,1,Yes,Semi-Furnished,353852.78
+2316,4,3,Green Valley,15,0,1,Yes,Furnished,570227.15
+4117,5,3,Downtown,39,1,1,Yes,Furnished,1304821.5
+1823,3,1,Suburban Heights,38,2,1,Yes,Furnished,514560.72
+1351,2,2,West Hills,26,0,2,Yes,Unfurnished,476198.03
+1680,2,1,Downtown,40,1,3,Yes,Unfurnished,594871.86
+3133,4,3,Suburban Heights,37,2,2,Yes,Unfurnished,823599.24
+1396,3,3,Green Valley,24,1,2,Yes,Unfurnished,400337.29
+1313,3,2,Downtown,25,2,1,Yes,Unfurnished,578342.59
+1490,2,1,Metro Corridor,13,0,2,Yes,Furnished,398327.81
+1234,2,1,Metro Corridor,13,3,2,No,Unfurnished,415029.19
+1898,3,2,Waterfront Bay,13,3,2,Yes,Unfurnished,827382.79
+3462,5,4,Waterfront Bay,24,0,1,No,Furnished,1346499.85
+2057,3,2,Green Valley,35,0,1,Yes,Semi-Furnished,445124.88
+1634,3,2,Metro Corridor,3,3,2,Yes,Semi-Furnished,521464.81
+1608,3,2,Downtown,14,1,1,Yes,Unfurnished,647454.89
+967,1,1,Waterfront Bay,31,1,2,Yes,Semi-Furnished,444560.63
+2574,5,3,West Hills,17,2,1,Yes,Unfurnished,970755.01
+1752,2,2,Suburban Heights,13,2,1,Yes,Furnished,535704.24
+1682,4,3,Suburban Heights,0,2,2,Yes,Furnished,597712.62
+4800,5,3,Green Valley,41,1,2,No,Unfurnished,874588.39
+2037,3,3,Suburban Heights,19,1,1,Yes,Furnished,649776.69
+1338,1,2,Metro Corridor,9,2,2,No,Semi-Furnished,413991.58
+1524,2,1,West Hills,9,2,1,Yes,Semi-Furnished,552140.73
+2862,4,3,Downtown,23,2,2,Yes,Unfurnished,1038703.04
+1891,3,1,West Hills,33,3,2,Yes,Furnished,697214.86
+1017,1,1,Suburban Heights,27,2,2,Yes,Furnished,533931.47
+2611,5,4,Waterfront Bay,26,1,1,Yes,Semi-Furnished,1166737.16
+1384,2,1,Waterfront Bay,39,2,1,Yes,Semi-Furnished,571287.33
+3825,5,3,Suburban Heights,0,1,2,Yes,Semi-Furnished,1123943.94
+2785,4,2,West Hills,32,0,1,Yes,Unfurnished,785034.57
+1511,2,2,Green Valley,3,1,2,Yes,Semi-Furnished,405410.94
+3018,5,4,Metro Corridor,6,2,2,Yes,Unfurnished,792233.01
+1857,2,1,Waterfront Bay,8,3,1,No,Furnished,789525.76
+2543,5,4,Metro Corridor,15,1,2,Yes,Semi-Furnished,732942.51
+2194,3,1,Downtown,4,1,1,No,Unfurnished,821609.57
+1288,2,2,Downtown,33,1,3,Yes,Semi-Furnished,549700.92
+1397,3,2,Downtown,22,2,2,Yes,Furnished,592080.3
+2729,5,3,West Hills,24,2,2,Yes,Unfurnished,953922.4
+1581,2,1,Downtown,12,1,1,Yes,Semi-Furnished,565747.86
+1538,2,1,Suburban Heights,23,2,3,No,Unfurnished,429330.31
+1233,2,2,Waterfront Bay,10,1,2,Yes,Furnished,662423.63
+2141,3,1,Suburban Heights,16,1,1,No,Semi-Furnished,561939.93
+4125,5,3,Green Valley,36,1,1,No,Unfurnished,773948.3
+1179,2,1,Green Valley,12,2,1,Yes,Semi-Furnished,353172.77
+1825,3,2,West Hills,26,0,3,Yes,Furnished,662749.99
+3180,5,4,West Hills,19,2,2,Yes,Furnished,1119149.93
+1751,3,2,West Hills,32,1,3,Yes,Furnished,597836.7
+2166,4,2,Metro Corridor,41,1,2,Yes,Semi-Furnished,564010.81
+1182,1,1,West Hills,31,1,2,Yes,Semi-Furnished,393682.73
+2145,2,2,Downtown,7,1,1,Yes,Furnished,787531.43
+1677,3,2,Waterfront Bay,28,1,1,Yes,Furnished,733724.64
+2681,4,2,Suburban Heights,39,2,1,Yes,Semi-Furnished,734189.95
+2907,4,3,Suburban Heights,18,1,2,No,Semi-Furnished,789051.46
+4800,5,4,Suburban Heights,5,2,3,Yes,Semi-Furnished,1358980.27
+2279,3,2,Metro Corridor,38,1,3,Yes,Semi-Furnished,593265.22
+2059,4,3,West Hills,40,1,1,Yes,Unfurnished,665483.24
+1954,3,2,Downtown,20,1,2,No,Furnished,763041.07
+1569,2,2,Waterfront Bay,21,3,2,Yes,Semi-Furnished,767333.0
+2070,4,3,West Hills,41,1,2,No,Semi-Furnished,638745.62
+1606,2,2,Downtown,9,1,2,No,Furnished,641245.05
+1934,3,1,Downtown,9,2,1,No,Semi-Furnished,645149.03
+3062,4,4,Metro Corridor,28,0,3,Yes,Unfurnished,777731.69
+1208,1,1,Suburban Heights,15,2,2,Yes,Furnished,436995.99
+2852,4,3,Metro Corridor,0,0,2,No,Furnished,725306.03
+3062,5,4,Metro Corridor,16,2,1,No,Semi-Furnished,790777.52
+1724,3,2,Metro Corridor,29,0,1,No,Semi-Furnished,416319.36
+773,1,1,Downtown,25,3,1,Yes,Semi-Furnished,311738.34
+1417,1,1,Downtown,18,1,2,Yes,Semi-Furnished,576032.87
+3037,4,2,Waterfront Bay,20,1,3,Yes,Unfurnished,1171952.5
+1791,3,2,Downtown,16,0,1,No,Furnished,666612.33
+1212,2,1,Suburban Heights,39,1,2,No,Furnished,357778.56
+1477,2,1,Metro Corridor,20,2,2,Yes,Furnished,447602.05
+2530,4,3,Green Valley,40,1,1,Yes,Semi-Furnished,524792.57
+2250,3,2,Metro Corridor,39,1,2,Yes,Semi-Furnished,530734.67
+1643,2,2,Suburban Heights,18,1,2,Yes,Unfurnished,517160.96
+1561,2,1,West Hills,6,1,1,Yes,Semi-Furnished,577291.86
+1545,2,2,Waterfront Bay,16,0,1,Yes,Semi-Furnished,565623.28
+1250,1,1,Suburban Heights,0,0,2,Yes,Furnished,454467.12
+3450,5,4,Metro Corridor,36,2,1,Yes,Semi-Furnished,835426.04
+1589,3,2,Downtown,5,3,3,No,Furnished,739344.42
+2942,5,4,Suburban Heights,25,1,2,Yes,Unfurnished,877566.15
+3322,5,3,Metro Corridor,1,2,1,No,Semi-Furnished,814039.44
+2695,5,3,Downtown,31,0,1,No,Furnished,910765.44
+1521,2,1,Green Valley,4,1,3,Yes,Semi-Furnished,405335.92
+2124,3,2,Downtown,36,1,2,No,Furnished,808931.46
+1790,2,2,Metro Corridor,30,1,2,No,Semi-Furnished,425004.96
+1259,1,1,Suburban Heights,11,1,1,Yes,Furnished,387218.02
+2058,3,2,Downtown,34,2,2,Yes,Semi-Furnished,726506.66
+1128,1,1,Downtown,29,3,1,Yes,Semi-Furnished,450162.71
+2907,5,4,West Hills,5,0,2,No,Semi-Furnished,968176.36
+1501,4,3,Metro Corridor,14,1,3,Yes,Semi-Furnished,494988.5
+1959,3,2,West Hills,14,3,1,Yes,Furnished,731756.27
+2024,3,1,Green Valley,15,1,2,No,Semi-Furnished,415501.89
+1630,2,1,Metro Corridor,19,2,1,No,Semi-Furnished,446654.67
+2286,4,3,Downtown,12,1,2,Yes,Semi-Furnished,879142.71
+1495,2,1,West Hills,41,1,1,Yes,Unfurnished,473651.73
+2561,5,3,Waterfront Bay,30,1,3,Yes,Furnished,1168701.56
+1055,1,1,Suburban Heights,33,2,1,Yes,Semi-Furnished,361532.22
+1901,1,1,Downtown,28,2,2,No,Semi-Furnished,666753.31
+3926,5,3,Waterfront Bay,2,1,2,Yes,Semi-Furnished,1547908.17
+1211,3,3,West Hills,8,2,3,Yes,Unfurnished,596565.19
+1378,1,1,Waterfront Bay,10,1,2,No,Furnished,629818.0
+2220,2,1,West Hills,10,0,2,Yes,Unfurnished,664016.1
+1942,3,2,Green Valley,24,2,1,No,Furnished,472279.57
+2080,3,3,Downtown,21,1,1,Yes,Semi-Furnished,834668.59
+2198,3,2,Metro Corridor,41,1,2,No,Semi-Furnished,526777.62
+2330,3,1,West Hills,8,1,1,No,Furnished,721838.79
+2818,4,2,Downtown,19,3,1,Yes,Unfurnished,1021281.09
+2130,3,2,Metro Corridor,20,2,1,No,Furnished,545211.58
+1641,2,1,Waterfront Bay,9,2,2,No,Unfurnished,667080.49
+2366,4,3,Waterfront Bay,21,0,1,No,Semi-Furnished,967323.45
+3865,4,3,Downtown,28,2,1,Yes,Semi-Furnished,1285269.74
+1714,2,2,Suburban Heights,8,1,1,Yes,Unfurnished,549142.41
+1224,1,1,Suburban Heights,4,3,2,Yes,Semi-Furnished,456328.15
+2815,4,3,Suburban Heights,39,0,2,Yes,Furnished,799919.73
+1723,2,2,Downtown,10,1,2,Yes,Unfurnished,723591.6
+758,2,2,Metro Corridor,0,1,2,Yes,Furnished,347109.95
+2537,3,2,Metro Corridor,41,2,1,Yes,Semi-Furnished,589053.07
+1459,2,1,Suburban Heights,0,2,1,Yes,Unfurnished,491011.67
+1743,3,2,Waterfront Bay,38,1,1,No,Semi-Furnished,584656.1
+2064,4,3,Downtown,4,1,2,No,Furnished,894054.61
+1951,3,2,Metro Corridor,21,2,2,Yes,Furnished,536887.14
+2401,4,4,Downtown,25,0,1,Yes,Furnished,979297.77
+1518,1,1,Downtown,5,2,2,No,Semi-Furnished,615508.24
+2219,2,2,Suburban Heights,31,3,2,Yes,Furnished,687583.34
+1629,3,3,West Hills,10,0,3,Yes,Unfurnished,670455.51
+2429,4,3,Suburban Heights,9,0,2,No,Semi-Furnished,718632.64
+2312,4,2,Downtown,38,1,2,Yes,Unfurnished,801047.01
+1243,1,1,West Hills,33,0,2,No,Unfurnished,307969.7
+2791,5,4,West Hills,30,1,3,No,Unfurnished,981400.67
+1459,3,2,West Hills,11,2,3,Yes,Furnished,597808.51
+2497,4,3,Waterfront Bay,15,1,2,No,Semi-Furnished,1036405.6
+2094,3,2,Metro Corridor,37,1,2,Yes,Semi-Furnished,552936.31
+3771,5,4,Suburban Heights,2,2,2,No,Furnished,1148729.49
+1653,2,2,Suburban Heights,1,2,1,No,Semi-Furnished,532847.09
+1572,3,2,Suburban Heights,4,3,2,Yes,Unfurnished,533206.47
+1794,2,1,Waterfront Bay,10,0,1,Yes,Furnished,716567.98
+1601,3,2,Waterfront Bay,24,2,3,Yes,Furnished,786746.46
+2489,3,2,Downtown,34,2,2,Yes,Furnished,902464.11
+947,1,1,Suburban Heights,34,1,2,No,Unfurnished,262702.24
+1186,3,3,Suburban Heights,21,1,2,Yes,Unfurnished,459467.84
+1179,2,2,West Hills,36,0,2,Yes,Furnished,420759.86
+2644,5,4,Downtown,21,2,1,Yes,Semi-Furnished,1054122.85
+3584,5,3,Green Valley,10,1,2,Yes,Unfurnished,789358.88
+1734,2,1,Waterfront Bay,31,3,2,No,Semi-Furnished,700656.19
+1689,3,2,Suburban Heights,34,2,1,Yes,Semi-Furnished,523685.55
+1859,3,1,Downtown,30,1,2,No,Furnished,693728.55
+2877,5,3,West Hills,7,1,1,No,Semi-Furnished,959999.52
+1247,2,1,West Hills,19,0,2,Yes,Semi-Furnished,445635.02
+1988,2,1,Green Valley,41,1,1,Yes,Unfurnished,383274.38
+2670,4,2,Suburban Heights,33,2,2,Yes,Furnished,742052.73
+2209,5,4,Waterfront Bay,3,2,1,Yes,Furnished,1055174.96
+1950,3,2,West Hills,17,1,2,Yes,Semi-Furnished,679559.13
+2698,4,3,West Hills,3,2,1,No,Semi-Furnished,896818.88
+650,2,2,Green Valley,19,1,1,No,Unfurnished,207615.41
+2371,4,2,Waterfront Bay,8,1,2,Yes,Unfurnished,1016673.97
+1391,2,1,West Hills,15,1,1,Yes,Furnished,521580.48
+869,1,1,Downtown,25,1,2,Yes,Unfurnished,377238.26
+2218,4,2,Suburban Heights,37,3,1,No,Furnished,674617.13
+3132,5,2,Downtown,24,2,1,Yes,Semi-Furnished,1123215.04
+1711,2,2,West Hills,3,1,2,Yes,Unfurnished,651738.59
+2646,5,4,West Hills,40,1,2,Yes,Furnished,944388.48
+3445,5,4,Downtown,40,0,2,Yes,Furnished,1160197.21
+3059,4,3,Waterfront Bay,37,1,2,Yes,Semi-Furnished,1091683.95
+3484,5,4,Suburban Heights,18,2,1,Yes,Semi-Furnished,994512.53
+2432,4,3,Waterfront Bay,13,3,1,Yes,Semi-Furnished,1054723.52
+1863,3,2,Downtown,20,2,1,Yes,Semi-Furnished,759591.69
+952,1,2,Waterfront Bay,14,1,2,No,Unfurnished,468658.47
+1638,2,1,Metro Corridor,2,1,2,Yes,Unfurnished,436858.25
+1290,2,2,Suburban Heights,36,0,1,Yes,Unfurnished,378495.9
+4308,5,4,Suburban Heights,15,0,1,No,Semi-Furnished,1144030.82
+1685,1,1,Green Valley,13,1,1,Yes,Furnished,404250.89
+1899,2,2,Downtown,8,1,3,Yes,Furnished,762841.3
+2254,4,2,Metro Corridor,6,1,2,No,Semi-Furnished,578588.71
+1839,3,2,Suburban Heights,13,2,1,Yes,Unfurnished,561143.37
+3561,5,4,Green Valley,5,2,2,Yes,Unfurnished,815518.76
+1409,1,1,Suburban Heights,20,1,1,No,Furnished,375850.93
+1954,2,1,West Hills,14,2,2,No,Furnished,673178.89
+1343,1,1,Downtown,7,1,2,Yes,Furnished,522826.81
+1066,2,2,Green Valley,33,1,1,Yes,Furnished,272088.56
+1415,2,2,Suburban Heights,39,2,2,Yes,Semi-Furnished,276380.42
+1781,2,2,Suburban Heights,0,1,2,No,Unfurnished,544724.71
+1522,2,2,Downtown,31,2,1,No,Semi-Furnished,586206.76
+1370,2,1,Green Valley,4,0,2,Yes,Semi-Furnished,343756.01
+1030,3,3,West Hills,29,1,2,Yes,Semi-Furnished,493348.26
+1748,2,1,Downtown,21,1,3,Yes,Furnished,701017.73
+990,2,1,Downtown,19,2,1,Yes,Unfurnished,415272.18
+2450,4,3,Suburban Heights,15,2,1,Yes,Semi-Furnished,775886.31
+1868,2,2,Waterfront Bay,6,2,2,Yes,Furnished,912531.01
+1009,2,1,Waterfront Bay,6,2,2,Yes,Semi-Furnished,580289.16
+1597,2,2,Green Valley,1,1,1,Yes,Semi-Furnished,401144.13
+1338,2,1,West Hills,13,1,3,No,Furnished,516302.96
+2054,4,2,Green Valley,30,2,1,No,Furnished,453390.14
+3090,5,4,Suburban Heights,40,1,1,No,Semi-Furnished,825226.82
+853,2,1,West Hills,13,3,2,Yes,Furnished,481175.87
+1893,3,2,Suburban Heights,4,1,1,No,Furnished,608433.69
+1695,2,2,Suburban Heights,10,1,1,No,Semi-Furnished,552816.63
+2365,4,2,Suburban Heights,39,1,2,Yes,Semi-Furnished,679998.47
+1968,4,3,Suburban Heights,4,2,1,Yes,Semi-Furnished,672962.51
+1338,1,1,Green Valley,28,3,3,No,Unfurnished,314116.69
+1591,2,2,Suburban Heights,10,1,2,Yes,Semi-Furnished,537268.9
+1314,2,2,Metro Corridor,4,0,2,Yes,Semi-Furnished,461599.19
+2780,4,3,West Hills,31,1,1,Yes,Unfurnished,885765.71
+1823,2,2,Suburban Heights,35,1,1,Yes,Semi-Furnished,495415.64
+3867,5,3,Suburban Heights,14,3,2,Yes,Furnished,1110351.86
+1764,2,1,Suburban Heights,18,1,2,Yes,Semi-Furnished,532192.22
+1361,2,1,Downtown,21,1,2,Yes,Semi-Furnished,502377.09
+986,2,2,Metro Corridor,33,1,1,Yes,Semi-Furnished,308243.95
+878,1,1,Green Valley,16,1,2,No,Unfurnished,218482.25
+959,1,1,Waterfront Bay,11,2,1,No,Semi-Furnished,473035.32
+2011,3,2,Green Valley,24,0,2,Yes,Unfurnished,444604.75
+2216,4,3,Waterfront Bay,16,1,2,Yes,Furnished,942373.44
+960,1,1,Suburban Heights,9,3,1,Yes,Semi-Furnished,373161.79
+2586,4,2,Suburban Heights,27,0,2,Yes,Unfurnished,725236.83
+1490,2,2,Downtown,17,2,1,No,Furnished,656650.39
+1917,2,1,Downtown,17,1,2,Yes,Furnished,732469.32
+3445,5,3,Suburban Heights,31,1,2,Yes,Semi-Furnished,910311.49
+2588,4,2,Downtown,13,0,1,Yes,Unfurnished,855983.34
+1623,2,1,Downtown,15,1,3,Yes,Furnished,617789.86
+1265,3,2,Downtown,17,1,2,Yes,Semi-Furnished,631944.03
+764,1,1,Downtown,15,1,3,Yes,Furnished,425356.06
+1356,3,1,Downtown,16,1,1,No,Semi-Furnished,614324.16
+1661,3,2,West Hills,6,1,3,Yes,Unfurnished,681226.84
+1218,2,1,Metro Corridor,11,2,1,Yes,Furnished,390144.15
+1715,3,3,Downtown,33,2,2,Yes,Furnished,430828.31
+1864,3,3,Downtown,9,0,3,Yes,Semi-Furnished,803276.75
+1652,3,2,West Hills,4,1,1,Yes,Semi-Furnished,649689.96
+1394,1,1,Downtown,20,2,1,Yes,Furnished,578008.81
+1934,3,2,West Hills,2,2,2,No,Semi-Furnished,700230.69
+2157,4,3,Downtown,18,0,2,Yes,Unfurnished,904451.33
+1168,1,1,Waterfront Bay,34,1,2,Yes,Semi-Furnished,472588.21
+3179,5,3,Downtown,5,1,1,Yes,Semi-Furnished,1202154.18
+1738,4,3,Waterfront Bay,13,1,2,Yes,Semi-Furnished,863482.9
+1821,3,2,Metro Corridor,3,3,1,Yes,Semi-Furnished,542002.73
+2400,4,3,Downtown,17,2,3,Yes,Furnished,925583.7
+1984,2,1,Green Valley,28,2,2,Yes,Semi-Furnished,414686.3
+2647,5,3,Suburban Heights,34,1,2,Yes,Unfurnished,800119.07
+2028,3,2,Green Valley,37,0,1,Yes,Furnished,460945.67
+1415,2,2,Downtown,15,2,2,Yes,Semi-Furnished,642777.96
+2089,3,2,Downtown,19,0,2,Yes,Furnished,830827.24
+1144,1,1,Suburban Heights,23,1,2,Yes,Semi-Furnished,342187.08
+1888,3,1,Downtown,34,1,1,Yes,Semi-Furnished,629037.15
+1784,2,1,Metro Corridor,18,1,2,Yes,Semi-Furnished,451674.87
+1663,2,1,Suburban Heights,3,1,2,Yes,Semi-Furnished,494491.06
+1717,3,2,West Hills,32,1,1,Yes,Furnished,571509.64
+851,1,1,Downtown,1,2,1,Yes,Unfurnished,384804.59
+1451,3,3,West Hills,12,2,1,No,Semi-Furnished,548487.05
+1876,4,2,West Hills,29,0,1,No,Furnished,591930.67
+1927,3,3,Metro Corridor,33,2,1,Yes,Unfurnished,514904.47
+1198,2,2,Waterfront Bay,29,1,2,Yes,Furnished,640657.45
+2999,5,4,Green Valley,23,1,2,Yes,Semi-Furnished,681991.38
+1278,1,1,Green Valley,32,2,2,Yes,Semi-Furnished,330372.63
+2664,4,4,Metro Corridor,40,1,1,Yes,Semi-Furnished,680678.94
+2144,3,2,West Hills,9,1,2,No,Furnished,748916.47
+1396,1,1,Suburban Heights,17,2,3,Yes,Semi-Furnished,464936.97
+3677,5,3,Downtown,18,3,1,No,Furnished,1234634.9
+1121,2,1,Green Valley,6,1,1,Yes,Semi-Furnished,292678.22
+2611,3,1,Green Valley,18,0,2,Yes,Semi-Furnished,549879.59
+2697,4,3,Downtown,23,1,2,No,Semi-Furnished,974125.81
+1382,3,3,Suburban Heights,14,1,2,No,Unfurnished,452061.85
+3155,5,4,Metro Corridor,40,1,2,No,Unfurnished,750978.04
+1635,2,1,Downtown,41,1,1,No,Semi-Furnished,536103.06
+2029,3,2,Downtown,22,2,2,Yes,Semi-Furnished,746896.07
+2006,3,3,Green Valley,3,0,1,Yes,Furnished,507560.61
+1713,3,2,Metro Corridor,37,1,1,Yes,Unfurnished,465196.69
+2500,3,3,Green Valley,3,1,1,Yes,Unfurnished,587505.48
+2483,4,4,Downtown,4,1,1,No,Furnished,1046531.64
+898,2,2,Waterfront Bay,40,3,2,No,Semi-Furnished,461843.77
+3046,4,3,West Hills,22,1,2,No,Unfurnished,583189.61
+929,3,3,Suburban Heights,39,2,3,Yes,Furnished,411173.22
+2732,4,3,Waterfront Bay,36,2,1,Yes,Semi-Furnished,1100133.47
+2837,4,2,Metro Corridor,10,2,3,No,Semi-Furnished,707367.41
+1168,1,1,Green Valley,10,0,2,Yes,Semi-Furnished,307920.79
+1534,2,1,Waterfront Bay,12,3,2,Yes,Furnished,739406.47
+1161,1,1,Downtown,13,0,2,Yes,Furnished,496468.38
+1659,2,2,Downtown,7,0,2,Yes,Furnished,644735.16
+1598,2,1,Suburban Heights,24,1,1,No,Unfurnished,431909.96
+2469,4,3,Downtown,17,1,2,Yes,Semi-Furnished,951936.59
+3053,5,3,Suburban Heights,17,1,2,Yes,Semi-Furnished,930072.7
+3159,5,3,Suburban Heights,9,1,2,Yes,Semi-Furnished,918658.77
+1443,1,1,Metro Corridor,6,1,2,Yes,Furnished,389444.21
+1662,4,2,Waterfront Bay,13,2,1,Yes,Unfurnished,718429.07
+922,2,1,Suburban Heights,14,1,2,Yes,Unfurnished,337097.72
+1309,2,1,West Hills,15,1,2,No,Semi-Furnished,452078.29
+2659,4,3,West Hills,1,3,2,No,Semi-Furnished,941126.16
+3450,5,3,Green Valley,29,1,1,Yes,Semi-Furnished,721996.3
+1103,1,1,West Hills,29,2,2,Yes,Semi-Furnished,446660.57
+1426,2,1,Green Valley,17,3,1,Yes,Furnished,380721.92
+1789,2,1,Waterfront Bay,30,0,2,No,Semi-Furnished,679655.12
+2022,3,2,Suburban Heights,12,1,3,Yes,Unfurnished,643674.12
+1307,2,1,Suburban Heights,19,2,1,Yes,Furnished,418394.59
+2142,2,2,Green Valley,34,3,1,Yes,Semi-Furnished,478221.06
+1495,2,1,Waterfront Bay,22,2,1,Yes,Furnished,693814.98
+1797,3,2,Downtown,41,0,2,Yes,Furnished,686883.84
+2249,4,3,West Hills,32,2,3,No,Semi-Furnished,823019.88
+1812,3,4,Waterfront Bay,37,0,2,No,Furnished,810765.42
+1518,3,1,West Hills,34,1,1,Yes,Unfurnished,469341.71
+1730,2,2,Green Valley,35,1,2,Yes,Semi-Furnished,431251.62
+1745,3,2,Green Valley,19,1,2,Yes,Furnished,464394.51
+1559,2,1,Waterfront Bay,2,2,1,Yes,Semi-Furnished,728904.8
+1630,2,1,Downtown,7,2,2,Yes,Unfurnished,649344.94
+3427,5,3,Suburban Heights,39,2,1,Yes,Furnished,920885.5
+2262,4,3,West Hills,31,0,2,No,Semi-Furnished,749776.92
+1606,3,1,West Hills,28,1,1,Yes,Unfurnished,564333.53
+2389,4,3,West Hills,6,2,1,Yes,Furnished,900272.93
+1582,3,2,West Hills,1,1,2,Yes,Unfurnished,635529.9
+2890,4,3,Downtown,20,3,2,Yes,Furnished,1079437.04
+2096,3,2,Metro Corridor,5,2,1,Yes,Furnished,627642.47
+1732,3,2,Downtown,27,2,3,Yes,Semi-Furnished,762098.84
+2162,4,3,Downtown,41,0,2,Yes,Furnished,751914.53
+964,1,1,Metro Corridor,35,2,1,No,Semi-Furnished,271920.87
+1152,2,1,Suburban Heights,31,2,2,Yes,Semi-Furnished,382730.38
+1121,2,1,West Hills,41,1,2,Yes,Furnished,410078.24
+1914,3,2,Suburban Heights,8,2,2,Yes,Unfurnished,600265.87
+3615,5,2,Downtown,10,1,1,Yes,Semi-Furnished,1229267.06
+4413,5,4,Suburban Heights,22,1,2,Yes,Semi-Furnished,1164692.34
+2333,3,2,West Hills,10,2,2,No,Semi-Furnished,759160.7
+2209,2,2,Waterfront Bay,1,2,2,Yes,Furnished,976248.28
+879,1,1,West Hills,2,2,1,Yes,Semi-Furnished,374527.97
+1455,3,1,Metro Corridor,10,1,2,Yes,Unfurnished,428117.04
+1319,2,1,Suburban Heights,34,1,1,Yes,Furnished,401542.12
+1410,1,2,Metro Corridor,14,2,2,Yes,Semi-Furnished,478107.28
+1690,2,2,Metro Corridor,10,0,3,No,Semi-Furnished,446087.05
+1496,1,1,Metro Corridor,30,1,1,Yes,Semi-Furnished,352961.0
+819,2,2,West Hills,27,0,1,No,Unfurnished,289953.35
+2438,3,2,Waterfront Bay,27,0,2,Yes,Furnished,983849.42
+1177,3,2,Suburban Heights,31,2,2,Yes,Furnished,459642.86
+1989,4,2,West Hills,24,2,1,Yes,Furnished,709106.58
+4144,5,2,Waterfront Bay,19,0,2,Yes,Semi-Furnished,1498376.19
+1251,1,1,West Hills,27,1,2,Yes,Furnished,415012.02
+657,1,1,Suburban Heights,24,0,2,No,Unfurnished,180400.07
+1612,2,1,Downtown,10,1,2,Yes,Semi-Furnished,636207.68
+2808,4,3,Suburban Heights,18,0,1,Yes,Furnished,814044.83
+3957,5,3,Downtown,27,1,3,No,Semi-Furnished,1302906.77
+1105,1,1,Downtown,0,2,1,Yes,Semi-Furnished,511221.73
+2205,2,2,Metro Corridor,4,2,1,No,Furnished,617062.65
+1500,2,2,Suburban Heights,9,1,1,Yes,Furnished,523864.59
+1733,2,1,Suburban Heights,41,2,2,Yes,Furnished,450872.83
+4800,5,4,Waterfront Bay,33,3,2,Yes,Furnished,1834719.89
+991,2,2,Suburban Heights,35,1,1,Yes,Unfurnished,229843.94
+2001,4,4,Downtown,1,1,2,No,Semi-Furnished,903208.09
+2179,3,2,West Hills,17,1,2,No,Unfurnished,704123.53
+2791,4,3,Metro Corridor,12,1,2,Yes,Unfurnished,683699.79
+1880,3,1,Metro Corridor,4,2,2,Yes,Furnished,526433.23
+2045,2,1,Downtown,19,2,1,Yes,Unfurnished,693140.45
+1545,3,3,Suburban Heights,1,1,1,Yes,Furnished,567071.42
+2013,3,3,Metro Corridor,10,2,2,Yes,Furnished,599649.63
+1576,3,3,Downtown,29,2,2,Yes,Semi-Furnished,696806.38
+2318,2,1,Downtown,31,0,1,No,Semi-Furnished,671627.44
+1559,2,2,Metro Corridor,31,1,2,Yes,Semi-Furnished,459163.74
+2102,3,1,Metro Corridor,37,2,2,No,Semi-Furnished,495523.45
+1787,3,3,Suburban Heights,27,3,2,Yes,Unfurnished,618672.78
+2836,5,3,Downtown,9,2,1,No,Semi-Furnished,1083050.25
+1771,4,3,Suburban Heights,21,3,2,Yes,Semi-Furnished,656728.1
+889,1,1,Suburban Heights,16,1,2,Yes,Semi-Furnished,330113.17
+2995,4,3,Suburban Heights,21,1,1,No,Semi-Furnished,847856.61
+1258,3,1,Suburban Heights,18,1,1,Yes,Furnished,466414.03
+1391,2,1,Suburban Heights,16,0,2,No,Unfurnished,344065.13
+1424,3,2,West Hills,23,2,2,Yes,Semi-Furnished,528293.59
+3133,5,3,Metro Corridor,35,3,1,No,Semi-Furnished,751719.76
+769,1,1,West Hills,31,2,1,Yes,Unfurnished,263031.71
+4800,5,4,Downtown,35,1,1,Yes,Unfurnished,1504338.15
+2758,3,3,Suburban Heights,27,1,1,Yes,Furnished,769043.62
+1976,3,2,Downtown,13,1,1,No,Furnished,738177.93
+1768,3,3,Suburban Heights,35,1,2,Yes,Unfurnished,515827.09
+2026,4,3,Green Valley,5,2,2,Yes,Unfurnished,531316.71
+2227,4,3,West Hills,8,1,2,Yes,Semi-Furnished,861390.29
+2340,4,3,Downtown,20,3,1,Yes,Semi-Furnished,925671.32
+2258,3,2,Waterfront Bay,11,2,1,Yes,Semi-Furnished,956986.78
+1874,2,2,Downtown,29,0,1,Yes,Furnished,657106.83
+1670,3,2,Downtown,30,0,1,Yes,Unfurnished,604672.55
+1701,3,2,Suburban Heights,39,2,1,Yes,Semi-Furnished,514803.62
+1672,3,2,Suburban Heights,3,1,1,No,Unfurnished,546320.86
+2845,5,4,Waterfront Bay,30,2,3,Yes,Semi-Furnished,1200699.88
+2292,4,2,Downtown,26,1,1,Yes,Unfurnished,818858.99
+650,2,1,West Hills,24,1,3,Yes,Semi-Furnished,318072.07
+2350,4,4,Suburban Heights,4,1,1,Yes,Unfurnished,779840.89
+1954,3,3,Metro Corridor,5,1,1,Yes,Unfurnished,528403.61
+1794,3,3,Downtown,4,2,2,No,Semi-Furnished,806763.61
+1547,3,2,Metro Corridor,26,0,1,Yes,Semi-Furnished,424973.33
+2834,4,3,West Hills,7,2,1,Yes,Furnished,940107.11
+2641,5,4,Waterfront Bay,8,2,3,Yes,Semi-Furnished,1292002.3
+1327,1,1,Waterfront Bay,14,2,2,No,Unfurnished,578316.46
+2127,4,2,Suburban Heights,35,0,1,Yes,Furnished,583228.8
+1225,1,1,Suburban Heights,40,2,1,Yes,Unfurnished,342124.67
+1041,2,2,Downtown,6,1,3,Yes,Semi-Furnished,496734.24
+1407,2,1,Metro Corridor,31,1,2,Yes,Furnished,349411.12
+2552,4,2,Downtown,7,2,2,Yes,Furnished,1031613.61
+2647,4,2,Suburban Heights,14,1,1,Yes,Semi-Furnished,727535.31
+2219,2,1,Suburban Heights,36,2,2,Yes,Furnished,628263.47
+2416,4,2,Suburban Heights,18,1,1,Yes,Unfurnished,719337.53
+2222,3,3,Metro Corridor,38,2,1,No,Semi-Furnished,530092.9
+1398,3,2,Green Valley,5,0,2,Yes,Semi-Furnished,433947.38
+2149,3,2,Downtown,18,2,1,No,Furnished,802304.18
+2490,4,3,Suburban Heights,27,3,2,Yes,Semi-Furnished,781623.53
+2444,3,3,Metro Corridor,16,1,2,Yes,Semi-Furnished,625941.43
+2909,4,3,Suburban Heights,41,1,2,Yes,Furnished,794035.06
+2400,3,3,West Hills,18,2,1,Yes,Semi-Furnished,755723.01
+2080,4,2,Green Valley,30,0,1,Yes,Unfurnished,436034.69
+2774,5,3,West Hills,10,1,1,Yes,Furnished,992143.97
+1788,2,2,Downtown,14,1,1,Yes,Semi-Furnished,647856.87
+1270,3,2,Metro Corridor,9,2,2,Yes,Unfurnished,407960.49
+1693,1,1,Green Valley,22,2,1,No,Furnished,343255.36
+1342,1,1,West Hills,2,2,1,Yes,Unfurnished,448599.12
+1380,2,2,Suburban Heights,2,2,1,Yes,Semi-Furnished,526796.21
+1706,2,1,Green Valley,17,2,1,Yes,Furnished,390419.73
+1316,1,1,Green Valley,24,1,2,No,Furnished,303749.32
+1598,3,2,Green Valley,19,1,2,Yes,Furnished,424040.52
+847,1,1,Suburban Heights,28,1,2,Yes,Furnished,335890.55
+1969,3,2,Metro Corridor,21,3,2,Yes,Furnished,555106.08
+1808,3,3,West Hills,14,2,2,Yes,Semi-Furnished,697558.9
+1303,2,2,Downtown,38,1,1,Yes,Furnished,478969.38
+2353,4,3,Suburban Heights,9,2,1,Yes,Semi-Furnished,738578.24
+2630,4,4,West Hills,20,1,2,Yes,Unfurnished,880690.65
+950,1,1,Metro Corridor,28,2,1,Yes,Unfurnished,265400.54
+1332,3,2,Metro Corridor,31,1,1,Yes,Semi-Furnished,424219.47
+1329,2,2,Downtown,9,1,3,Yes,Unfurnished,594456.91
+1241,1,1,Suburban Heights,12,2,1,Yes,Furnished,452230.71
+2519,4,3,Suburban Heights,22,2,2,Yes,Furnished,816959.18
+1673,2,2,Metro Corridor,22,1,2,No,Furnished,451603.54
+1626,2,1,Downtown,30,1,1,Yes,Unfurnished,579912.98
+811,1,1,West Hills,3,2,1,Yes,Unfurnished,371151.66
+2331,4,3,West Hills,2,2,2,Yes,Semi-Furnished,835223.13
+1101,1,1,Green Valley,20,2,1,Yes,Semi-Furnished,287116.91
+1851,3,3,Suburban Heights,1,1,1,Yes,Semi-Furnished,638462.02
+2020,4,2,West Hills,3,3,3,No,Furnished,848192.39
+3115,5,3,Green Valley,0,2,2,Yes,Semi-Furnished,724832.22
+1071,3,2,West Hills,14,2,1,Yes,Semi-Furnished,503917.31
+650,2,2,Downtown,32,2,1,No,Furnished,322197.07
+1946,4,3,Downtown,5,1,2,Yes,Furnished,910317.77
+3715,5,4,Metro Corridor,6,0,1,No,Unfurnished,908812.71
+2967,5,3,Suburban Heights,18,2,1,Yes,Semi-Furnished,849943.14
+1966,3,2,West Hills,0,1,1,Yes,Semi-Furnished,755465.07
+1485,2,2,West Hills,38,2,1,Yes,Semi-Furnished,542906.79
+2497,4,2,Green Valley,18,1,2,Yes,Unfurnished,581868.57
+1224,2,1,Suburban Heights,25,1,2,No,Semi-Furnished,415963.49
+2187,4,3,West Hills,11,1,1,Yes,Furnished,833822.71
+2213,3,2,Downtown,21,2,1,Yes,Semi-Furnished,805685.83
+2763,5,4,Suburban Heights,12,1,1,No,Semi-Furnished,879827.9
+4800,5,4,Downtown,27,2,2,Yes,Furnished,1587031.91
+2115,3,1,Metro Corridor,13,1,1,No,Semi-Furnished,490703.07
+1475,2,1,Metro Corridor,21,2,1,No,Semi-Furnished,370514.31
+1789,3,1,Waterfront Bay,29,0,3,Yes,Semi-Furnished,724216.03
+891,2,1,Waterfront Bay,19,1,1,Yes,Semi-Furnished,408662.28
+1369,1,1,West Hills,26,2,3,No,Semi-Furnished,435039.24
+1535,4,3,West Hills,37,1,1,Yes,Unfurnished,543275.48
+1466,1,1,West Hills,41,1,1,No,Unfurnished,380856.59
+1921,3,1,Green Valley,40,2,2,Yes,Semi-Furnished,427426.62
+1301,2,2,Metro Corridor,33,1,1,Yes,Semi-Furnished,347027.52
+2831,5,3,Suburban Heights,38,1,1,Yes,Unfurnished,753622.32
+1808,3,2,Suburban Heights,40,1,1,Yes,Unfurnished,516555.1
+1801,3,2,West Hills,36,1,3,Yes,Unfurnished,663623.34
+1585,3,1,Metro Corridor,0,1,1,Yes,Furnished,463314.46
+1923,3,2,Suburban Heights,14,1,2,Yes,Furnished,645269.04
+2515,5,4,West Hills,31,2,2,No,Unfurnished,875065.03
+1278,2,2,Downtown,7,1,2,Yes,Unfurnished,593545.43
+1389,3,3,Green Valley,32,2,2,No,Semi-Furnished,395273.05
+1601,2,2,Metro Corridor,17,1,1,Yes,Unfurnished,428794.47
+1055,2,1,Suburban Heights,28,1,1,Yes,Unfurnished,304130.96
+1302,2,1,Suburban Heights,31,0,1,No,Semi-Furnished,317233.41
+1494,2,1,Downtown,32,2,1,Yes,Semi-Furnished,582665.21
+2565,4,3,Metro Corridor,4,2,1,No,Semi-Furnished,698255.31
+2008,3,3,Metro Corridor,17,2,1,Yes,Semi-Furnished,592484.67
+1953,3,2,West Hills,9,1,3,Yes,Unfurnished,723847.46
+2541,3,3,Downtown,35,2,3,No,Semi-Furnished,955223.99
+1711,4,3,Waterfront Bay,32,2,1,Yes,Unfurnished,789320.86
+2113,3,2,Suburban Heights,22,0,1,Yes,Unfurnished,547130.54
+1734,3,2,Waterfront Bay,39,1,1,Yes,Furnished,716170.78
+2010,4,3,Suburban Heights,4,1,1,No,Furnished,715910.18
+1432,2,1,Waterfront Bay,33,2,1,No,Semi-Furnished,569089.19
+681,2,1,Suburban Heights,23,0,3,Yes,Furnished,425441.48
+1713,2,1,West Hills,16,2,1,No,Semi-Furnished,576390.06
+3194,5,4,Metro Corridor,30,1,1,Yes,Furnished,863280.74
+2618,4,2,Suburban Heights,6,1,1,No,Semi-Furnished,731115.5
+2660,4,3,West Hills,16,1,3,Yes,Furnished,942950.76
+2964,4,2,Downtown,27,1,3,Yes,Furnished,1063891.77
+1873,3,1,Suburban Heights,37,0,2,No,Furnished,505571.44
+1956,3,3,Green Valley,21,0,1,Yes,Unfurnished,468845.1
+1412,2,2,Downtown,14,2,1,No,Semi-Furnished,571003.33
+1593,2,2,Waterfront Bay,36,1,1,Yes,Unfurnished,642362.09
+2313,3,3,Downtown,14,1,1,Yes,Unfurnished,898459.38
+2926,5,4,Suburban Heights,24,1,2,No,Unfurnished,847421.52
+1709,2,2,West Hills,20,1,1,No,Semi-Furnished,583874.22
+1510,3,2,Downtown,37,0,1,Yes,Unfurnished,531574.64
+1808,3,2,Downtown,1,1,2,Yes,Furnished,730092.77
+2299,3,3,Metro Corridor,26,1,1,No,Furnished,554165.64
+1014,2,1,Suburban Heights,31,1,2,No,Unfurnished,320255.56
+721,2,1,Suburban Heights,20,3,1,Yes,Furnished,290837.85
+1450,2,1,Green Valley,3,1,1,Yes,Unfurnished,355868.05
+1109,2,1,Suburban Heights,18,1,1,No,Semi-Furnished,330848.62
+1475,3,2,Metro Corridor,1,1,3,Yes,Semi-Furnished,442265.41
+1704,3,1,Green Valley,25,1,1,No,Furnished,394987.44
+1508,2,1,Waterfront Bay,33,2,1,Yes,Semi-Furnished,550620.85
+3232,4,3,Suburban Heights,13,1,1,Yes,Semi-Furnished,965868.4
+2060,3,2,Suburban Heights,14,1,2,Yes,Semi-Furnished,677702.26
+2038,3,3,Metro Corridor,19,2,2,Yes,Semi-Furnished,584920.67
+2318,4,2,Waterfront Bay,33,0,1,Yes,Furnished,818137.25
+1146,1,1,Metro Corridor,35,3,1,No,Semi-Furnished,304350.89
+2739,4,3,Green Valley,18,2,3,Yes,Semi-Furnished,691689.2
+1754,3,1,Metro Corridor,8,1,2,No,Furnished,503676.23
+2364,3,3,Green Valley,6,0,2,Yes,Furnished,599691.42
+1177,3,2,West Hills,29,1,1,No,Semi-Furnished,486063.89
+971,2,1,Green Valley,12,1,1,Yes,Semi-Furnished,256953.39
+2507,5,3,Downtown,26,1,2,Yes,Semi-Furnished,997831.96
+2101,3,2,West Hills,34,1,2,Yes,Furnished,750522.13
+1260,3,2,West Hills,12,3,2,Yes,Semi-Furnished,556796.83
+1276,3,2,Suburban Heights,14,1,1,No,Semi-Furnished,430763.04
+2836,5,3,Downtown,8,2,2,Yes,Semi-Furnished,1160312.61
+1123,1,1,West Hills,22,2,2,Yes,Semi-Furnished,466235.1
+3487,5,3,Downtown,35,2,3,Yes,Semi-Furnished,1203233.97
+1261,2,1,Suburban Heights,39,0,1,Yes,Furnished,508692.41
+2334,4,3,Suburban Heights,2,1,2,Yes,Semi-Furnished,760193.7
+1585,3,1,Green Valley,33,2,2,Yes,Semi-Furnished,355945.88
+2301,3,2,Waterfront Bay,18,2,2,Yes,Semi-Furnished,921076.88
+1454,2,1,Metro Corridor,27,3,2,No,Unfurnished,365924.84
+1694,1,1,Downtown,22,2,3,Yes,Semi-Furnished,671733.1
+1837,4,3,Suburban Heights,39,1,3,Yes,Semi-Furnished,643636.53
+1210,2,1,Suburban Heights,6,1,1,No,Unfurnished,408494.8
+2431,4,3,West Hills,40,0,2,No,Furnished,748070.07
+1472,2,1,Metro Corridor,11,2,2,No,Unfurnished,394122.55
+1650,3,3,Metro Corridor,13,1,1,Yes,Furnished,504416.55
+1214,1,1,Metro Corridor,14,2,1,Yes,Unfurnished,342587.3
+650,1,1,Suburban Heights,2,3,1,No,Furnished,336207.59
+1675,3,2,West Hills,14,2,2,Yes,Semi-Furnished,632191.99
+4745,5,3,Suburban Heights,23,1,1,Yes,Semi-Furnished,1186371.95
+2474,5,3,Downtown,7,1,2,Yes,Unfurnished,1036453.51
+1794,2,1,Metro Corridor,4,2,2,Yes,Furnished,537541.35
+1627,3,2,Metro Corridor,3,1,2,No,Unfurnished,471809.09
+1824,3,3,Suburban Heights,13,0,1,Yes,Semi-Furnished,561461.29
+2250,4,2,Green Valley,15,1,2,No,Furnished,546458.43
+1127,1,1,Metro Corridor,19,1,1,Yes,Semi-Furnished,310188.82
+2823,4,3,Suburban Heights,23,0,1,No,Semi-Furnished,711291.72
+2407,4,3,Suburban Heights,5,3,2,Yes,Semi-Furnished,792121.53
+2409,4,3,Green Valley,30,3,2,Yes,Unfurnished,583669.41
+2154,2,1,West Hills,5,3,1,Yes,Unfurnished,699992.79
+1822,2,1,Suburban Heights,34,0,2,No,Semi-Furnished,475758.73
+2366,4,3,West Hills,14,3,1,No,Unfurnished,836955.34
+2290,4,3,West Hills,28,3,1,Yes,Furnished,795019.28
+1569,2,1,Suburban Heights,2,3,2,Yes,Furnished,575993.09
+1437,1,1,West Hills,10,2,1,No,Unfurnished,492161.51
+1883,3,2,Suburban Heights,2,2,2,No,Unfurnished,603323.7
+3359,4,2,West Hills,27,0,2,Yes,Furnished,999324.18
+1101,1,1,Green Valley,9,2,2,No,Semi-Furnished,293916.65
+1005,1,1,Green Valley,32,0,1,Yes,Unfurnished,245424.53
+1931,3,1,West Hills,15,1,1,Yes,Furnished,656670.42
+1845,3,2,Green Valley,9,3,1,Yes,Furnished,499546.24
+1937,3,2,Metro Corridor,32,1,3,No,Semi-Furnished,508596.61
+1993,4,2,Waterfront Bay,35,0,1,Yes,Unfurnished,780371.1
+1653,3,2,Green Valley,2,3,1,Yes,Unfurnished,447801.3
+3281,5,4,Downtown,4,3,2,No,Unfurnished,1213423.58
+953,1,1,Suburban Heights,11,1,2,Yes,Semi-Furnished,354033.66
+1298,2,1,West Hills,12,2,2,No,Semi-Furnished,503964.98
+1734,2,2,Suburban Heights,23,1,3,No,Furnished,549482.82
+937,1,1,Suburban Heights,31,1,1,No,Unfurnished,245980.45
+1685,2,2,Metro Corridor,15,1,1,Yes,Semi-Furnished,456391.74
+3514,5,4,Downtown,31,0,1,Yes,Semi-Furnished,1235585.5
+1823,3,2,Green Valley,36,1,1,No,Unfurnished,346380.07
+1982,3,2,Suburban Heights,35,0,2,Yes,Furnished,559240.34
+1092,2,1,Green Valley,20,3,1,Yes,Unfurnished,302314.88
+1412,3,1,Suburban Heights,11,2,2,Yes,Semi-Furnished,524607.57
+1556,2,2,West Hills,20,2,1,Yes,Semi-Furnished,618771.53
+1592,2,1,Suburban Heights,20,2,1,No,Furnished,497465.98
+3018,5,3,West Hills,5,0,2,Yes,Unfurnished,978786.48
+2259,3,2,Downtown,8,3,1,Yes,Unfurnished,810015.18
+1159,3,2,Suburban Heights,0,2,2,Yes,Furnished,559407.57
+1995,3,2,Downtown,11,1,3,Yes,Furnished,790283.54
+2206,3,2,West Hills,13,0,2,Yes,Unfurnished,721272.12
+2852,4,2,Green Valley,5,2,1,No,Furnished,635552.19
+3402,5,3,Downtown,0,2,3,Yes,Semi-Furnished,1290945.85
+1204,2,1,West Hills,21,2,1,Yes,Semi-Furnished,417472.14
+1307,2,2,Metro Corridor,33,0,2,No,Unfurnished,367338.31
+1093,3,2,Waterfront Bay,10,0,1,Yes,Semi-Furnished,321185.48
+1646,2,2,Waterfront Bay,2,1,1,Yes,Semi-Furnished,744488.07
+2178,3,2,Waterfront Bay,41,2,3,No,Unfurnished,826074.04
+2683,5,3,Waterfront Bay,5,0,1,Yes,Furnished,1154624.01
+1753,2,1,Downtown,5,1,2,No,Furnished,660187.81
+1590,3,2,Suburban Heights,19,1,1,No,Furnished,500733.61
+1921,2,2,Suburban Heights,20,2,2,No,Unfurnished,586120.8
+1294,2,2,Metro Corridor,1,1,3,No,Semi-Furnished,413233.32
+4170,5,4,Metro Corridor,25,1,1,Yes,Furnished,1025730.84
+950,2,2,Metro Corridor,30,2,2,No,Semi-Furnished,286148.61
+1946,4,2,Suburban Heights,25,3,2,No,Semi-Furnished,616475.78
+4062,5,3,Suburban Heights,31,1,3,Yes,Unfurnished,1054666.33
+1812,3,2,Suburban Heights,9,1,1,Yes,Furnished,595099.89
+1675,2,2,Waterfront Bay,22,3,2,No,Semi-Furnished,691885.73
+1567,2,1,West Hills,5,1,1,Yes,Semi-Furnished,566615.56
+1682,3,2,Green Valley,22,2,1,No,Furnished,432305.16
+3131,4,2,Waterfront Bay,27,2,1,Yes,Unfurnished,1203836.2
+746,1,1,Suburban Heights,29,1,2,Yes,Furnished,310899.15
+3338,5,4,West Hills,13,2,2,Yes,Semi-Furnished,1160812.81
+1022,1,1,Metro Corridor,36,2,1,Yes,Unfurnished,282963.06
+1625,2,2,Waterfront Bay,31,1,2,Yes,Semi-Furnished,670386.37
+1522,1,1,Waterfront Bay,33,0,2,Yes,Furnished,623719.11
+2287,3,1,Metro Corridor,40,3,1,Yes,Unfurnished,542514.76
+954,1,1,Downtown,21,1,3,Yes,Furnished,522349.31
+2175,3,2,West Hills,30,2,1,Yes,Semi-Furnished,757886.17
+4063,5,3,Metro Corridor,6,2,1,No,Unfurnished,953434.75
+1048,2,2,Green Valley,40,1,1,Yes,Unfurnished,268964.41
+1950,3,2,Downtown,20,2,2,Yes,Semi-Furnished,798167.39
+1387,2,2,Suburban Heights,15,3,3,Yes,Furnished,582877.36
+2143,4,3,Waterfront Bay,19,1,1,Yes,Unfurnished,859590.89
+1821,4,3,Suburban Heights,18,1,1,Yes,Furnished,661133.81
+1398,2,2,West Hills,31,2,2,Yes,Furnished,549543.67
+2197,3,1,Green Valley,14,0,2,Yes,Unfurnished,487724.24
+3720,5,4,Suburban Heights,4,0,2,Yes,Semi-Furnished,1052303.51
+1675,2,1,Suburban Heights,10,2,3,Yes,Furnished,544355.54
+2411,4,3,Suburban Heights,14,2,2,No,Semi-Furnished,759075.09
+1077,2,1,Downtown,28,3,2,Yes,Furnished,535445.75
+1233,2,1,Waterfront Bay,3,0,2,No,Furnished,526044.65
+2184,3,2,Waterfront Bay,35,0,1,Yes,Furnished,805629.89
+3273,5,4,Metro Corridor,22,0,2,Yes,Unfurnished,787268.75
+2084,3,3,Suburban Heights,14,2,1,Yes,Unfurnished,668741.98
+1595,3,1,Waterfront Bay,2,2,1,Yes,Semi-Furnished,802793.56
+1807,3,3,Suburban Heights,31,1,1,No,Furnished,550992.35
+1096,1,2,Waterfront Bay,9,0,2,Yes,Semi-Furnished,565993.96
+2302,4,3,Downtown,39,2,2,Yes,Semi-Furnished,881015.9
+2573,4,2,Metro Corridor,37,1,2,Yes,Semi-Furnished,634449.73
+1508,3,2,Green Valley,21,0,1,Yes,Unfurnished,349968.29
+1498,2,1,Downtown,13,2,2,Yes,Semi-Furnished,632910.03
+2010,3,2,Metro Corridor,16,1,1,Yes,Semi-Furnished,528004.78
+1518,4,3,Suburban Heights,20,2,2,Yes,Unfurnished,612670.14
+1760,3,3,Suburban Heights,14,2,1,Yes,Semi-Furnished,594014.69
+4187,5,3,West Hills,14,1,2,Yes,Semi-Furnished,1303303.34
+1637,3,1,Waterfront Bay,0,1,2,Yes,Semi-Furnished,817533.53
+1566,3,3,Downtown,23,1,2,Yes,Furnished,735577.35
+1395,2,1,Waterfront Bay,11,2,2,Yes,Semi-Furnished,616280.19
+2434,4,3,Downtown,9,1,2,No,Semi-Furnished,907577.03
+1681,2,3,Downtown,41,2,1,Yes,Furnished,675767.16
+1394,2,1,Suburban Heights,41,3,2,Yes,Furnished,451020.74
+3067,3,2,Suburban Heights,30,3,2,Yes,Unfurnished,841028.13
+3190,5,3,West Hills,10,1,2,Yes,Semi-Furnished,1091189.84
+1422,2,1,Suburban Heights,15,2,1,No,Furnished,452438.69
+856,2,1,Downtown,8,3,3,Yes,Furnished,495579.66
+2705,4,3,Waterfront Bay,13,1,1,No,Semi-Furnished,1086167.8
+1374,1,1,Metro Corridor,18,1,1,Yes,Furnished,406227.81
+2480,4,4,Waterfront Bay,30,0,3,Yes,Furnished,1069822.2
+822,1,1,Metro Corridor,8,0,2,Yes,Unfurnished,311013.85
+2583,4,3,Suburban Heights,35,2,1,Yes,Semi-Furnished,774135.45
+1113,2,1,Green Valley,38,1,3,Yes,Semi-Furnished,304394.16
+2421,4,3,Suburban Heights,25,2,1,Yes,Furnished,738306.84
+1818,2,1,Downtown,7,2,2,Yes,Semi-Furnished,703606.02
+1234,2,2,Suburban Heights,23,2,2,No,Furnished,455842.99
+1536,2,1,West Hills,7,2,2,No,Semi-Furnished,551102.69
+2379,4,2,West Hills,18,0,2,Yes,Furnished,831256.11
+1886,3,2,Suburban Heights,29,2,1,Yes,Furnished,593339.2
+2284,4,3,Downtown,21,1,1,Yes,Semi-Furnished,856219.54
+3986,5,3,West Hills,8,1,2,No,Unfurnished,1216533.7
+967,2,1,Green Valley,3,0,1,Yes,Furnished,288696.1
+3452,5,4,Green Valley,36,3,3,Yes,Semi-Furnished,804072.78
+1885,3,2,West Hills,7,2,2,Yes,Semi-Furnished,695138.67
+1262,2,1,Downtown,0,1,1,Yes,Semi-Furnished,603201.16
+1061,1,1,Downtown,27,1,2,No,Unfurnished,340785.94
+1676,2,1,Metro Corridor,5,2,1,No,Semi-Furnished,436081.97
+2614,4,2,Metro Corridor,35,1,1,Yes,Unfurnished,614673.43
+1718,3,2,Green Valley,10,1,1,Yes,Furnished,442439.88
+3309,5,3,Suburban Heights,4,2,3,Yes,Unfurnished,937325.81
+1011,1,1,Metro Corridor,23,0,1,Yes,Furnished,330567.35
+1799,3,3,Metro Corridor,17,1,1,Yes,Furnished,552146.95
+1095,1,1,West Hills,19,1,1,Yes,Furnished,371082.44
+2091,3,3,Metro Corridor,27,1,1,No,Furnished,524286.28
+2577,3,2,Downtown,12,1,1,No,Semi-Furnished,843673.41
+1527,3,2,West Hills,4,1,2,Yes,Semi-Furnished,613547.78
+650,1,1,Green Valley,29,1,3,Yes,Semi-Furnished,246786.22
+1957,3,3,Downtown,0,1,1,Yes,Furnished,826316.71
+2153,3,3,West Hills,21,2,2,No,Semi-Furnished,741208.47
+2125,4,3,Suburban Heights,17,3,3,No,Semi-Furnished,746478.74
+2964,5,4,Metro Corridor,4,0,1,Yes,Semi-Furnished,799031.73
+1178,2,2,West Hills,30,2,1,Yes,Furnished,474683.48
+2373,3,2,Green Valley,5,1,3,No,Furnished,576748.14
+2913,5,3,West Hills,26,1,2,Yes,Semi-Furnished,912130.75
+887,1,1,Suburban Heights,24,1,1,Yes,Unfurnished,179040.8
+2054,3,2,Downtown,28,1,1,Yes,Semi-Furnished,782596.02
+1477,3,2,Metro Corridor,27,2,1,Yes,Furnished,424604.08
+1750,3,2,Suburban Heights,15,1,1,Yes,Furnished,563743.43
+2077,3,1,West Hills,11,1,2,Yes,Furnished,652390.36
+1487,2,2,Downtown,19,2,2,Yes,Semi-Furnished,622181.41
+1379,3,3,Metro Corridor,17,1,2,No,Semi-Furnished,425996.77
+1832,3,2,Suburban Heights,33,1,1,Yes,Furnished,598696.0
+1170,1,1,Green Valley,22,0,1,Yes,Semi-Furnished,263225.34
+1171,2,1,West Hills,26,1,1,Yes,Semi-Furnished,425282.11
+2372,4,2,Downtown,16,1,2,Yes,Semi-Furnished,937519.22
+1141,2,1,West Hills,20,1,2,Yes,Furnished,391923.88
+2360,3,2,Green Valley,39,1,1,Yes,Semi-Furnished,497926.46
+2175,1,1,Metro Corridor,30,0,1,Yes,Semi-Furnished,442727.32
+906,2,1,Suburban Heights,2,2,2,No,Unfurnished,333864.38
+1378,2,2,Green Valley,16,2,2,No,Unfurnished,335023.84
+2915,3,3,Waterfront Bay,25,3,1,No,Furnished,1126313.51
+1221,1,1,Suburban Heights,22,2,1,Yes,Furnished,376042.38
+1501,4,3,West Hills,5,3,1,Yes,Semi-Furnished,673169.83
+2175,3,2,Waterfront Bay,27,2,2,Yes,Semi-Furnished,929879.95
+2473,4,3,Suburban Heights,7,2,2,No,Unfurnished,777087.02
+1634,2,2,West Hills,7,0,2,Yes,Semi-Furnished,672978.89
+1423,1,1,West Hills,18,2,2,No,Unfurnished,475390.62
+3193,5,3,Downtown,37,0,3,Yes,Semi-Furnished,1131859.0
+3624,5,2,West Hills,28,2,1,No,Unfurnished,1087484.45
+2674,4,2,West Hills,22,1,1,No,Semi-Furnished,788078.11
+1870,3,2,Suburban Heights,31,2,2,Yes,Semi-Furnished,616216.51
+1308,2,1,Metro Corridor,9,0,1,No,Semi-Furnished,322733.21
+1297,2,1,Downtown,26,1,2,Yes,Unfurnished,511663.46
+2228,3,2,Metro Corridor,0,1,2,No,Furnished,624795.81
+2137,4,2,Metro Corridor,38,1,2,No,Unfurnished,471680.25
+3167,4,2,West Hills,28,1,1,No,Semi-Furnished,909336.7
+2345,2,1,Suburban Heights,2,0,1,Yes,Semi-Furnished,634891.0
+991,2,2,Suburban Heights,36,1,1,Yes,Unfurnished,303790.89
+2753,5,3,Suburban Heights,30,1,2,No,Unfurnished,786982.59
+1212,2,1,West Hills,10,2,1,No,Unfurnished,490184.69
+1550,2,1,Suburban Heights,21,1,1,Yes,Furnished,446655.84
+1998,3,2,Suburban Heights,17,1,1,Yes,Unfurnished,619871.68
+4016,5,4,West Hills,34,3,3,Yes,Semi-Furnished,1298037.26
+4800,5,2,Metro Corridor,5,1,2,No,Semi-Furnished,1034752.82
+2304,3,3,Downtown,2,1,3,No,Unfurnished,893096.03
+1680,3,3,Green Valley,4,1,2,Yes,Furnished,494195.96
+2239,4,2,Downtown,8,2,2,Yes,Furnished,963835.54
+2578,4,2,Suburban Heights,27,1,1,Yes,Semi-Furnished,740880.83
+1590,3,2,Suburban Heights,18,1,1,Yes,Furnished,516455.31
+3707,5,3,Downtown,27,2,2,No,Semi-Furnished,1278596.79
+1982,3,2,Green Valley,26,0,2,Yes,Furnished,413841.16
+2206,3,1,Suburban Heights,12,2,1,Yes,Furnished,678824.59
+2359,4,2,Downtown,37,1,1,No,Semi-Furnished,773247.72
+2140,3,3,West Hills,20,1,2,Yes,Semi-Furnished,1123664.42
+2528,5,3,West Hills,26,2,1,Yes,Furnished,879769.53
+1412,2,2,Green Valley,5,1,2,No,Furnished,362928.54
+1446,3,2,Suburban Heights,37,2,1,Yes,Semi-Furnished,466477.96
+1164,2,1,Waterfront Bay,10,3,1,No,Unfurnished,590435.79
+2155,3,2,Downtown,40,1,1,Yes,Unfurnished,659824.65
+2469,4,3,West Hills,16,3,2,No,Furnished,887680.05
+2171,3,2,West Hills,38,0,2,Yes,Semi-Furnished,666438.33
+3532,5,4,Green Valley,6,2,1,Yes,Furnished,834413.53
+1803,3,2,West Hills,29,1,2,Yes,Semi-Furnished,620033.45
+2362,4,3,Green Valley,20,1,1,No,Unfurnished,542144.87
+1168,2,2,Green Valley,0,1,1,No,Semi-Furnished,357333.5
+1548,3,2,Suburban Heights,24,1,2,Yes,Semi-Furnished,541724.07
+2388,4,2,Downtown,31,1,1,Yes,Furnished,832222.87
+2539,3,2,Downtown,7,2,2,Yes,Unfurnished,1001861.14
+1607,3,4,Waterfront Bay,4,2,3,Yes,Semi-Furnished,860132.25
+1756,2,2,Suburban Heights,29,0,2,No,Semi-Furnished,508541.13
+985,2,3,Downtown,7,0,2,Yes,Semi-Furnished,568169.5
+1567,3,3,Waterfront Bay,18,2,2,No,Furnished,854702.72
+2581,3,2,Waterfront Bay,29,1,1,No,Unfurnished,957527.42
+2275,4,3,Downtown,14,0,1,Yes,Furnished,860255.47
+2208,3,2,Suburban Heights,35,1,1,No,Semi-Furnished,613491.4
+1844,2,1,Downtown,26,1,3,Yes,Semi-Furnished,664989.96
+1813,4,3,Suburban Heights,12,1,1,Yes,Furnished,667192.96
+1388,2,2,Downtown,13,2,2,No,Furnished,621973.9
+2391,3,2,Metro Corridor,36,2,3,Yes,Semi-Furnished,640448.78
+2139,3,2,Downtown,29,0,2,Yes,Semi-Furnished,758945.15
+2201,4,3,Metro Corridor,38,3,3,No,Furnished,642128.7
+1464,2,1,West Hills,12,1,2,Yes,Furnished,526138.54
+764,2,1,Suburban Heights,15,1,1,Yes,Unfurnished,326636.47
+2804,5,3,Suburban Heights,6,1,2,No,Unfurnished,780378.24
+1492,1,1,Suburban Heights,26,0,1,Yes,Unfurnished,404590.77
+1280,2,1,Downtown,34,1,1,No,Semi-Furnished,457631.35
+2386,3,2,Metro Corridor,14,0,2,Yes,Semi-Furnished,605290.71
+1545,3,3,Green Valley,27,1,2,Yes,Furnished,393311.13
+2762,3,2,Green Valley,34,0,2,No,Furnished,545372.44
+2314,5,4,West Hills,6,2,3,Yes,Unfurnished,958739.02
+2376,4,3,Suburban Heights,19,2,2,No,Unfurnished,700299.98
+1046,2,2,Suburban Heights,31,1,1,No,Unfurnished,293926.6
+2935,5,4,West Hills,37,2,2,No,Semi-Furnished,942831.0
+2007,4,3,Metro Corridor,39,3,2,Yes,Unfurnished,592574.36
+1559,3,2,Suburban Heights,31,2,3,Yes,Unfurnished,534634.67
+1914,4,3,Green Valley,25,1,1,No,Semi-Furnished,489213.91
+888,1,1,Suburban Heights,38,1,1,Yes,Furnished,304722.94
+2129,3,3,Suburban Heights,19,2,2,Yes,Semi-Furnished,666966.79
+1197,2,1,Green Valley,17,0,1,Yes,Furnished,346637.37
+1052,1,1,Green Valley,14,1,2,Yes,Unfurnished,263620.33
+983,1,1,West Hills,21,1,1,Yes,Semi-Furnished,338461.2
+2821,4,3,Suburban Heights,21,2,1,No,Semi-Furnished,812243.91
+1405,2,2,Waterfront Bay,20,2,2,Yes,Semi-Furnished,685601.56
+3339,4,3,Downtown,1,1,1,Yes,Semi-Furnished,1219385.89
+1459,2,2,West Hills,39,0,2,No,Furnished,468051.76
+913,1,1,Suburban Heights,17,3,1,Yes,Unfurnished,372920.23
+1156,2,1,West Hills,22,0,1,No,Furnished,375207.76
+2964,4,3,Suburban Heights,12,0,1,Yes,Unfurnished,798580.38
+1698,4,3,Suburban Heights,40,1,2,No,Unfurnished,478974.42
+1451,3,2,West Hills,8,2,1,Yes,Furnished,599277.32
+1927,2,1,Green Valley,6,2,2,No,Unfurnished,443186.8
+2209,4,2,Downtown,40,3,2,Yes,Semi-Furnished,859222.25
+2826,4,3,Metro Corridor,0,0,2,Yes,Semi-Furnished,751291.01
+3227,4,4,Suburban Heights,1,1,2,Yes,Semi-Furnished,964008.43
+1565,2,2,West Hills,3,1,1,No,Semi-Furnished,601617.38
+1063,2,2,Green Valley,13,2,1,Yes,Furnished,346114.49
+1532,2,2,Waterfront Bay,31,1,2,Yes,Unfurnished,653590.24
+2006,4,3,Downtown,35,0,1,Yes,Semi-Furnished,714107.34
+1229,2,2,Waterfront Bay,1,2,2,Yes,Furnished,619727.32
+1232,3,2,Waterfront Bay,39,1,2,Yes,Semi-Furnished,605331.47
+2074,3,2,West Hills,13,1,1,No,Semi-Furnished,753766.79
+1773,3,2,Downtown,19,2,2,No,Semi-Furnished,722802.72
+1831,3,2,Downtown,24,1,3,No,Furnished,751638.8
+1334,2,2,West Hills,41,1,1,No,Semi-Furnished,456052.55
+1648,2,1,Suburban Heights,7,1,2,Yes,Furnished,534864.93
+1249,3,2,Suburban Heights,27,1,1,No,Semi-Furnished,577812.07
+2581,4,3,West Hills,20,0,2,Yes,Unfurnished,865093.65
+2735,5,4,West Hills,22,2,2,No,Furnished,1017525.32
+863,1,1,Downtown,31,1,2,Yes,Furnished,395826.58
+1246,1,1,Suburban Heights,7,3,2,No,Unfurnished,411273.25
+993,1,1,Metro Corridor,30,1,3,Yes,Furnished,324235.19
+1394,2,1,Suburban Heights,36,1,2,Yes,Furnished,425967.72
+1748,2,1,Metro Corridor,15,1,2,Yes,Semi-Furnished,489921.41
+1012,2,1,Metro Corridor,39,2,2,Yes,Unfurnished,297971.24
+1250,1,1,Metro Corridor,41,1,2,Yes,Unfurnished,316586.65
+1210,1,1,West Hills,26,2,2,No,Unfurnished,436660.38
+1964,3,2,West Hills,39,2,3,No,Semi-Furnished,676975.37
+1858,3,3,Metro Corridor,40,3,2,Yes,Unfurnished,524296.48
+1354,2,1,West Hills,17,2,2,Yes,Furnished,484754.05
+1940,2,2,Suburban Heights,34,0,1,Yes,Semi-Furnished,536668.79
+1452,2,1,Downtown,14,2,2,No,Semi-Furnished,608814.86
+1621,2,1,Waterfront Bay,26,3,2,Yes,Furnished,656014.13
+3531,5,3,Waterfront Bay,16,3,2,Yes,Semi-Furnished,1436984.21
+3090,5,4,Suburban Heights,39,0,1,Yes,Semi-Furnished,864539.6
+1075,1,1,Suburban Heights,1,2,3,Yes,Semi-Furnished,372258.06
+2519,3,2,Green Valley,30,1,1,Yes,Semi-Furnished,539344.86
+2501,4,2,Green Valley,36,1,1,Yes,Semi-Furnished,562684.9
+1142,1,1,Metro Corridor,40,2,2,Yes,Semi-Furnished,312741.01
+2508,4,3,Green Valley,40,3,2,Yes,Furnished,565252.06
+3344,5,4,Green Valley,33,1,1,Yes,Semi-Furnished,737350.37
+1153,2,1,Metro Corridor,33,2,2,Yes,Furnished,380207.33
+1252,2,2,Downtown,2,0,1,Yes,Furnished,541978.33
+2716,3,3,Suburban Heights,16,0,1,Yes,Unfurnished,744695.59
+2015,3,1,Suburban Heights,13,1,1,Yes,Furnished,590867.48
+2254,4,3,Downtown,13,1,2,No,Furnished,904180.81
+2071,3,2,Metro Corridor,37,2,1,Yes,Furnished,530339.45
+2113,4,3,Downtown,34,1,1,No,Unfurnished,809776.79
+1063,2,1,Suburban Heights,0,1,2,Yes,Furnished,462516.94
+2748,5,3,Downtown,28,1,1,Yes,Semi-Furnished,982901.92
+2886,5,3,Suburban Heights,3,1,2,Yes,Furnished,941148.61
+1649,3,2,West Hills,32,2,2,Yes,Unfurnished,542108.52
+1776,4,3,West Hills,16,1,2,Yes,Unfurnished,665686.69
+980,2,1,Suburban Heights,27,1,1,No,Semi-Furnished,325326.41
+2220,3,2,West Hills,25,2,2,No,Unfurnished,714747.63
+2272,3,2,West Hills,7,1,2,Yes,Semi-Furnished,783974.39
+1763,3,2,Metro Corridor,33,2,1,Yes,Unfurnished,471507.14
+2834,4,3,Waterfront Bay,17,0,1,Yes,Unfurnished,1074682.4
+1581,2,1,Downtown,30,1,2,Yes,Furnished,627617.71
+2266,4,3,Downtown,26,3,1,No,Semi-Furnished,903008.34
+1202,1,1,Metro Corridor,15,2,3,Yes,Unfurnished,360488.82
+1791,4,3,Suburban Heights,9,1,2,No,Semi-Furnished,643794.33
+1686,3,2,Downtown,39,2,1,Yes,Unfurnished,642498.09
+1978,3,2,Downtown,11,3,1,Yes,Semi-Furnished,796350.27
+1559,3,2,Metro Corridor,21,1,3,Yes,Semi-Furnished,724771.99
+1715,3,2,West Hills,15,0,1,Yes,Semi-Furnished,566795.66
+2515,5,3,Suburban Heights,11,1,2,Yes,Unfurnished,773824.62
+1518,3,1,West Hills,10,0,1,Yes,Semi-Furnished,526459.02
+950,1,1,Downtown,19,1,2,Yes,Furnished,432693.76
+3640,5,4,Waterfront Bay,0,2,2,Yes,Semi-Furnished,1480436.42
+3141,5,4,Suburban Heights,26,0,1,Yes,Unfurnished,885590.66
+1078,2,1,Waterfront Bay,2,2,1,Yes,Semi-Furnished,544977.84
+2382,3,2,Metro Corridor,11,1,2,Yes,Furnished,619258.61
+1478,3,1,West Hills,29,1,3,No,Furnished,542670.63
+2009,4,4,West Hills,8,2,1,Yes,Unfurnished,799263.12
+2033,3,2,Waterfront Bay,36,1,2,Yes,Furnished,817435.69
+1646,2,1,Waterfront Bay,0,0,1,Yes,Semi-Furnished,699982.96
+1321,2,2,Waterfront Bay,41,0,2,No,Furnished,492783.67
+1371,2,1,West Hills,3,2,2,Yes,Furnished,526740.22
+1253,2,1,Suburban Heights,14,1,1,Yes,Semi-Furnished,401076.21
+1296,3,2,Suburban Heights,26,0,1,Yes,Furnished,438901.38
+1760,3,2,West Hills,7,3,1,No,Unfurnished,667334.75
+1357,3,3,Green Valley,22,3,2,Yes,Semi-Furnished,411686.42
+2375,4,2,Downtown,14,1,1,Yes,Semi-Furnished,857831.0
+3277,4,2,Downtown,26,0,1,Yes,Semi-Furnished,1091129.66
+1433,2,1,Downtown,30,2,3,Yes,Unfurnished,525873.18
+1989,4,3,West Hills,38,2,2,No,Semi-Furnished,728095.27
+2208,3,2,Downtown,7,0,2,Yes,Furnished,840441.35
+2183,4,2,West Hills,29,0,1,No,Furnished,665188.57
+1863,3,2,West Hills,41,2,1,Yes,Semi-Furnished,581786.78
+2433,3,2,Waterfront Bay,17,3,1,Yes,Unfurnished,971946.79
+2192,3,2,Downtown,3,2,2,No,Semi-Furnished,872541.92
+1102,2,1,Suburban Heights,21,1,2,Yes,Furnished,394929.55
+2559,4,4,Downtown,2,1,2,Yes,Semi-Furnished,1076829.58
+2578,4,2,Downtown,14,2,1,Yes,Semi-Furnished,978075.97
+1332,1,1,Suburban Heights,34,0,1,No,Semi-Furnished,350108.88
+1835,3,2,West Hills,37,1,3,Yes,Furnished,669842.44
+2376,3,2,Downtown,32,1,1,Yes,Furnished,807425.65
+1662,3,2,West Hills,13,1,1,Yes,Furnished,644949.86
+2777,5,4,Waterfront Bay,0,1,1,No,Furnished,1290363.67
+4654,5,3,West Hills,25,2,2,Yes,Unfurnished,1390792.54
+1320,1,1,Metro Corridor,7,2,2,Yes,Furnished,400970.38
+1040,1,1,Metro Corridor,15,2,1,Yes,Semi-Furnished,307028.14
+2041,2,1,Suburban Heights,37,2,1,No,Semi-Furnished,521971.29
+2412,3,3,Suburban Heights,9,1,2,No,Semi-Furnished,744027.89
+1648,3,1,Metro Corridor,41,1,3,Yes,Unfurnished,418745.23
+3233,5,4,Downtown,36,1,1,Yes,Semi-Furnished,1106329.27
+1058,2,2,West Hills,25,0,2,Yes,Unfurnished,430349.29
+2385,2,1,Metro Corridor,27,2,1,Yes,Furnished,586564.97
+1418,1,1,Suburban Heights,11,0,1,Yes,Furnished,404479.76
+3596,5,4,Suburban Heights,19,1,1,Yes,Furnished,1056535.27
+4011,5,3,West Hills,13,1,1,Yes,Furnished,1237327.17
+1330,2,1,Downtown,34,1,1,Yes,Semi-Furnished,494088.09
+1451,3,2,Suburban Heights,28,2,3,No,Unfurnished,496084.31
+2549,5,3,Waterfront Bay,11,1,1,Yes,Furnished,1112991.25
+1548,2,2,Downtown,17,1,1,Yes,Unfurnished,585512.36
+1775,3,2,Downtown,1,1,1,Yes,Semi-Furnished,748015.68
+1826,3,2,Suburban Heights,1,2,2,Yes,Semi-Furnished,631684.33
+838,3,3,Downtown,16,1,3,Yes,Furnished,559716.27
+1798,2,1,West Hills,9,1,1,Yes,Furnished,599080.11
+1372,3,2,Suburban Heights,17,1,1,Yes,Unfurnished,472564.45
+1484,2,1,Downtown,21,0,1,Yes,Furnished,541690.52
+3221,5,4,Waterfront Bay,18,1,2,No,Unfurnished,1250505.87
+1093,1,1,Downtown,0,2,1,Yes,Semi-Furnished,513959.65
+2503,4,3,Suburban Heights,23,2,2,Yes,Unfurnished,472358.91
+1617,3,2,Waterfront Bay,35,2,2,No,Semi-Furnished,707317.02
+1616,4,4,West Hills,24,0,2,Yes,Furnished,671414.8
+2480,4,1,Waterfront Bay,35,1,1,Yes,Semi-Furnished,910942.86
+2071,3,2,Suburban Heights,30,0,1,Yes,Furnished,573241.03
