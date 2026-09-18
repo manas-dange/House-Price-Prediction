@@ -9,7 +9,7 @@
 **Submitted by: Group 3**  
 **Course Code / Name**: Machine Learning Fundamentals (Sem 5)  
 **Academic Year**: 2026  
-**Repository**: `HousePricePredictionGroup3`  
+**Repository**: `House-Price-Prediction`  
 **Deployment URL**: `http://localhost:8501` (Streamlit Local Interface)
 
 ---

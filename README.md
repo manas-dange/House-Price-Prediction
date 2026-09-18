@@ -106,7 +106,7 @@ Open **`http://localhost:8501`** in your browser. The interface automatically ad
 ## 📁 5. Repository File Structure
 
 ```
-HousePricePredictionGroup3/
+House-Price-Prediction/
 │
 ├── Group3_House_Price_Prediction.ipynb  # Master end-to-end executed Jupyter Notebook
 ├── app.py                             # Theme-adaptive interactive Streamlit web app
